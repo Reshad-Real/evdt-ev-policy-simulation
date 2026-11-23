@@ -1,0 +1,35 @@
+parameter,Least-developed,Developing (BD),Developed (DE)
+population_million,62.0,173.0,84.0
+vehicle_stock_million,1.4,6.3,57.49
+vehicle_stock_growth,0.061,0.072,0.004
+base_ev_share,0.004,0.0001,0.0411
+segment_shares,"{'two_wheeler': 0.44, 'three_wheeler': 0.26, 'passenger_car': 0.16, 'light_commercial': 0.1, 'bus': 0.04}","{'two_wheeler': 0.745, 'three_wheeler': 0.058, 'passenger_car': 0.11, 'light_commercial': 0.072, 'bus': 0.015}","{'two_wheeler': 0.088, 'three_wheeler': 0.0, 'passenger_car': 0.8585, 'light_commercial': 0.052, 'bus': 0.0015}"
+segment_overrides,"{'two_wheeler': {'purchase_price': 770.0, 'ice_price': 960.0, 'maintenance_ev': 0.004, 'maintenance_ice': 0.0074}, 'three_wheeler': {'purchase_price': 2620.0, 'ice_price': 2424.0, 'maintenance_ev': 0.0035, 'maintenance_ice': 0.0053}, 'passenger_car': {'purchase_price': 23565.0, 'ice_price': 30971.0, 'maintenance_ev': 0.0017, 'maintenance_ice': 0.0029}, 'light_commercial': {'purchase_price': 48118.0, 'ice_price': 50059.0, 'maintenance_ev': 0.0017, 'maintenance_ice': 0.0029, 'fuel': 'diesel'}, 'bus': {'maintenance_ev': 0.092, 'maintenance_ice': 0.229}}","{'two_wheeler': {'annual_km': 9500.0, 'ice_l_per_100km': 2.0, 'purchase_price': 775.0, 'ice_price': 960.0, 'maintenance_ev': 0.002, 'maintenance_ice': 0.0045}, 'three_wheeler': {'annual_km': 27400.0, 'fuel': 'cng', 'purchase_price': 2631.0, 'ice_price': 2771.0, 'maintenance_ev': 0.0035, 'maintenance_ice': 0.006}, 'passenger_car': {'purchase_price': 23781.0, 'ice_price': 30971.0, 'maintenance_ev': 0.0017, 'maintenance_ice': 0.0029}, 'light_commercial': {'purchase_price': 48275.0, 'ice_price': 50059.0, 'maintenance_ev': 0.0017, 'maintenance_ice': 0.0029}, 'bus': {'maintenance_ev': 0.092, 'maintenance_ice': 0.229}}","{'passenger_car': {'annual_km': 10616.0, 'ice_l_per_100km': 7.4, 'purchase_price': 24123.0, 'ice_price': 30971.0, 'maintenance_ev': 0.036, 'maintenance_ice': 0.048}, 'light_commercial': {'annual_km': 18355.0, 'ice_l_per_100km': 8.2, 'purchase_price': 48540.0, 'ice_price': 50059.0, 'maintenance_ev': 0.064, 'maintenance_ice': 0.068}, 'two_wheeler': {'annual_km': 2172.0, 'ice_l_per_100km': 4.5}, 'bus': {'annual_km': 55346.0, 'ice_l_per_100km': 43.6, 'purchase_price': 621187.0, 'ice_price': 350300.0, 'maintenance_ev': 0.19, 'maintenance_ice': 0.26}}"
+grid_emission_factor,0.345,0.696,0.33
+grid_emission_trend,0.985,0.988,0.955
+renewable_share,0.22,0.045,0.42
+grid_availability,0.88,0.955,0.9993
+network_losses,0.19,0.101,0.052
+electricity_price,0.115,0.079,0.41
+industrial_price,0.062,0.088,0.199
+fuel_price,1.08,1.01,1.91
+fuel_price_ratio,"{'gasoline': 1.0, 'diesel': 1.009}","{'gasoline': 1.0, 'diesel': 0.837, 'cng': 0.327}","{'gasoline': 1.0, 'diesel': 0.953}"
+health_cost_per_litre,"{'gasoline': 0.0045, 'diesel': 0.0139}","{'gasoline': 0.123, 'diesel': 0.254, 'cng': 0.123}","{'gasoline': 0.07, 'diesel': 0.45}"
+discount_rate,0.1,0.1,0.017
+wacc,0.1,0.115,0.055
+social_carbon_price,45.0,45.0,325.0
+value_of_lost_load,0.18,0.5,13.25
+value_of_time,0.45,0.95,24.0
+import_duty,0.2,0.37,0.06
+charger_cost_mult,1.0,1.0,1.7
+charger_density_base,1.5,3.0,14.0
+wbg_share_base,0.02,0.05,0.26
+bass_p,0.000451251164508927,0.000451251164508927,1.0000000000000254e-06
+bass_q,0.1906939250838728,0.1906939250838728,0.4168310269663316
+market_potential,0.55,0.72,0.95
+fleet_lifetime_y,18.0,12.0,16.0
+base_sales_share,None,None,0.191
+price_elasticity,1.7617118618105947,1.7617118618105947,3.333659770949376
+parity_ref,1.514276290892776,1.2326418381079947,1.2130148063164699
+adequacy_ref,0.07142857142857142,0.10714285714285714,0.5
+drive_cycles,"{'passenger_car': 'wltc3b:low+medium', 'light_commercial': 'wltc3b:low+medium', 'two_wheeler': 'idc', 'three_wheeler': 'idc'}","{'passenger_car': 'wltc3b:low+medium', 'light_commercial': 'wltc3b:low+medium', 'two_wheeler': 'idc', 'three_wheeler': 'idc'}","{'passenger_car': 'wltc3b', 'light_commercial': 'wltc3b', 'two_wheeler': 'wmtc_class2-2'}"

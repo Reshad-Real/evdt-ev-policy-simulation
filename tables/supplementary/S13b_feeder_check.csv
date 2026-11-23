@@ -1,0 +1,8 @@
+feeder,base_kv,load_kw,losses_kw,v_min_pu,published_losses_kw,published_v_min_pu,source
+ieee33,12.66,3715.0,202.6771,0.9131,202.67,0.9131,Baran and Wu (1989)
+ieee69,12.66,3802.1,224.9917,0.9092,225.0,0.9092,Baran and Wu (1989); Das (2008)
+in_rural28,11.0,761.04,68.8195,0.9125,68.82,0.9123,"Das, Nagi and Kothari (1994)"
+ieee34_mv,33.0,4500.0,585.2272,0.8621,,0.862,Tanzanian 33 kV feeder (calibration target)
+simbench_mv_urban,10.0,49707.0,341.1829,0.9764,,,"SimBench 1-MV-urban--0-sw (Meinecke et al., Energies 2020)"
+simbench_mv_semiurb,20.0,31640.0,447.8195,0.9509,,,SimBench 1-MV-semiurb--0-sw
+simbench_mv_rural,20.0,17256.0,357.9496,0.9438,,,SimBench 1-MV-rural--0-sw

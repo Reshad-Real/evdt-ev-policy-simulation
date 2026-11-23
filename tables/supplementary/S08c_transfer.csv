@@ -1,0 +1,5 @@
+country,years,beta_without,p_mean_without,q_mean_without,mape,rmse_log,predicted_last,observed_last
+India,2019-2025,1.8687,0.0096,0.0939,1.6951,1.0097,0.0438,0.0631
+Indonesia,2021-2025,1.6304,0.0002,0.4016,0.5267,0.7863,0.0053,0.0086
+Kenya,2023-2025,1.8204,0.0001,0.1675,0.9758,3.7795,0.0016,0.1046
+"Vietnam (check, no incentive)",2020-2024,1.7617,0.0005,0.1907,0.2024,0.2355,0.1162,0.1

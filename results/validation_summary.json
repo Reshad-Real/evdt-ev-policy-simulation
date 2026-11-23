@@ -1,0 +1,31 @@
+{
+ "ieee33": {
+  "losses_kw": 202.6771264233848,
+  "v_min_pu": 0.9130904793688801,
+  "v_min_bus": 18,
+  "published_losses_kw": 202.67,
+  "published_v_min_pu": 0.9131,
+  "losses_relative_error": 3.51626949465549e-05,
+  "v_min_abs_error_pu": 9.520631119919187e-06
+ },
+ "power_flow_lookup_max_voltage_error_pu": 4.4219904349329653e-07,
+ "energy_balance_max_relative_residual": 1.2379460801015154e-16,
+ "power_flow_max_voltage_difference_pu": 2.6205915215626874e-08,
+ "power_flow_max_relative_balance_residual": 4.4814377011531695e-09,
+ "queue_max_relative_error": 0.02105176478552502,
+ "forecast_r2_mean": 0.9796350574464325,
+ "forecast_mape_mean": 0.01961781904649279,
+ "ekf": {
+  "soc_mae": 0.007214659504374212,
+  "soc_rmse": 0.008588741982396807,
+  "soc_max_abs": 0.03458084629758318,
+  "soc_final_abs": 0.017452207575344048,
+  "r0_mae": 0.0006636437645406431,
+  "r0_rmse": 0.000698070222117892,
+  "initial_offset": 0.01,
+  "n_steps": 1400
+ },
+ "plausibility_pass": 14,
+ "plausibility_total": 15,
+ "runtime_s": 103.49324089998845
+}

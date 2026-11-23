@@ -1,0 +1,211 @@
+{
+    "_comment": "Data sources that have no Crossref record (statistics portals, agency reports, dataset pages). Each record was checked against the cited page during the revision (November 2026); the access date is printed in the reference. add_revision_refs.py merges them into refs.json and ieee_source.json with type 'online' or 'report'.",
+    "kba-bestand": {
+        "type": "online",
+        "org": "Kraftfahrt-Bundesamt",
+        "title": "Fahrzeugbestand: Zeitreihen Umwelt 2013-2024 and press releases on the stock on 1 January 2025 and 2026",
+        "year": 2026,
+        "place": "Flensburg, Germany",
+        "url": "https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/Umwelt/2024/2024_b_umwelt_zeitreihen.html"
+    },
+    "kba-nz": {
+        "type": "online",
+        "org": "Kraftfahrt-Bundesamt",
+        "title": "Fahrzeugzulassungen im Dezember - Jahresbilanz, press releases 2015-2026",
+        "year": 2026,
+        "place": "Flensburg, Germany",
+        "url": "https://www.kba.de/DE/Presse/Pressemitteilungen/Fahrzeugzulassungen/2026/pm01_2026_n_12_25_pm_komplett.html"
+    },
+    "bafa-ub": {
+        "type": "online",
+        "org": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+        "title": "Elektromobilität: Umweltbonus endet mit Ablauf des 17. Dezember 2023",
+        "year": 2023,
+        "place": "Eschborn, Germany",
+        "url": "https://www.bafa.de/SharedDocs/Kurzmeldungen/DE/Energie/Elektromobilitaet/20231216_foerderende.html"
+    },
+    "pib-fame": {
+        "type": "online",
+        "org": "Press Information Bureau, Government of India",
+        "title": "Incentives under the FAME-II scheme for electric two-wheelers",
+        "year": 2023,
+        "place": "New Delhi, India",
+        "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1987802"
+    },
+    "kba-vk": {
+        "type": "online",
+        "org": "Kraftfahrt-Bundesamt",
+        "title": "Verkehr in Kilometern der deutschen Kraftfahrzeuge 2025: Kurzbericht",
+        "year": 2026,
+        "place": "Flensburg, Germany",
+        "url": "https://www.kba.de/DE/Statistik/Kraftverkehr/VerkehrKilometer/vk_inlaenderfahrleistung/2025/2025_vk_kurzbericht.html"
+    },
+    "eurostat-ghg": {
+        "type": "online",
+        "org": "Eurostat",
+        "title": "Greenhouse gas emissions by source sector (env_air_gge), UNFCCC CRF categories 1.A.3.b",
+        "year": 2026,
+        "place": "Luxembourg",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/env_air_gge/default/table"
+    },
+    "climate-watch": {
+        "type": "online",
+        "org": "Climate Watch",
+        "title": "Historical GHG emissions: transport CO2 by country, via Our World in Data",
+        "year": 2026,
+        "place": "Washington, DC, USA",
+        "url": "https://ourworldindata.org/grapher/co-emissions-by-sector"
+    },
+    "ember-ci": {
+        "type": "online",
+        "org": "Ember",
+        "title": "Carbon intensity of electricity generation, via Our World in Data",
+        "year": 2026,
+        "place": "London, U.K.",
+        "url": "https://ourworldindata.org/grapher/carbon-intensity-electricity"
+    },
+    "brta-2024": {
+        "type": "online",
+        "org": "Bangladesh Road Transport Authority",
+        "title": "Number of registered motor vehicles in Bangladesh (January 2024)",
+        "year": 2024,
+        "place": "Dhaka, Bangladesh",
+        "url": "https://brta.gov.bd/"
+    },
+    "epa-ef": {
+        "type": "report",
+        "org": "U.S. Environmental Protection Agency",
+        "title": "GHG emission factors hub",
+        "year": 2025,
+        "place": "Washington, DC, USA",
+        "number": "Jan. 2025",
+        "url": "https://www.epa.gov/system/files/documents/2025-01/ghg-emission-factors-hub-2025.pdf"
+    },
+    "jec-wtw": {
+        "type": "report",
+        "authors": [
+            {
+                "given": "M.",
+                "family": "Prussi"
+            },
+            {
+                "given": "M.",
+                "family": "Yugo"
+            },
+            {
+                "given": "L.",
+                "family": "De Prada"
+            },
+            {
+                "given": "M.",
+                "family": "Padella"
+            },
+            {
+                "given": "R.",
+                "family": "Edwards"
+            }
+        ],
+        "org": "Publications Office of the European Union",
+        "title": "JEC well-to-wheels report v5",
+        "year": 2020,
+        "place": "Luxembourg",
+        "number": "EUR 30284 EN",
+        "doi": "10.2760/100379"
+    },
+    "iea-gevo-2024": {
+        "type": "report",
+        "org": "International Energy Agency",
+        "title": "Global EV Outlook 2024",
+        "year": 2024,
+        "place": "Paris, France",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2024"
+    },
+    "iea-gevo-2025": {
+        "type": "report",
+        "org": "International Energy Agency",
+        "title": "Global EV Outlook 2025",
+        "year": 2025,
+        "place": "Paris, France",
+        "url": "https://www.iea.org/reports/global-ev-outlook-2025"
+    },
+    "icct-2w": {
+        "type": "report",
+        "org": "International Council on Clean Transportation",
+        "title": "Electric two-wheeler market growth in India: Insights from FY 2020-21",
+        "year": 2021,
+        "place": "Washington, DC, USA",
+        "number": "Working paper",
+        "url": "https://theicct.org/sites/default/files/publications/2W-sales-India-wp-FINAL-dec21.pdf"
+    },
+    "doe-amr-ornl": {
+        "type": "online",
+        "authors": [
+            {
+                "given": "T.",
+                "family": "Burress"
+            }
+        ],
+        "org": "U.S. Department of Energy Vehicle Technologies Office",
+        "title": "Benchmarking EV and HEV power electronics and electric machines (2012 Nissan LEAF, 2014 Honda Accord), Annual Merit Review presentations APE006 and EDT006",
+        "year": 2016,
+        "place": "Washington, DC, USA",
+        "url": "https://www.energy.gov/sites/prod/files/2016/06/f32/edt006_burress_2016_o_web.pdf"
+    },
+    "fe-2023": {
+        "type": "online",
+        "org": "The Financial Express",
+        "title": "Electric vehicle registration policy takes effect",
+        "year": 2023,
+        "place": "Dhaka, Bangladesh",
+        "url": "https://thefinancialexpress.com.bd/trade/electric-vehicle-reg-policy-takes-effect"
+    },
+    "infineon-hpd": {
+        "type": "online",
+        "org": "Infineon Technologies AG",
+        "title": "HybridPACK Drive power modules FS820R08A6P2B, FS380R12A6T4B, FS01MR08A8MA2C and FS03MR12A6MA1B: final datasheets",
+        "year": 2025,
+        "place": "Neubiberg, Germany",
+        "url": "https://www.infineon.com/products/power/mosfet/silicon-carbide/modules"
+    },
+    "transphorm-gan": {
+        "type": "online",
+        "org": "Transphorm (Renesas Electronics)",
+        "title": "TP65H035G4WS 650 V SuperGaN GaN FET in TO-247: datasheet",
+        "year": 2024,
+        "place": "Goleta, CA, USA",
+        "url": "https://www.renesas.com/en/products/tp65h035g4ws"
+    },
+    "unece-gtr15": {
+        "type": "report",
+        "org": "United Nations Economic Commission for Europe",
+        "title": "Global technical regulation No. 15: Worldwide harmonized Light vehicles Test Procedure (WLTP), ECE/TRANS/180/Add.15",
+        "year": 2014,
+        "place": "Geneva, Switzerland",
+        "url": "https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs"
+    },
+    "arai-idc": {
+        "type": "report",
+        "org": "Automotive Research Association of India",
+        "title": "MoRTH/CMVR/TAP-115/116, Part XIII, Chapter 3: Indian driving cycle",
+        "year": 2017,
+        "place": "Pune, India",
+        "url": "https://www.araiindia.com/CMVR_TAP_Documents/Part-13/Part-13_Chapter03.pdf"
+    },
+    "uba-mk32": {
+        "type": "report",
+        "org": "Umweltbundesamt",
+        "title": "Methodological convention 3.2 for the assessment of environmental costs: value factors",
+        "year": 2024,
+        "place": "Dessau-Rosslau, Germany",
+        "url": "https://www.umweltbundesamt.de/system/files/medien/479/publikationen/methodological_convention_3_2_value_factors_bf.pdf"
+    },
+    "bmwk-umweltbonus-2022": {
+        "type": "report",
+        "org": "Bundesministerium für Wirtschaft und Klimaschutz",
+        "title": "Richtlinie zur Förderung des Absatzes von elektrisch betriebenen Fahrzeugen (Umweltbonus)",
+        "year": 2022,
+        "place": "Berlin, Germany",
+        "number": "BAnz AT 09.12.2022 B1",
+        "url": "https://www.bundesanzeiger.de/pub/publication/JTwUaZXEaXb7u0J5Ccc/content/JTwUaZXEaXb7u0J5Ccc/BAnz%20AT%2009.12.2022%20B1.pdf"
+    }
+}

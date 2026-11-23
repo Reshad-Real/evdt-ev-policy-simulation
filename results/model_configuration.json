@@ -1,0 +1,1159 @@
+{
+ "library": {
+  "devices": {
+   "Si-IGBT": {
+    "name": "Infineon FS820R08A6P2B (750 V / 450 A)",
+    "technology": "Si-IGBT",
+    "v_rating": 750.0,
+    "i_rating": 450.0,
+    "r_on_25": 0.0,
+    "r_on_tc": 0.0,
+    "v_ce0": 0.5883893203883493,
+    "r_ce": 0.0012620485436893216,
+    "e_on": 0.0135,
+    "e_off": 0.0235,
+    "e_rr": 0.007,
+    "v_ref": 400.0,
+    "i_ref": 450.0,
+    "i_exponent": 1.510219234200607,
+    "e_tc": 0.002818181818181818,
+    "r_th_jc": 0.12,
+    "f_sw_max": 12000.0,
+    "cost_per_a": 0.055,
+    "activation_energy": 0.3,
+    "pc_coefficient": 370000000.0,
+    "pc_exponent": 4.3,
+    "trl": 9,
+    "e_offset_fraction": 0.5423871081651574,
+    "v_f0": 0.7023291262135918,
+    "r_f": 0.0014057766990291272,
+    "v_sd": 0.0,
+    "source": "FS820R08A6P2B datasheet; switching-energy shape from FS820R08A6P2B",
+    "rth_to_fluid": true
+   },
+   "Si-MOSFET": {
+    "name": "Infineon IPDQ65R017CFD7A (650 V / 86 A)",
+    "technology": "Si-MOSFET",
+    "v_rating": 650.0,
+    "i_rating": 86.0,
+    "r_on_25": 0.014,
+    "r_on_tc": 0.009714285714285715,
+    "v_ce0": 0.0,
+    "r_ce": 0.0,
+    "e_on": 0.0006851191194209891,
+    "e_off": 7.237442702050664e-05,
+    "e_rr": 0.0014686369119420988,
+    "v_ref": 400.0,
+    "i_ref": 61.6,
+    "i_exponent": 1.0,
+    "e_tc": 0.0015,
+    "r_th_jc": 0.18,
+    "f_sw_max": 100000.0,
+    "cost_per_a": 0.075,
+    "activation_energy": 0.32,
+    "pc_coefficient": 320000000.0,
+    "pc_exponent": 4.2,
+    "trl": 9,
+    "e_offset_fraction": 0.683014685508451,
+    "v_f0": 0.0,
+    "r_f": 0.0,
+    "v_sd": 1.0,
+    "source": "IPDQ65R017CFD7A datasheet tables (conduction, reverse conduction, thermal); switching energies estimated from switching times, output-charge energy and recovery charge, x 1.47 (calibrated on IMZA120R022M2H)",
+    "rth_to_fluid": false
+   },
+   "SiC-MOSFET": {
+    "name": "Infineon FS01MR08A8MA2C (750 V / 620 A)",
+    "technology": "SiC-MOSFET",
+    "v_rating": 750.0,
+    "i_rating": 620.0,
+    "r_on_25": 0.00103,
+    "r_on_tc": 0.004983818770226536,
+    "v_ce0": 0.0,
+    "r_ce": 0.0,
+    "e_on": 0.027600000000000003,
+    "e_off": 0.0229,
+    "e_rr": 0.00031,
+    "v_ref": 470.0,
+    "i_ref": 620.0,
+    "i_exponent": 1.2661144730490494,
+    "e_tc": 7.347634979990876e-05,
+    "r_th_jc": 0.107,
+    "f_sw_max": 100000.0,
+    "cost_per_a": 0.185,
+    "activation_energy": 0.36,
+    "pc_coefficient": 175000000.0,
+    "pc_exponent": 4.05,
+    "trl": 9,
+    "e_offset_fraction": 0.13900079861719591,
+    "v_f0": 0.0,
+    "r_f": 0.0,
+    "v_sd": 4.09,
+    "source": "FS01MR08A8MA2C datasheet; switching-energy shape from FS02MR08A7MA2B",
+    "rth_to_fluid": true
+   },
+   "GaN-HEMT": {
+    "name": "Transphorm (now Renesas) TP65H035G4WS (650 V / 46 A)",
+    "technology": "GaN-HEMT",
+    "v_rating": 650.0,
+    "i_rating": 46.0,
+    "r_on_25": 0.035,
+    "r_on_tc": 0.00845714285714286,
+    "v_ce0": 0.0,
+    "r_ce": 0.0,
+    "e_on": 0.000175,
+    "e_off": 6.3e-05,
+    "e_rr": 0.0,
+    "v_ref": 400.0,
+    "i_ref": 32.0,
+    "i_exponent": 2.499999999999609,
+    "e_tc": 0.0006,
+    "r_th_jc": 0.8,
+    "f_sw_max": 500000.0,
+    "cost_per_a": 0.24,
+    "activation_energy": 0.4,
+    "pc_coefficient": 13000000.0,
+    "pc_exponent": 3.85,
+    "trl": 8,
+    "e_offset_fraction": 0.6902466981412624,
+    "v_f0": 0.0,
+    "r_f": 0.0,
+    "v_sd": 1.8,
+    "source": "TP65H035G4WS datasheet; switching-energy shape from TP65H035G4WS; E_tc prior (25 C data only)",
+    "rth_to_fluid": false
+   }
+  },
+  "batteries": {
+   "NMC": {
+    "chemistry": "NMC",
+    "nominal_voltage": 400.0,
+    "capacity_kwh": 50.0,
+    "cell_series": 96,
+    "cell_parallel": 3,
+    "r_internal_25": 0.075,
+    "r_temp_coeff": -0.011,
+    "coulombic_efficiency": 0.995,
+    "calendar_a": 255000.0,
+    "calendar_ea": 49500.0,
+    "calendar_soc_beta": 1.05,
+    "cycle_b": 0.00142,
+    "cycle_z": 0.58,
+    "cycle_dod_gamma": 0.72,
+    "cycle_crate_delta": 0.24,
+    "cycle_ea": 24000.0,
+    "eol_soh": 0.8,
+    "specific_cost": 118.0,
+    "recycling_value": 22.0
+   },
+   "LFP": {
+    "chemistry": "LFP",
+    "nominal_voltage": 400.0,
+    "capacity_kwh": 50.0,
+    "cell_series": 110,
+    "cell_parallel": 3,
+    "r_internal_25": 0.092,
+    "r_temp_coeff": -0.013,
+    "coulombic_efficiency": 0.997,
+    "calendar_a": 148000.0,
+    "calendar_ea": 51500.0,
+    "calendar_soc_beta": 0.72,
+    "cycle_b": 0.00092,
+    "cycle_z": 0.55,
+    "cycle_dod_gamma": 0.55,
+    "cycle_crate_delta": 0.19,
+    "cycle_ea": 26000.0,
+    "eol_soh": 0.8,
+    "specific_cost": 98.0,
+    "recycling_value": 13.0
+   }
+  },
+  "vehicles": {
+   "two_wheeler": {
+    "name": "Electric two-wheeler",
+    "mass": 185.0,
+    "frontal_area": 0.62,
+    "drag_coefficient": 0.85,
+    "rolling_resistance": 0.014,
+    "drivetrain_efficiency": 0.93,
+    "motor_peak_power": 4000.0,
+    "battery_kwh": 3.2,
+    "battery_chemistry": "LFP",
+    "auxiliary_power": 60.0,
+    "hvac_peak_power": 0.0,
+    "annual_km": 9500.0,
+    "mean_trip_km": 9.0,
+    "trips_per_day": 3.2,
+    "obc_power": 1500.0,
+    "dc_capable": false,
+    "dc_power_max": 0.0,
+    "v2g_capable_default": false,
+    "purchase_price": 760.0,
+    "ice_price": 1150.0,
+    "ice_l_per_100km": 2.4,
+    "maintenance_ev": 0.006,
+    "maintenance_ice": 0.014,
+    "ownership_years": 7,
+    "fuel": "gasoline",
+    "drive_voltage": 60.0,
+    "motor_efficiency": 0.85
+   },
+   "three_wheeler": {
+    "name": "Electric three-wheeler (paratransit)",
+    "mass": 720.0,
+    "frontal_area": 2.1,
+    "drag_coefficient": 0.72,
+    "rolling_resistance": 0.016,
+    "drivetrain_efficiency": 0.91,
+    "motor_peak_power": 7500.0,
+    "battery_kwh": 8.5,
+    "battery_chemistry": "LFP",
+    "auxiliary_power": 140.0,
+    "hvac_peak_power": 0.0,
+    "annual_km": 32000.0,
+    "mean_trip_km": 6.5,
+    "trips_per_day": 18.0,
+    "obc_power": 3300.0,
+    "dc_capable": false,
+    "dc_power_max": 0.0,
+    "v2g_capable_default": false,
+    "purchase_price": 2150.0,
+    "ice_price": 3250.0,
+    "ice_l_per_100km": 5.1,
+    "maintenance_ev": 0.011,
+    "maintenance_ice": 0.026,
+    "ownership_years": 7,
+    "fuel": "gasoline",
+    "drive_voltage": 60.0,
+    "motor_efficiency": 0.85
+   },
+   "passenger_car": {
+    "name": "Battery-electric passenger car",
+    "mass": 1780.0,
+    "frontal_area": 2.28,
+    "drag_coefficient": 0.28,
+    "rolling_resistance": 0.0092,
+    "drivetrain_efficiency": 0.955,
+    "motor_peak_power": 150000.0,
+    "battery_kwh": 60.0,
+    "battery_chemistry": "NMC",
+    "auxiliary_power": 320.0,
+    "hvac_peak_power": 4200.0,
+    "annual_km": 14500.0,
+    "mean_trip_km": 17.0,
+    "trips_per_day": 2.6,
+    "obc_power": 11000.0,
+    "dc_capable": true,
+    "dc_power_max": 150000.0,
+    "v2g_capable_default": true,
+    "purchase_price": 17800.0,
+    "ice_price": 21500.0,
+    "ice_l_per_100km": 7.4,
+    "maintenance_ev": 0.03,
+    "maintenance_ice": 0.062,
+    "ownership_years": 10,
+    "fuel": "gasoline",
+    "drive_voltage": 400.0,
+    "motor_efficiency": 0.9
+   },
+   "light_commercial": {
+    "name": "Electric light commercial vehicle",
+    "mass": 2650.0,
+    "frontal_area": 3.6,
+    "drag_coefficient": 0.33,
+    "rolling_resistance": 0.0105,
+    "drivetrain_efficiency": 0.945,
+    "motor_peak_power": 120000.0,
+    "battery_kwh": 72.0,
+    "battery_chemistry": "LFP",
+    "auxiliary_power": 380.0,
+    "hvac_peak_power": 4800.0,
+    "annual_km": 38000.0,
+    "mean_trip_km": 24.0,
+    "trips_per_day": 6.0,
+    "obc_power": 11000.0,
+    "dc_capable": true,
+    "dc_power_max": 120000.0,
+    "v2g_capable_default": true,
+    "purchase_price": 24500.0,
+    "ice_price": 28500.0,
+    "ice_l_per_100km": 9.6,
+    "maintenance_ev": 0.038,
+    "maintenance_ice": 0.079,
+    "ownership_years": 9,
+    "fuel": "diesel",
+    "drive_voltage": 400.0,
+    "motor_efficiency": 0.9
+   },
+   "bus": {
+    "name": "Electric city bus",
+    "mass": 15500.0,
+    "frontal_area": 7.2,
+    "drag_coefficient": 0.62,
+    "rolling_resistance": 0.0072,
+    "drivetrain_efficiency": 0.94,
+    "motor_peak_power": 250000.0,
+    "battery_kwh": 310.0,
+    "battery_chemistry": "LFP",
+    "auxiliary_power": 2100.0,
+    "hvac_peak_power": 18000.0,
+    "annual_km": 62000.0,
+    "mean_trip_km": 14.0,
+    "trips_per_day": 22.0,
+    "obc_power": 22000.0,
+    "dc_capable": true,
+    "dc_power_max": 250000.0,
+    "v2g_capable_default": true,
+    "purchase_price": 192000.0,
+    "ice_price": 205000.0,
+    "ice_l_per_100km": 33.0,
+    "maintenance_ev": 0.19,
+    "maintenance_ice": 0.335,
+    "ownership_years": 12,
+    "fuel": "diesel",
+    "drive_voltage": 650.0,
+    "motor_efficiency": 0.9
+   }
+  },
+  "chargers": {
+   "ac_slow": {
+    "name": "AC slow (residential/kerbside)",
+    "rated_power": 3700.0,
+    "connectors": 1,
+    "coupling": "ac",
+    "standard": "IEC 61851 Mode 2/3",
+    "capex_per_site": 620.0,
+    "opex_fraction": 0.05,
+    "site_civil_cost": 380.0,
+    "utilisation_target": 0.09,
+    "harmonic_current_pu": 0.09
+   },
+   "ac_fast": {
+    "name": "AC semi-fast (workplace/public)",
+    "rated_power": 11000.0,
+    "connectors": 2,
+    "coupling": "ac",
+    "standard": "IEC 61851 Mode 3, Type 2",
+    "capex_per_site": 3900.0,
+    "opex_fraction": 0.06,
+    "site_civil_cost": 2600.0,
+    "utilisation_target": 0.14,
+    "harmonic_current_pu": 0.06
+   },
+   "dc_50": {
+    "name": "DC fast 50 kW",
+    "rated_power": 50000.0,
+    "connectors": 2,
+    "coupling": "dc",
+    "standard": "IEC 61851-23 / CCS2",
+    "capex_per_site": 31000.0,
+    "opex_fraction": 0.075,
+    "site_civil_cost": 18500.0,
+    "utilisation_target": 0.13,
+    "harmonic_current_pu": 0.045
+   },
+   "dc_150": {
+    "name": "DC rapid 150 kW",
+    "rated_power": 150000.0,
+    "connectors": 2,
+    "coupling": "dc",
+    "standard": "CCS2 / high-power charging",
+    "capex_per_site": 78000.0,
+    "opex_fraction": 0.075,
+    "site_civil_cost": 42000.0,
+    "utilisation_target": 0.11,
+    "harmonic_current_pu": 0.035
+   },
+   "dc_350": {
+    "name": "DC ultra-fast 350 kW",
+    "rated_power": 350000.0,
+    "connectors": 2,
+    "coupling": "dc",
+    "standard": "CCS2 HPC / 800 V",
+    "capex_per_site": 168000.0,
+    "opex_fraction": 0.08,
+    "site_civil_cost": 96000.0,
+    "utilisation_target": 0.085,
+    "harmonic_current_pu": 0.03
+   }
+  },
+  "feeder": {
+   "n_nodes": 33,
+   "base_voltage": 11000.0,
+   "base_power": 10000000.0,
+   "r_per_km": 0.22,
+   "x_per_km": 0.14,
+   "mean_branch_km": 0.3,
+   "transformer_mva": 8.0,
+   "transformer_impedance": 0.075,
+   "transformer_no_load_loss": 9500.0,
+   "transformer_load_loss": 48000.0,
+   "hot_spot_rise_rated": 78.0,
+   "ambient_design": 30.0,
+   "voltage_limit_low": 0.94,
+   "voltage_limit_high": 1.06,
+   "thd_limit": 0.05
+  }
+ },
+ "hv_variants": {
+  "Si-IGBT": {
+   "name": "Infineon FS380R12A6T4B (1200 V / 250 A)",
+   "technology": "Si-IGBT",
+   "v_rating": 1200.0,
+   "i_rating": 250.0,
+   "r_on_25": 0.0,
+   "r_on_tc": 0.0,
+   "v_ce0": 0.6772476712328775,
+   "r_ce": 0.005003243835616438,
+   "e_on": 0.019,
+   "e_off": 0.0185,
+   "e_rr": 0.01,
+   "v_ref": 600.0,
+   "i_ref": 250.0,
+   "i_exponent": 2.0496002042747645,
+   "e_tc": 0.005389473684210527,
+   "r_th_jc": 0.1,
+   "f_sw_max": 10000.0,
+   "cost_per_a": 0.07,
+   "activation_energy": 0.3,
+   "pc_coefficient": 370000000.0,
+   "pc_exponent": 4.3,
+   "trl": 9,
+   "e_offset_fraction": 0.6412873765242837,
+   "v_f0": 0.685835342465754,
+   "r_f": 0.0035328876712328776,
+   "v_sd": 0.0,
+   "source": "FS380R12A6T4B datasheet; switching-energy shape from FS380R12A6T4B",
+   "rth_to_fluid": true
+  },
+  "SiC-MOSFET": {
+   "name": "Infineon FS03MR12A6MA1B (1200 V / 400 A)",
+   "technology": "SiC-MOSFET",
+   "v_rating": 1200.0,
+   "i_rating": 400.0,
+   "r_on_25": 0.00275,
+   "r_on_tc": 0.005236363636363638,
+   "v_ce0": 0.0,
+   "r_ce": 0.0,
+   "e_on": 0.01948,
+   "e_off": 0.01761,
+   "e_rr": 0.0014,
+   "v_ref": 600.0,
+   "i_ref": 400.0,
+   "i_exponent": 1.0744047349635535,
+   "e_tc": 0.0009519355676799162,
+   "r_th_jc": 0.1,
+   "f_sw_max": 100000.0,
+   "cost_per_a": 0.185,
+   "activation_energy": 0.36,
+   "pc_coefficient": 175000000.0,
+   "pc_exponent": 4.05,
+   "trl": 9,
+   "e_offset_fraction": 9.046260779588085e-11,
+   "v_f0": 0.0,
+   "r_f": 0.0,
+   "v_sd": 4.16,
+   "source": "FS03MR12A6MA1B datasheet; switching-energy shape from FS03MR12A6MA1B",
+   "rth_to_fluid": true
+  }
+ },
+ "lv_devices": {
+  "Si-LV": {
+   "name": "Infineon IAUT300N10S5N015 (100 V / 247 A)",
+   "technology": "Si-LV",
+   "v_rating": 100.0,
+   "i_rating": 247.0,
+   "r_on_25": 0.0013000000000000002,
+   "r_on_tc": 0.006512820512820511,
+   "v_ce0": 0.0,
+   "r_ce": 0.0,
+   "e_on": 5.859861278648974e-05,
+   "e_off": 0.0001762364294330519,
+   "e_rr": 1.6155006031363086e-05,
+   "v_ref": 50.0,
+   "i_ref": 100.0,
+   "i_exponent": 1.0,
+   "e_tc": 0.0015,
+   "r_th_jc": 0.4,
+   "f_sw_max": 100000.0,
+   "cost_per_a": 0.008,
+   "activation_energy": 0.32,
+   "pc_coefficient": 320000000.0,
+   "pc_exponent": 4.2,
+   "trl": 9,
+   "e_offset_fraction": 0.0784084259801053,
+   "v_f0": 0.0,
+   "r_f": 0.0,
+   "v_sd": 0.9,
+   "source": "IAUT300N10S5N015 datasheet tables (conduction, reverse conduction, thermal); switching energies estimated from switching times, output-charge energy and recovery charge, x 1.47 (calibrated on IMZA120R022M2H); read from figures: rds_on_hot, t_hot",
+   "rth_to_fluid": false
+  },
+  "GaN-LV": {
+   "name": "EPC EPC2302 (100 V / 133 A)",
+   "technology": "GaN-LV",
+   "v_rating": 100.0,
+   "i_rating": 133.0,
+   "r_on_25": 0.0014,
+   "r_on_tc": 0.008342857142857145,
+   "v_ce0": 0.0,
+   "r_ce": 0.0,
+   "e_on": 7.485614630038464e-06,
+   "e_off": 5.741745373816184e-06,
+   "e_rr": 0.0,
+   "v_ref": 50.0,
+   "i_ref": 50.0,
+   "i_exponent": 1.0,
+   "e_tc": 0.0006,
+   "r_th_jc": 0.2,
+   "f_sw_max": 1000000.0,
+   "cost_per_a": 0.03,
+   "activation_energy": 0.4,
+   "pc_coefficient": 13000000.0,
+   "pc_exponent": 3.85,
+   "trl": 8,
+   "e_offset_fraction": 0.18097928579610817,
+   "v_f0": 0.0,
+   "r_f": 0.0,
+   "v_sd": 2.4,
+   "source": "EPC2302 datasheet tables (conduction, reverse conduction, thermal); switching energies estimated from gate charge with 1 ohm external gate resistance, output-charge energy and recovery charge, x 1.47 (calibrated on IMZA120R022M2H); read from figures: rds_on_hot, t_hot, v_plateau, v_sd",
+   "rth_to_fluid": false
+  }
+ },
+ "archetypes": {
+  "underdeveloped": {
+   "key": "underdeveloped",
+   "label": "Least-developed economy",
+   "representative_countries": [
+    "Ethiopia",
+    "United Republic of Tanzania",
+    "Malawi",
+    "Uganda",
+    "Mozambique",
+    "Nepal (rural)"
+   ],
+   "population_million": 62.0,
+   "vehicle_stock_million": 1.4,
+   "segment_shares": {
+    "two_wheeler": 0.44,
+    "three_wheeler": 0.26,
+    "passenger_car": 0.16,
+    "light_commercial": 0.1,
+    "bus": 0.04
+   },
+   "base_ev_share": 0.004,
+   "grid_emission_factor": 0.345,
+   "grid_emission_trend": 0.985,
+   "renewable_share": 0.22,
+   "grid_availability": 0.88,
+   "transformer_headroom": 0.72,
+   "network_losses": 0.19,
+   "electricity_price": 0.115,
+   "industrial_price": 0.062,
+   "fuel_price": 1.08,
+   "ice_consumption": 8.4,
+   "discount_rate": 0.1,
+   "capital_cost_premium": 1.35,
+   "wacc": 0.1,
+   "urban_share": 0.34,
+   "charger_density_base": 1.5,
+   "dc_share_base": 0.05,
+   "wbg_share_base": 0.02,
+   "workforce_index": 0.14,
+   "manufacturing_index": 0.04,
+   "digital_maturity": 0.12,
+   "import_duty": 0.2,
+   "solar_ghi": 5.6,
+   "mean_temperature": 24.5,
+   "temperature_amplitude": 4.5,
+   "diurnal_amplitude": 7.0,
+   "battery_chemistry_pref": "LFP",
+   "value_of_lost_load": 0.18,
+   "value_of_time": 0.45,
+   "social_carbon_price": 45.0,
+   "peak_demand_per_capita_kw": 0.038,
+   "feeder_peak_mw": 4.0,
+   "vehicle_stock_growth": 0.061,
+   "market_potential": 0.55,
+   "bass_p": 0.000451251164508927,
+   "bass_q": 0.1906939250838728,
+   "mean_speed_kmh": 24.0,
+   "maintenance_ev": 0.021,
+   "maintenance_ice": 0.046,
+   "segment_overrides": {
+    "two_wheeler": {
+     "purchase_price": 770.0,
+     "ice_price": 960.0,
+     "maintenance_ev": 0.004,
+     "maintenance_ice": 0.0074
+    },
+    "three_wheeler": {
+     "purchase_price": 2620.0,
+     "ice_price": 2424.0,
+     "maintenance_ev": 0.0035,
+     "maintenance_ice": 0.0053
+    },
+    "passenger_car": {
+     "purchase_price": 23565.0,
+     "ice_price": 30971.0,
+     "maintenance_ev": 0.0017,
+     "maintenance_ice": 0.0029
+    },
+    "light_commercial": {
+     "purchase_price": 48118.0,
+     "ice_price": 50059.0,
+     "maintenance_ev": 0.0017,
+     "maintenance_ice": 0.0029,
+     "fuel": "diesel"
+    },
+    "bus": {
+     "maintenance_ev": 0.092,
+     "maintenance_ice": 0.229
+    }
+   },
+   "parity_ref": 1.514276290892776,
+   "adequacy_ref": 0.07142857142857142,
+   "awareness_ref": 0.25,
+   "fleet_lifetime_y": 18.0,
+   "base_sales_share": null,
+   "price_elasticity": 1.7617118618105947,
+   "reference_path": {
+    "2025": {
+     "parity": 1.514281178209709,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2026": {
+     "parity": 1.5302413960024495,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2027": {
+     "parity": 1.5456990358430485,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2028": {
+     "parity": 1.5607329100727878,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2029": {
+     "parity": 1.575360473239274,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2030": {
+     "parity": 1.5895207866350416,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2031": {
+     "parity": 1.6032601417130685,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2032": {
+     "parity": 1.6166679658261849,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2033": {
+     "parity": 1.6296752019128378,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2034": {
+     "parity": 1.6421686126876616,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2035": {
+     "parity": 1.648759617776007,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2036": {
+     "parity": 1.6508548982833369,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2037": {
+     "parity": 1.6528123103875112,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2038": {
+     "parity": 1.6547537912370187,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2039": {
+     "parity": 1.656739661101955,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    },
+    "2040": {
+     "parity": 1.6587423191216124,
+     "adequacy": 0.07142857142857142,
+     "awareness": 0.25
+    }
+   },
+   "feeder_types": [
+    "FeederType(key='ieee69', label='urban (Dar es Salaam, Addis Ababa)', demand_share=0.448, ev_intensity=1.0, peak_mw=None, z_scale=0.18875, base_kv=11.0, source='IEEE 69-bus at 11 kV, 11 km')",
+    "FeederType(key='ieee33', label='secondary towns', demand_share=0.453, ev_intensity=1.0, peak_mw=None, z_scale=0.5475599999999999, base_kv=15.0, source='IEEE 33-bus at 15 kV, 34 km')",
+    "FeederType(key='ieee34_mv', label='rural 33 kV', demand_share=0.099, ev_intensity=1.0, peak_mw=None, z_scale=0.577, base_kv=33.0, source='IEEE 34-node MV part at 33 kV, calibrated')"
+   ],
+   "fuel_price_ratio": {
+    "gasoline": 1.0,
+    "diesel": 1.009
+   },
+   "health_cost_per_litre": {
+    "gasoline": 0.0045,
+    "diesel": 0.0139
+   },
+   "charger_cost_mult": 1.0,
+   "drive_cycles": {
+    "passenger_car": "wltc3b:low+medium",
+    "light_commercial": "wltc3b:low+medium",
+    "two_wheeler": "idc",
+    "three_wheeler": "idc"
+   },
+   "device_esw_mult": 1.0,
+   "device_ron_mult": 1.0,
+   "adoption_elasticity": 1.0,
+   "fuel_co2_mult": 1.0,
+   "programme_cost_mult": 1.0
+  },
+  "developing": {
+   "key": "developing",
+   "label": "Developing economy (Bangladesh case)",
+   "representative_countries": [
+    "Bangladesh",
+    "India",
+    "Pakistan",
+    "Sri Lanka",
+    "Viet Nam",
+    "Indonesia",
+    "Philippines"
+   ],
+   "population_million": 173.0,
+   "vehicle_stock_million": 6.3,
+   "segment_shares": {
+    "two_wheeler": 0.745,
+    "three_wheeler": 0.058,
+    "passenger_car": 0.11,
+    "light_commercial": 0.072,
+    "bus": 0.015
+   },
+   "base_ev_share": 0.0001,
+   "grid_emission_factor": 0.696,
+   "grid_emission_trend": 0.988,
+   "renewable_share": 0.045,
+   "grid_availability": 0.955,
+   "transformer_headroom": 0.85,
+   "network_losses": 0.101,
+   "electricity_price": 0.079,
+   "industrial_price": 0.088,
+   "fuel_price": 1.01,
+   "ice_consumption": 7.6,
+   "discount_rate": 0.1,
+   "capital_cost_premium": 1.18,
+   "wacc": 0.115,
+   "urban_share": 0.41,
+   "charger_density_base": 3.0,
+   "dc_share_base": 0.1,
+   "wbg_share_base": 0.05,
+   "workforce_index": 0.27,
+   "manufacturing_index": 0.11,
+   "digital_maturity": 0.26,
+   "import_duty": 0.37,
+   "solar_ghi": 4.8,
+   "mean_temperature": 26.2,
+   "temperature_amplitude": 6.0,
+   "diurnal_amplitude": 6.5,
+   "battery_chemistry_pref": "LFP",
+   "value_of_lost_load": 0.5,
+   "value_of_time": 0.95,
+   "social_carbon_price": 45.0,
+   "peak_demand_per_capita_kw": 0.105,
+   "feeder_peak_mw": 5.5,
+   "vehicle_stock_growth": 0.072,
+   "market_potential": 0.72,
+   "bass_p": 0.000451251164508927,
+   "bass_q": 0.1906939250838728,
+   "mean_speed_kmh": 21.0,
+   "maintenance_ev": 0.019,
+   "maintenance_ice": 0.042,
+   "segment_overrides": {
+    "two_wheeler": {
+     "annual_km": 9500.0,
+     "ice_l_per_100km": 2.0,
+     "purchase_price": 775.0,
+     "ice_price": 960.0,
+     "maintenance_ev": 0.002,
+     "maintenance_ice": 0.0045
+    },
+    "three_wheeler": {
+     "annual_km": 27400.0,
+     "fuel": "cng",
+     "purchase_price": 2631.0,
+     "ice_price": 2771.0,
+     "maintenance_ev": 0.0035,
+     "maintenance_ice": 0.006
+    },
+    "passenger_car": {
+     "purchase_price": 23781.0,
+     "ice_price": 30971.0,
+     "maintenance_ev": 0.0017,
+     "maintenance_ice": 0.0029
+    },
+    "light_commercial": {
+     "purchase_price": 48275.0,
+     "ice_price": 50059.0,
+     "maintenance_ev": 0.0017,
+     "maintenance_ice": 0.0029
+    },
+    "bus": {
+     "maintenance_ev": 0.092,
+     "maintenance_ice": 0.229
+    }
+   },
+   "parity_ref": 1.2326418381079947,
+   "adequacy_ref": 0.10714285714285714,
+   "awareness_ref": 0.25,
+   "fleet_lifetime_y": 12.0,
+   "base_sales_share": null,
+   "price_elasticity": 1.7617118618105947,
+   "reference_path": {
+    "2025": {
+     "parity": 1.2326421706070043,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2026": {
+     "parity": 1.2492925886309663,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2027": {
+     "parity": 1.2655911870643455,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2028": {
+     "parity": 1.2815689512236774,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2029": {
+     "parity": 1.2972268701163134,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2030": {
+     "parity": 1.3125307954840024,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2031": {
+     "parity": 1.3274964141319014,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2032": {
+     "parity": 1.3421581446747473,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2033": {
+     "parity": 1.3564870555148878,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2034": {
+     "parity": 1.3704287471234724,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2035": {
+     "parity": 1.3781442272323445,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2036": {
+     "parity": 1.3810049339042145,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2037": {
+     "parity": 1.3838131570117016,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2038": {
+     "parity": 1.3866240309305828,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2039": {
+     "parity": 1.3894897722079058,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    },
+    "2040": {
+     "parity": 1.3923793674847498,
+     "adequacy": 0.10714285714285714,
+     "awareness": 0.25
+    }
+   },
+   "feeder_types": [
+    "FeederType(key='ieee69', label='urban (DPDC, DESCO)', demand_share=0.203, ev_intensity=1.0, peak_mw=2.34, z_scale=0.07550000000000001, base_kv=11.0, source='IEEE 69-bus at 11 kV, 4.5 km')",
+    "FeederType(key='ieee33', label='semi-urban (BPDB zones, WZPDCL, NESCO)', demand_share=0.221, ev_intensity=1.0, peak_mw=1.58, z_scale=0.1963, base_kv=11.0, source='IEEE 33-bus at 11 kV, 12 km')",
+    "FeederType(key='in_rural28', label='rural (BREB/PBS)', demand_share=0.576, ev_intensity=1.0, peak_mw=1.62, z_scale=0.59, base_kv=None, source='Indian 28-bus rural 11 kV, 52 km')"
+   ],
+   "fuel_price_ratio": {
+    "gasoline": 1.0,
+    "diesel": 0.837,
+    "cng": 0.327
+   },
+   "health_cost_per_litre": {
+    "gasoline": 0.123,
+    "diesel": 0.254,
+    "cng": 0.123
+   },
+   "charger_cost_mult": 1.0,
+   "drive_cycles": {
+    "passenger_car": "wltc3b:low+medium",
+    "light_commercial": "wltc3b:low+medium",
+    "two_wheeler": "idc",
+    "three_wheeler": "idc"
+   },
+   "device_esw_mult": 1.0,
+   "device_ron_mult": 1.0,
+   "adoption_elasticity": 1.0,
+   "fuel_co2_mult": 1.0,
+   "programme_cost_mult": 1.0
+  },
+  "developed": {
+   "key": "developed",
+   "label": "Developed economy (Germany case)",
+   "representative_countries": [
+    "Germany",
+    "United States of America",
+    "Norway",
+    "Japan",
+    "Republic of Korea",
+    "China (urban)",
+    "Singapore",
+    "Netherlands"
+   ],
+   "population_million": 84.0,
+   "vehicle_stock_million": 57.49,
+   "segment_shares": {
+    "two_wheeler": 0.088,
+    "three_wheeler": 0.0,
+    "passenger_car": 0.8585,
+    "light_commercial": 0.052,
+    "bus": 0.0015
+   },
+   "base_ev_share": 0.0411,
+   "grid_emission_factor": 0.33,
+   "grid_emission_trend": 0.955,
+   "renewable_share": 0.42,
+   "grid_availability": 0.9993,
+   "transformer_headroom": 1.0,
+   "network_losses": 0.052,
+   "electricity_price": 0.41,
+   "industrial_price": 0.199,
+   "fuel_price": 1.91,
+   "ice_consumption": 6.6,
+   "discount_rate": 0.017,
+   "capital_cost_premium": 1.0,
+   "wacc": 0.055,
+   "urban_share": 0.78,
+   "charger_density_base": 14.0,
+   "dc_share_base": 0.22,
+   "wbg_share_base": 0.26,
+   "workforce_index": 0.82,
+   "manufacturing_index": 0.68,
+   "digital_maturity": 0.79,
+   "import_duty": 0.06,
+   "solar_ghi": 3.1,
+   "mean_temperature": 10.5,
+   "temperature_amplitude": 9.5,
+   "diurnal_amplitude": 5.0,
+   "battery_chemistry_pref": "NMC",
+   "value_of_lost_load": 13.25,
+   "value_of_time": 24.0,
+   "social_carbon_price": 325.0,
+   "peak_demand_per_capita_kw": 0.95,
+   "feeder_peak_mw": 6.5,
+   "vehicle_stock_growth": 0.004,
+   "market_potential": 0.95,
+   "bass_p": 1.0000000000000254e-06,
+   "bass_q": 0.4168310269663316,
+   "mean_speed_kmh": 38.0,
+   "maintenance_ev": 0.03,
+   "maintenance_ice": 0.062,
+   "segment_overrides": {
+    "passenger_car": {
+     "annual_km": 10616.0,
+     "ice_l_per_100km": 7.4,
+     "purchase_price": 24123.0,
+     "ice_price": 30971.0,
+     "maintenance_ev": 0.036,
+     "maintenance_ice": 0.048
+    },
+    "light_commercial": {
+     "annual_km": 18355.0,
+     "ice_l_per_100km": 8.2,
+     "purchase_price": 48540.0,
+     "ice_price": 50059.0,
+     "maintenance_ev": 0.064,
+     "maintenance_ice": 0.068
+    },
+    "two_wheeler": {
+     "annual_km": 2172.0,
+     "ice_l_per_100km": 4.5
+    },
+    "bus": {
+     "annual_km": 55346.0,
+     "ice_l_per_100km": 43.6,
+     "purchase_price": 621187.0,
+     "ice_price": 350300.0,
+     "maintenance_ev": 0.19,
+     "maintenance_ice": 0.26
+    }
+   },
+   "parity_ref": 1.2130148063164699,
+   "adequacy_ref": 0.5,
+   "awareness_ref": 0.25,
+   "fleet_lifetime_y": 16.0,
+   "base_sales_share": 0.191,
+   "price_elasticity": 3.333659770949376,
+   "reference_path": {
+    "2025": {
+     "parity": 1.2128400521487275,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2026": {
+     "parity": 1.2233075480617386,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2027": {
+     "parity": 1.234021855488237,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2028": {
+     "parity": 1.2448391845836622,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2029": {
+     "parity": 1.2560488876986258,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2030": {
+     "parity": 1.2678787105428937,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2031": {
+     "parity": 1.2786444516219255,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2032": {
+     "parity": 1.2884701190201198,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2033": {
+     "parity": 1.2971257811418824,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2034": {
+     "parity": 1.305841841830266,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2035": {
+     "parity": 1.3119058504618684,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2036": {
+     "parity": 1.3140960718367742,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2037": {
+     "parity": 1.3166201124960464,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2038": {
+     "parity": 1.318261072734186,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2039": {
+     "parity": 1.319059251758754,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    },
+    "2040": {
+     "parity": 1.3201442686237275,
+     "adequacy": 0.5,
+     "awareness": 0.25
+    }
+   },
+   "feeder_types": [
+    "FeederType(key='simbench_mv_urban', label='urban', demand_share=0.389, ev_intensity=1.0, peak_mw=21.0, z_scale=1.0, base_kv=None, source='SimBench 1-MV-urban--0-sw')",
+    "FeederType(key='simbench_mv_semiurb', label='semi-urban', demand_share=0.424, ev_intensity=1.0, peak_mw=13.4, z_scale=1.0, base_kv=None, source='SimBench 1-MV-semiurb--0-sw')",
+    "FeederType(key='simbench_mv_rural', label='rural', demand_share=0.186, ev_intensity=1.0, peak_mw=7.5, z_scale=1.0, base_kv=None, source='SimBench 1-MV-rural--0-sw')"
+   ],
+   "fuel_price_ratio": {
+    "gasoline": 1.0,
+    "diesel": 0.953
+   },
+   "health_cost_per_litre": {
+    "gasoline": 0.07,
+    "diesel": 0.45
+   },
+   "charger_cost_mult": 1.7,
+   "drive_cycles": {
+    "passenger_car": "wltc3b",
+    "light_commercial": "wltc3b",
+    "two_wheeler": "wmtc_class2-2"
+   },
+   "device_esw_mult": 1.0,
+   "device_ron_mult": 1.0,
+   "adoption_elasticity": 1.0,
+   "fuel_co2_mult": 1.0,
+   "programme_cost_mult": 1.0
+  }
+ },
+ "horizon": [
+  2025,
+  2026,
+  2027,
+  2028,
+  2029,
+  2030,
+  2031,
+  2032,
+  2033,
+  2034,
+  2035,
+  2036,
+  2037,
+  2038,
+  2039,
+  2040
+ ],
+ "seed": 20260801
+}

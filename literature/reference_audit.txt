@@ -1,0 +1,101 @@
+auditing 86 cited references against Crossref
+
+OK [ 1] pol-infra-income           10.1016/j.enpol.2026.115098
+OK [ 2] pol-cn-incentives          10.1016/j.tra.2021.05.013
+OK [ 3] pol-gov2market             10.1016/j.tra.2022.04.004
+OK [ 4] pe-traction-inv-review     10.1016/j.egyr.2023.10.056
+OK [ 5] pe-gan-ev                  10.3390/en19071752
+OK [ 6] pe-wbg-packaging           10.1109/tpel.2022.3200469
+OK [ 7] pe-sic-loss-datasheet      10.1109/ojpel.2024.3485891
+OK [ 8] dt-energy-review           10.1016/j.rser.2023.113891
+OK [ 9] dt-powertrain-review       10.3390/wevj15050208
+OK [10] dt-charging-infra          10.1016/j.scs.2024.105479
+OK [11] dev-barriers-cmp           10.1016/j.esd.2025.101753
+OK [12] dev-in-2w                  10.1016/j.tranpol.2024.05.004
+OK [13] ldc-ssa-policy-access      10.1016/j.enpol.2026.115184
+OK [14] bd-3w                      10.3390/su15010149
+OK [15] bd-energy-access           10.1016/j.esr.2024.101490
+OK [16] pol-cn-subsidy-innov       10.1016/j.enpol.2023.113527
+OK [17] pol-uk-infra               10.1016/j.enpol.2024.114178
+OK [18] pol-tariff-bidir           10.1016/j.enpol.2024.114240
+        note : diacritics present (correct, kept): ßö
+OK [19] pol-cn-mandate             10.3390/wevj16030151
+OK [20] pol-phaseout               10.3390/wevj16060300
+OK [21] pol-commercial             10.1016/j.enpol.2024.114116
+OK [22] dev-consumer-ready         10.1016/j.enpol.2024.114173
+OK [23] dev-barriers-4d            10.3390/wevj15090422
+        note : diacritics present (correct, kept): ’
+OK [24] dev-in-infra               10.1016/j.regsus.2022.11.008
+OK [25] dev-pk-moto                10.3390/wevj14100278
+OK [26] dev-np-policy              10.3390/en16217428
+OK [27] dev-sea-readiness          10.3390/wevj17060280
+OK [28] econ-tco-asean             10.1016/j.esd.2024.101650
+OK [29] bd-lcc                     10.3390/wevj15050183
+OK [30] bd-lcsa-power              10.1016/j.egyr.2023.10.041
+OK [31] bd-temp-demand             10.3390/earth6040127
+OK [32] bd-policy-coherence        10.1016/j.eist.2025.100967
+OK [33] bd-pv-cs-20kw              10.1016/j.ecmx.2025.101510
+OK [34] bd-pv-grid-batt            10.1016/j.ecmx.2025.101256
+OK [35] ldc-ssa-affordability      10.1038/s41467-026-75104-7
+OK [36] ldc-minigrid-rel           10.1016/j.deveng.2022.100106
+OK [37] ldc-paratransit            10.1016/j.trd.2025.105113
+OK [38] pe-motor-control-review    10.1109/access.2021.3110736
+OK [39] pe-bidir-dcdc-review       10.3390/en17102434
+OK [40] pe-obc-totem               10.1109/access.2024.3432791
+OK [41] pe-sst-review              10.3390/en15155602
+        note : diacritics present (correct, kept): í
+OK [42] pe-hv-station              10.1109/access.2021.3093696
+OK [43] pe-anpc-pq                 10.3390/en14092650
+OK [44] pe-sic-loss-dynamic        10.1109/tpel.2024.3406517
+OK [45] pe-loss-rt                 10.1109/access.2026.3671183
+OK [46] pe-sic-powercycling        10.1016/j.microrel.2025.115786
+OK [47] pe-bondwire                10.1016/j.microrel.2023.115060
+OK [48] pe-sic-gateoxide           10.1016/j.microrel.2026.116035
+OK [49] pe-sic-wafer               10.3390/jmmp10010002
+        note : diacritics present (correct, kept): Ö
+OK [50] dt-batt-state              10.1016/j.rineng.2025.106858
+OK [51] dt-converter-health        10.1109/access.2023.3243432
+OK [52] dt-pmsm-shadow             10.1049/dgt2.12024
+        note : diacritics present (correct, kept): õš
+OK [53] dt-drl-ems                 10.1016/j.energy.2024.133384
+OK [54] dt-fleet-charging          10.1186/s40807-026-00240-z
+OK [55] dt-cyber-5g                10.3390/en18226048
+OK [56] dt-ai-converter            10.1049/pel2.70013
+OK [57] own-dt-anomaly             10.1016/j.est.2026.122795
+OK [58] own-soc-charging           10.1016/j.ecmx.2026.101775
+OK [59] own-ev-cyber-tea           10.1016/j.ecmx.2026.102107
+OK [60] ai-demand-dl               10.1016/j.apenergy.2024.123751
+OK [61] ai-pinn-batt               10.3390/batteries9060301
+OK [62] meth-abm-diffusion         10.1016/j.energy.2022.124700
+OK [63] grid-infra-impact          10.1080/15325008.2024.2315206
+OK [64] grid-harmonic-std          10.1016/j.epsr.2024.110260
+OK [65] grid-dr-aggregator         10.1016/j.rser.2022.112251
+OK [66] grid-v2g-review            10.1016/j.rineng.2025.106813
+OK [67] own-wams                   10.1016/j.ecmx.2025.101424
+OK [68] own-storage                10.1016/j.ecmx.2026.101771
+OK [69] own-grid-cyber             10.1016/j.ecmx.2025.101416
+OK [70] chg-siting-uncert          10.1109/tits.2024.3384537
+OK [71] chg-wait-longtrip          10.1109/access.2025.3552730
+OK [72] chg-behaviour-dk           10.1016/j.epsr.2024.110556
+OK [73] chg-equity-review          10.3390/wevj16100553
+OK [74] batt-calendar              10.1016/j.apenergy.2024.124640
+OK [75] batt-fade-realveh          10.1016/j.energy.2024.132782
+OK [76] batt-v2g-degr              10.1016/j.apenergy.2024.124546
+        note : diacritics present (correct, kept): ö
+OK [77] batt-recycle-review        10.3390/batteries10010038
+OK [78] env-wtw-2022               10.1016/j.jenvman.2022.114592
+OK [79] env-lca-battery            10.3390/wevj15060245
+        note : diacritics present (correct, kept): ’
+OK [80] wf-ev-workforce            10.3390/wevj17060298
+OK [81] wf-trl-system              10.1016/j.rser.2026.117305
+OK [82] meth-temp-trip             10.1016/j.energy.2021.122028
+        note : diacritics present (correct, kept): é
+OK [83] econ-topsis-power          10.3390/en18133478
+OK [84] meth-gsa                   10.1016/j.jhydrol.2022.128895
+OK [85] chg-bus-decarb             10.3390/wevj15030081
+OK [86] cyb-ocpp                   10.1007/s10207-023-00698-8
+        note : diacritics present (correct, kept): ñ
+
+======================================================================
+86 clean, 0 with issues
+detail -> E:\Policy\literature\reference_audit.json

@@ -1,0 +1,11 @@
+[design] developed: 307 + 60 test simulations
+    design: 50/307
+    design: 100/307
+    design: 150/307
+    design: 200/307
+    design: 250/307
+    design: 300/307
+    test: 50/60
+[surrogate] developed ...
+[nsga2] developed ...
+developed done in 2587 s

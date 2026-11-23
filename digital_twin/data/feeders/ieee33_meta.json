@@ -1,0 +1,8 @@
+{
+ "name": "IEEE 33-bus",
+ "base_kv": 12.66,
+ "class": "urban/semi-urban, short",
+ "source": "M. E. Baran and F. F. Wu, IEEE Trans. Power Del. 4(2), 1401-1407, 1989",
+ "published_losses_kw": 202.67,
+ "published_vmin_pu": 0.9131
+}

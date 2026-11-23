@@ -1,0 +1,236 @@
+
+===== AI (42 candidates) =====
+2025|c22  |Energies                |Machine Learning-Based Electric Vehicle Charging Demand Forecasting: A Systematized Li|10.3390/en18174779
+2025|c21  |Energy and AI           |Towards a smarter battery management system: A critical review on deep learning-based |10.1016/j.egyai.2025.100585
+2024|c58  |Sustainability          |Smart and Sustainable Wireless Electric Vehicle Charging Strategy with Renewable Energ|10.3390/su16062487
+2024|c34  |Applied Energy          |Feature-enhanced deep learning method for electric vehicle charging demand probabilist|10.1016/j.apenergy.2024.123751
+2024|c31  |Energy Conversion and Ma|A comprehensive review of artificial intelligence approaches for smart grid integratio|10.1016/j.ecmx.2024.100724
+2024|c29  |Journal of Energy Storag|Improved deep learning based state of charge estimation of lithium ion battery for ele|10.1016/j.est.2024.111877
+2024|c22  |Energies                |Distributed and Multi-Agent Reinforcement Learning Framework for Optimal Electric Vehi|10.3390/en17153694
+2024|c20  |WEVJ                    |Optimizing Electric Vehicle Charging Recommendation in Smart Cities: A Multi-Agent Rei|10.3390/wevj15020067
+2024|c19  |Internet of Things      |Privacy-preserving estimation of electric vehicle charging behavior: A federated learn|10.1016/j.iot.2024.101344
+2023|c143 |Batteries               |Hybrid Modeling of Lithium-Ion Battery: Physics-Informed Neural Network for Battery St|10.3390/batteries9060301
+2023|c133 |Energy Storage Materials|Deep Learning Framework for Lithium-ion Battery State of Charge Estimation: Recent Adv|10.1016/j.ensm.2023.102883
+2023|c64  |Energy                  |Mechanics-based state of charge estimation for lithium-ion pouch battery using deep le|10.1016/j.energy.2023.127890
+2022|c74  |IEEE Internet Things J. |Electric Vehicle Dynamic Wireless Charging System: Optimal Placement and Vehicle-to-Gr|10.1109/jiot.2021.3109956
+2022|c10  |Electronics Letters     |Physics‐informed neural network method for modelling beam‐wall interactions|10.1049/ell2.12469
+2022|c0   |SSRN Journal            |Forecasting Electric Vehicle Charging Demand to Support Public Charging Infrastructure|10.2139/ssrn.4219599
+2022|c0   |SSRN Journal            |Enhanced Surrogate Modelling of Heat Conduction Problems Using Physics-Informed Neural|10.2139/ssrn.4137334
+2021|c7   |SSRN Journal            |New Approach using Artificial Intelligence-Machine Learning in Demand Side Management |10.2139/ssrn.3833753
+2021|c1   |Internet of Things      |Erratum to “COP: An integrated Communication, Optimization, and Prediction unit for sm|10.1016/j.iot.2021.100401
+
+===== BATT (39 candidates) =====
+2025|c19  |Energy                  |Overcharging cycle aging-induced severe degradation of safety properties of lithium-io|10.1016/j.energy.2025.135168
+2025|c19  |Applied Energy          |Understanding calendar aging degradation in cylindrical lithium-ion cell: A novel pseu|10.1016/j.apenergy.2024.124640
+2024|c227 |Batteries               |A Review of Lithium-Ion Battery Recycling: Technologies, Sustainability, and Open Issu|10.3390/batteries10010038
+2024|c54  |Front. Sustain.         |Advancing sustainable development through circular economy and skill development in EV|10.3389/frsus.2024.1409498
+2024|c41  |IEEE Trans. Automat. Sci|Capacity Degradation Assessment of Lithium-Ion Battery Considering Coupling Effects of|10.1109/tase.2023.3274635
+2024|c39  |Journal of Energy Storag|Deep reinforcement learning based fast charging and thermal management optimization of|10.1016/j.est.2024.112466
+2024|c20  |Energy                  |A capacity fade reliability model for lithium-ion battery packs based on real-vehicle |10.1016/j.energy.2024.132782
+2024|c18  |Journal of Energy Storag|Augmenting electric vehicle fast charging stations with battery-flywheel energy storag|10.1016/j.est.2024.112957
+2024|c9   |Energy Reports          |In-vehicle battery capacity fade: A follow-up study on six European regions|10.1016/j.egyr.2023.12.026
+2023|c208 |Journal of Energy Storag|Development of supercapacitor hybrid electric vehicle|10.1016/j.est.2023.107269
+2023|c23  |Journal of Energy Storag|Pack-level performance of electric vehicle batteries in second-life electricity grid e|10.1016/j.est.2022.106265
+2023|c19  |Energies                |Calendar Aging Effect on the Open Circuit Voltage of Lithium-Ion Battery|10.3390/en16134869
+2022|c147 |Recycling               |Lithium-Ion Battery Recycling in the Circular Economy: A Review|10.3390/recycling7030033
+2022|c71  |Journal of Energy Storag|Optimal sizing of hybrid high-energy/high-power battery energy storage systems to impr|10.1016/j.est.2022.105768
+2022|c34  |Journal of Energy Storag|Hierarchical Q-learning network for online simultaneous optimization of energy efficie|10.1016/j.est.2021.103925
+2021|c110 |Electrochimica Acta     |A physics-based aging model for lithium-ion battery with coupled chemical/mechanical d|10.1016/j.electacta.2021.139133
+2021|c80  |Journal of Energy Storag|Development and Demonstration of Microgrid System Utilizing Second-Life Electric Vehic|10.1016/j.est.2021.102837
+2021|c24  |WEVJ                    |Parameter Matching Method of a Battery-Supercapacitor Hybrid Energy Storage System for|10.3390/wevj12040253
+
+===== CHARGE (48 candidates) =====
+2025|c19  |Energy Inform           |Impact of electric vehicle charging demand on clean energy regional power grid control|10.1186/s42162-025-00538-0
+2025|c12  |IEEE Access             |Long Trip Charging Planning of Battery Electric Vehicle Considering Vehicle Waiting Ti|10.1109/access.2025.3552730
+2025|c11  |Electric Power Systems R|Non-dominated sorting WOA electric vehicle charging station siting study based on dyna|10.1016/j.epsr.2025.111532
+2024|c41  |Energy                  |An operational scheduling framework for Electric Vehicle Battery Swapping Station unde|10.1016/j.energy.2023.130219
+2024|c37  |Electric Power Systems R|An empirical analysis of electric vehicle charging behavior based on real Danish resid|10.1016/j.epsr.2024.110556
+2024|c16  |IEEE Trans. Intell. Tran|Charging Station Siting and Sizing Considering Uncertainty in Electric Vehicle Chargin|10.1109/tits.2024.3384537
+2024|c14  |Energy                  |A game theory based scheduling approach for charging coordination of multiple electric|10.1016/j.energy.2024.133674
+2024|c8   |WEVJ                    |Optimal Scheduling of Integrated Energy System Considering Electric Vehicle Battery Sw|10.3390/wevj15040170
+2024|c7   |IDT                     |OptiCharge: A firefly algorithm-based approach for minimizing electric vehicle waiting|10.3233/idt-230619
+2023|c47  |Applied Energy          |Smart charging and discharging of electric vehicles based on multi-objective robust op|10.1016/j.apenergy.2023.121185
+2023|c35  |Sustainability          |Electric Vehicle Solar Charging Station Siting Study Based on GIS and Multi-Criteria D|10.3390/su151410967
+2023|c25  |Batteries               |End-to-End Direct-Current-Based Extreme Fast Electric Vehicle Charging Infrastructure |10.3390/batteries9030169
+2023|c25  |IEEE Trans. Smart Grid  |Grid Flexibility Provision by Optimization of Fast-Charging Demand of Battery Electric|10.1109/tsg.2022.3219403
+2022|c65  |International Journal of|Location planning of electric vehicle charging station with users’ preferences and wai|10.1080/00207543.2021.2023832
+2022|c28  |Sensors                 |Receiver–Coil Location Detection in a Dynamic Wireless Power Transfer System for Elect|10.3390/s22062317
+2021|c88  |IEEE Access             |High-Voltage Stations for Electric Vehicle Fast-Charging: Trends, Standards, Charging |10.1109/access.2021.3093696
+2021|c84  |Energies                |Electric Vehicles Charging Management Using Machine Learning Considering Fast Charging|10.3390/en14196199
+2021|c70  |Energy Storage          |Standards for electric vehicle charging stations in India: A review|10.1002/est2.261
+
+===== CYBER (2 candidates) =====
+2026|c1   |WEVJ                    |User Experience of Public Electric Vehicle Charging Infrastructure in Shanghai: A Quan|10.3390/wevj17010028
+2024|c51  |IEEE Access             |On TinyML and Cybersecurity: Electric Vehicle Charging Infrastructure Use Case|10.1109/access.2024.3437192
+
+===== DEV (61 candidates) =====
+2025|c34  |Energy for Sustainable D|Barriers to energy transition: Comparing developing with developed countries|10.1016/j.esd.2025.101753
+2025|c22  |WEVJ                    |Decarbonization of Long-Haul Heavy-Duty Truck Transport: Technologies, Life Cycle Emis|10.3390/wevj16020076
+2024|c38  |Energy Policy           |Are consumers ready to adopt electric vehicles? Analyzing the barriers and motivators |10.1016/j.enpol.2024.114173
+2024|c37  |Sustainable Futures     |Electric vehicle adoption in Indonesia: Lesson learned from developed and developing c|10.1016/j.sftr.2024.100348
+2024|c31  |WEVJ                    |Technological, Environmental, Economic, and Regulation Barriers to Electric Vehicle Ad|10.3390/wevj15090422
+2024|c30  |WEVJ                    |Public Transport Decarbonization: An Exploratory Approach to Bus Electrification|10.3390/wevj15030081
+2024|c27  |Transport Policy        |Electric two-wheeler adoption in India – A discrete choice analysis of motivators and |10.1016/j.tranpol.2024.05.004
+2024|c23  |Energies                |Electrification Planning for Off-Grid Communities in Sub-Saharan Africa: Advancing Ene|10.3390/en17235994
+2024|c21  |Unconventional Resources|Photovoltaic mini-grid incorporation: The panacea for electricity crisis in sub-Sahara|10.1016/j.uncres.2024.100079
+2023|c42  |Transportation Research |Accelerating electric vehicle uptake favours greenhouse gas over air pollutant emissio|10.1016/j.trd.2023.103954
+2023|c22  |Energy Policy           |Value of different electric vehicle charging facility types under different availabili|10.1016/j.enpol.2023.113436
+2022|c74  |Transport Policy        |Does electric vehicle promotion in the public sector contribute to urban transport car|10.1016/j.tranpol.2022.06.002
+2022|c68  |Energy Policy           |Understanding barriers to electric vehicle adoption for personal mobility: A case stud|10.1016/j.enpol.2022.112956
+2022|c38  |Renewable and Sustainabl|Detecting a structure in the European energy transition policy instrument mix: What mi|10.1016/j.rser.2022.112621
+2021|c256 |Energy Policy           |Implementing a just renewable energy transition: Policy advice for transposing the new|10.1016/j.enpol.2021.112435
+2021|c45  |Energy Policy           |Energy justice gaps in renewable energy transition policy initiatives in Vermont|10.1016/j.enpol.2021.112608
+2021|c27  |Transportation Research |Effectiveness of battery electric vehicle promotion on particulate matter emissions re|10.1016/j.trd.2021.102758
+2021|c22  |WEVJ                    |Agent-Based Modeling Framework for Electric Vehicle Adoption Transition in Indonesia|10.3390/wevj12020073
+
+===== DEVD (19 candidates) =====
+2026|c3   |WEVJ                    |Charging Strategies for Battery Electric Trucks in Germany|10.3390/wevj17020106
+2025|c6   |WEVJ                    |The Efficacy of the New Energy Vehicle Mandate Policy on Passenger Vehicle Market in C|10.3390/wevj16030151
+2025|c4   |WEVJ                    |Beyond Safety: Barriers to Shared Autonomous Vehicle Utilization in the Post-Adoption |10.3390/wevj16030133
+2025|c3   |Computers &amp; Industri|Electric vehicle charging on the go via unmanned aerial vehicle: Optimal charging poli|10.1016/j.cie.2025.111005
+2025|c3   |WEVJ                    |From Jump-Start to Phase-Out—Transitioning Policy Making Towards a Primarily Market Dr|10.3390/wevj16060300
+2024|c23  |Energy Policy           |Tariff option preferences for smart and bidirectional charging: Evidence from battery |10.1016/j.enpol.2024.114240
+2024|c15  |Energy Policy           |Institutional unlocking or technological unlocking? The logic of carbon unlocking in t|10.1016/j.enpol.2024.114369
+2024|c11  |Transport Policy        |Explaining the adoption of electric vehicle fees across the United States|10.1016/j.tranpol.2024.02.005
+2024|c5   |WEVJ                    |Electric Vehicle Adoption: Implications for Employment in South Africa’s Automotive Co|10.3390/wevj15100471
+2023|c200 |Energy Policy           |Policy incentives, government subsidies, and technological innovation in new energy ve|10.1016/j.enpol.2023.113527
+2023|c33  |Energy Policy           |Evaluations of policy contagion for new energy vehicle industry in China|10.1016/j.enpol.2022.113402
+2023|c31  |Transportation Research |An indispensable role in promoting the electric vehicle Industry: An empirical test to|10.1016/j.tra.2023.103824
+2023|c4   |Industry and Innovation |How do changing institutional logics affect innovation? The cases of Online Electric V|10.1080/13662716.2023.2254265
+2022|c147 |Energy Policy           |Dynamic spatial spillover effect of new energy vehicle industry policies on carbon emi|10.1016/j.enpol.2022.112991
+2022|c7   |SSRN Journal            |Local Incentives and Electric Vehicle Adoption|10.2139/ssrn.4051730
+
+===== DT (39 candidates) =====
+2025|c32  |Trans. Ind. Cyb-Phy. Sys|State-Space Driven Digital Twin for Condition Monitoring and Predictive Health Assessm|10.1109/ticps.2025.3586823
+2025|c19  |Results in Engineering  |Integration of digital twin technologies for state estimation in electric vehicle batt|10.1016/j.rineng.2025.106858
+2025|c19  |Digital Twin            |Digital twin and its applications in the construction industry: A state-of-art systema|10.12688/digitaltwin.17664.3
+2025|c18  |IET Power Electronics   |Artificial Intelligence and Digital Twin Technologies for Power Converter Control in T|10.1049/pel2.70013
+2025|c8   |Energies                |Digital Twin-Driven Cybersecurity for 5G/6G-Enabled Electric Vehicle Charging Infrastr|10.3390/en18226048
+2024|c40  |Sustainable Cities and S|Digital twin enabled transition towards the smart electric vehicle charging infrastruc|10.1016/j.scs.2024.105479
+2024|c38  |Energy                  |Deep reinforcement learning-based energy management system enhancement using digital t|10.1016/j.energy.2024.133384
+2024|c7   |Electronics             |A Novel Heuristic Algorithm Integrating Battery Digital-Twin-Based State-of-Charge Est|10.3390/electronics13224412
+2024|c6   |Digital Twins and Applic|Enhancing 5G energy efficiency through digital twin networks: A comprehensive review|10.1049/dgt2.12008
+2023|c109 |Renewable and Sustainabl|Energy Digital Twin applications: A review|10.1016/j.rser.2023.113891
+2023|c51  |Mathematics             |Smart Lithium-Ion Battery Monitoring in Electric Vehicles: An AI-Empowered Digital Twi|10.3390/math11234865
+2023|c44  |Batteries               |A Data-Driven Digital Twin of Electric Vehicle Li-Ion Battery State-of-Charge Estimati|10.3390/batteries9100521
+2023|c42  |IEEE Access             |A Component Level Digital Twin Model for Power Converter Health Monitoring|10.1109/access.2023.3243432
+2023|c22  |Journal of Energy Storag|State of health estimation and prediction of electric vehicle power battery based on o|10.1016/j.est.2023.108247
+2022|c48  |WEVJ                    |Electric Vehicle Public Charging Infrastructure Planning Using Real-World Charging Dat|10.3390/wevj13060094
+2022|c30  |Procedia Computer Scienc|Digital Twin for automated guided vehicles fleet management|10.1016/j.procs.2022.01.172
+2022|c28  |IEEE Trans. Power Electr|Condition Health Monitoring of Modular Multilevel Converter Submodule Capacitors|10.1109/tpel.2021.3118602
+2021|c39  |WEVJ                    |Energy Consumption Prediction of Electric Vehicles Based on Digital Twin Technology|10.3390/wevj12040160
+
+===== ECON (21 candidates) =====
+2026|c5   |Sci Rep                 |Techno economic integrated planning of solar integrated electric vehicle charging infr|10.1038/s41598-026-37080-2
+2026|c4   |Applied Energy          |Adaptive multi-stage planning of electric vehicle charging infrastructure with photovo|10.1016/j.apenergy.2026.127517
+2026|c1   |Eur. Transp. Res. Rev.  |Scaling challenges in multi-criteria decision analysis in a hybrid approach with cost-|10.1186/s12544-026-00776-7
+2026|c0   |World Electr. Veh. J.   |Ownership Levies and Electric Vehicle Adoption: A Total Cost of Ownership and Legal An|10.3390/wevj17080397
+2025|c27  |Energy for Sustainable D|Total cost of ownership (TCO) analysis of electric vehicle in ASEAN|10.1016/j.esd.2024.101650
+2025|c5   |Procedia Computer Scienc|Methodology for Optimizing Charging Infrastructure Distribution for Long-Haul Freight |10.1016/j.procs.2025.03.122
+2025|c4   |WEVJ                    |Total Cost of Ownership of Electric Buses in Europe|10.3390/wevj16080464
+2025|c4   |Journal of Environmental|Is coastal climate adaptation infrastructure worth public investment? Evidence from st|10.1016/j.jenvman.2025.125294
+2024|c5   |WEVJ                    |Study of the Total Ownership Cost of Electric Vehicles in Romania|10.3390/wevj15120569
+2023|c33  |Journal of Cleaner Produ|Green premium modeling based on total cost ownership analysis: From the Chinese Electr|10.1016/j.jclepro.2023.139679
+2023|c24  |J. Benefit Cost Anal.   |The Investment Case for Land Tenure Security in Sub-Saharan Africa: A Cost–Benefit Ana|10.1017/bca.2023.14
+2023|c22  |iScience                |Data-driven multi-objective optimization for electric vehicle charging infrastructure|10.1016/j.isci.2023.107737
+2023|c18  |J. Benefit Cost Anal.   |The Investment Case for E-Government Procurement: A Cost–Benefit Analysis|10.1017/bca.2023.10
+2023|c13  |J. Benefit Cost Anal.   |Investing in Nutrition: A Global Best Investment Case|10.1017/bca.2023.22
+2023|c3   |SSRN Journal            |Revisit cost-benefit analysis in energy infrastructure: Current methodology, practice,|10.2139/ssrn.4505225
+2022|c8   |J. Benefit Cost Anal.   |The Weak Spot of Infrastructure BCA: Cost Overruns in Seven Road and Railway Construct|10.1017/bca.2022.10
+2021|c71  |Applied Energy          |An integrated multi-objective optimization and multi-criteria decision-making model fo|10.1016/j.apenergy.2021.117866
+2021|c34  |WEVJ                    |Vehicle to Grid Impacts on the Total Cost of Ownership for Electric Vehicle Drivers|10.3390/wevj12040236
+
+===== ENV (19 candidates) =====
+2026|c1   |Energies                |A Comparative Life Cycle Assessment of Carbon Emissions for Battery Electric Vehicle T|10.3390/en19020377
+2026|c0   |Int J Life Cycle Assess |Dynamic analysis of carbon emission reduction in China’s fuel cell electric vehicle de|10.1007/s11367-026-02578-4
+2026|c0   |Int J Life Cycle Assess |A multi-pollutant life cycle assessment and regional index framework for battery elect|10.1007/s11367-026-02652-x
+2026|c0   |WEVJ                    |How Greenhouse Gas Emissions Evolve When Changing from an ICE to a BEV Fleet|10.3390/wevj17050273
+2025|c55  |Carb Neutrality         |An in-depth review of key technologies and pathways to carbon neutrality: classificati|10.1007/s43979-025-00129-8
+2025|c3   |Infrastructures         |Life-Cycle-Assessment-Based Quantification and Low-Carbon Optimization of Carbon Emiss|10.3390/infrastructures10110291
+2024|c23  |WEVJ                    |Beyond Tailpipe Emissions: Life Cycle Assessment Unravels Battery’s Carbon Footprint i|10.3390/wevj15060245
+2024|c1   |Int J Life Cycle Assess |Mitigating carbon emissions in the taxi service industry: a comprehensive Life Cycle A|10.1007/s11367-024-02368-w
+2023|c21  |Transportation Research |China’s road transport decarbonization pathways and critical battery mineral demand un|10.1016/j.trd.2023.103927
+2023|c17  |Smart Cities            |Impact of Large-Scale Electric Vehicles’ Promotion in Thailand Considering Energy Mix,|10.3390/smartcities6050118
+2022|c114 |Nat Commun              |Cross-cutting scenarios and strategies for designing decarbonization pathways in the t|10.1038/s41467-022-31354-9
+2022|c105 |Sustainability          |Investigating European Union Decarbonization Strategies: Evaluating the Pathway to Car|10.3390/su14084728
+2022|c86  |Journal of Environmental|Well-to-wheel greenhouse gas emissions of electric versus combustion vehicles from 201|10.1016/j.jenvman.2022.114592
+2022|c36  |WEVJ                    |Life-Cycle CO2-Equivalent Emissions of Cars Driven by Conventional and Electric Propul|10.3390/wevj13040061
+2022|c31  |Carb Neutrality         |The role of heat pump in heating decarbonization for China carbon neutrality|10.1007/s43979-022-00038-0
+2022|c20  |Carb Neutrality         |High-temperature thermal storage-based cement manufacturing for decarbonization|10.1007/s43979-022-00030-8
+2021|c76  |Energy Policy           |Well-to-wheel analysis of greenhouse gas emissions and energy consumption for electric|10.1016/j.enpol.2021.112552
+
+===== GRID (63 candidates) =====
+2025|c49  |Applied Soft Computing  |Deep reinforcement learning for optimal microgrid energy management with renewable ene|10.1016/j.asoc.2025.113180
+2025|c24  |Results in Engineering  |A comprehensive review of vehicle–to–grid (V2G) technology as an ancillary services pr|10.1016/j.rineng.2025.106813
+2025|c21  |IEEE Access             |A Fuzzy Logic-Based Energy Management Approach for Fuel Cell and Photovoltaic Powered |10.1109/access.2025.3552253
+2025|c17  |Energies                |Techno-Economic Design Analysis of Electric Vehicle Charging Stations Powered by Photo|10.3390/en18020315
+2024|c61  |Results in Engineering  |Advanced control and energy management algorithm for a multi-source microgrid incorpor|10.1016/j.rineng.2024.102642
+2024|c19  |Computers and Electrical|A multi-objective energy scheduling of the reconfigurable off-grid microgrid with elec|10.1016/j.compeleceng.2024.109275
+2024|c18  |Electric Power Component|Electric Vehicle Charging Infrastructure, Standards, Types, and Its Impact on Grid: A |10.1080/15325008.2024.2315206
+2024|c17  |Heliyon                 |Analyzing the influence of electric vehicle charging scheduling on distribution transf|10.1016/j.heliyon.2024.e39904
+2024|c15  |IEEE Access             |Flexibility of Electric Vehicle Charging With Demand Response and Vehicle-to-Grid for |10.1109/access.2024.3459053
+2023|c123 |Renewable Energy        |Intermittency and periodicity in net-zero renewable energy systems with storage|10.1016/j.renene.2023.04.135
+2023|c86  |Systems                 |Renewable Energy-Based DC Microgrid with Hybrid Energy Management System Supporting El|10.3390/systems11060273
+2022|c97  |Renewable and Sustainabl|Optimal coordination strategy of demand response and electric vehicle aggregators for |10.1016/j.rser.2022.112251
+2022|c74  |Energy Reports          |Demand-side management strategy in a smart home using electric vehicle and hybrid rene|10.1016/j.egyr.2022.07.018
+2021|c156 |IEEE Trans. on Ind. Appl|Charging Scheduling of Electric Vehicle Incorporating Grid-to-Vehicle and Vehicle-to-G|10.1109/tia.2020.3041808
+2021|c69  |WEVJ                    |Design and Analysis of a Solar-Powered Electric Vehicle Charging Station for Indian Ci|10.3390/wevj12030132
+2021|c66  |Processes               |Analysis and Design of a Standalone Electric Vehicle Charging Station Supplied by Phot|10.3390/pr9071246
+2021|c64  |Journal of Cleaner Produ|Design and implementation of home energy management system using vehicle to home (H2V)|10.1016/j.jclepro.2021.127792
+2021|c49  |WEVJ                    |A Brief Survey on Important Interconnection Standards for Photovoltaic Systems and Ele|10.3390/wevj12030117
+
+===== METH (41 candidates) =====
+2026|c7   |Renewable Energy        |Performance prediction of concentrated photovoltaics with mini-channel and elastic cyl|10.1016/j.renene.2025.123889
+2025|c27  |Energies                |Application of TOPSIS for Multi-Criteria Decision Analysis (MCDA) in Power Systems: A |10.3390/en18133478
+2025|c25  |Energy Economics        |Unlocking the threshold effects of ESG performance towards policy energy efficiency of|10.1016/j.eneco.2025.108915
+2025|c23  |Discov Energy           |Evaluating renewable energy adoption in G7 countries: a TOPSIS-based multi-criteria de|10.1007/s43937-025-00064-w
+2025|c13  |WEVJ                    |Quantifying the Uncertainty of Electric Vehicle Charging with Probabilistic Load Forec|10.3390/wevj16020088
+2025|c5   |iScience                |Impact of charging infrastructure construction on electric vehicle diffusion based on |10.1016/j.isci.2025.112257
+2025|c4   |Designs                 |Multi-Objective Optimization Scheduling for Electric Vehicle Charging and Discharging:|10.3390/designs9020051
+2024|c9   |WEVJ                    |The Decision-Making Processes for Consumer Electric Vehicle Adoption Based on a Goal-D|10.3390/wevj15090386
+2024|c5   |Energies                |EOS: Impact Evaluation of Electric Vehicle Adoption on Peak Load Shaving Using Agent-B|10.3390/en17205110
+2023|c42  |Journal of Hydrology    |Global sensitivity analysis of bioretention cell design for stormwater system: A compa|10.1016/j.jhydrol.2022.128895
+2022|c89  |Energy                  |Electric vehicle charging station diffusion: An agent-based evolutionary game model in|10.1016/j.energy.2022.124700
+2022|c58  |Applied Energy          |A spatial agent-based joint model of electric vehicle and vehicle-to-grid adoption: A |10.1016/j.apenergy.2022.118581
+2022|c52  |Energy                  |Cooperative optimization strategy for large-scale electric vehicle charging and discha|10.1016/j.energy.2022.124969
+2022|c42  |Energy                  |A novel hybrid-point-line energy management strategy based on multi-objective optimiza|10.1016/j.energy.2022.123357
+2022|c34  |Energy                  |Co-optimization strategy of unmanned hybrid electric tracked vehicle combining eco-dri|10.1016/j.energy.2022.123309
+2022|c29  |Energy Tech             |Energy Management Optimization of Master–Slave Hybrid Electric Vehicle under Rule‐Base|10.1002/ente.202200630
+2022|c26  |WEVJ                    |An Energy Management Strategy and Parameter Optimization of Fuel Cell Electric Vehicle|10.3390/wevj13010021
+2021|c31  |Energy Policy           |Scenario analysis for energy transition in the chemical industry: An industrial case s|10.1016/j.enpol.2020.112128
+
+===== PE (76 candidates) =====
+2025|c7   |WEVJ                    |Research on Battery Electric Vehicles’ DC Fast Charging Noise Emissions: Proposals to |10.3390/wevj16010042
+2025|c6   |Electronics             |A 75 kW Medium-Frequency Transformer Design Based in Inductive Power Transfer (IPT) fo|10.3390/electronics14061059
+2025|c6   |IEEE Trans. Ind. Electro|Design Optimization for Enhancing the Power Density and Efficiency for GaN-Based DC–DC|10.1109/tie.2025.3552273
+2024|c38  |Energies                |Overview of Isolated Bidirectional DC–DC Converter Topology and Switching Strategies f|10.3390/en17102434
+2024|c32  |WEVJ                    |Application of Digital Twin in Electric Vehicle Powertrain: A Review|10.3390/wevj15050208
+2024|c25  |Journal of Energy Storag|Hybrid optimized control of bidirectional off-board electric vehicle battery charger i|10.1016/j.est.2024.111008
+2024|c20  |Applied Thermal Engineer|PTC power control of electric vehicle thermal management system based on neural networ|10.1016/j.applthermaleng.2024.123803
+2024|c16  |WEVJ                    |A Novel Tri-Mode Bidirectional DC–DC Converter for Enhancing Regenerative Braking Effi|10.3390/wevj15010012
+2024|c13  |IEEE Access             |DFIG-Based WECS With Partial-Scale Converter: Efficiency, Cost, and Volume Comparison |10.1109/access.2024.3419810
+2023|c66  |IEEE Trans. Power Electr|Review of Topside Interconnections for Wide Bandgap Power Semiconductor Packaging|10.1109/tpel.2022.3200469
+2023|c42  |Energy Reports          |A technical review of modern traction inverter systems used in electric vehicle applic|10.1016/j.egyr.2023.10.056
+2022|c48  |Energies                |Review of Solid-State Transformer Applications on Electric Vehicle DC Ultra-Fast Charg|10.3390/en15155602
+2021|c132 |IEEE Access             |A Comprehensive Review of Advanced Traction Motor Control Techniques Suitable for Elec|10.1109/access.2021.3110736
+2021|c67  |IEEE Trans. Ind. Electro|Solid-State Transformer Based Fast Charging Station for Various Categories of Electric|10.1109/tie.2020.3038091
+2021|c39  |Electronics             |Challenges of Overcoming Defects in Wide Bandgap Semiconductor Power Electronics|10.3390/electronics11010010
+2021|c37  |Nat Electron            |Electric field mapping of wide-bandgap semiconductor devices at a submicrometre resolu|10.1038/s41928-021-00599-5
+2021|c31  |IEEE Access             |Silicon Carbide Multi-Chip Power Module for Traction Inverter Applications: Thermal Ch|10.1109/access.2021.3080505
+2021|c27  |WEVJ                    |Rotor Position Estimation Approaches for Sensorless Control of Permanent Magnet Tracti|10.3390/wevj12010009
+
+===== POLICY (18 candidates) =====
+2026|c9   |Energy Policy           |The role of charging infrastructure and income on electric vehicle adoption|10.1016/j.enpol.2026.115098
+2026|c1   |Transport Policy        |Barriers, solutions and benefits of sharing electric vehicle charging infrastructure|10.1016/j.tranpol.2025.103871
+2026|c1   |Next Research           |Navigating the electric vehicle transition: incentives, adoption patterns, and fiscal |10.1016/j.nexres.2026.101665
+2024|c60  |Energies                |Electric Vehicle (EV) Review: Bibliometric Analysis of Electric Vehicle Trend, Policy,|10.3390/en17153786
+2024|c60  |Transportation Research |Policy incentives and electric vehicle adoption in China: From a perspective of policy|10.1016/j.tra.2024.104235
+2024|c23  |Energy Policy           |Effectiveness of policies for electric commercial vehicle adoption and emission reduct|10.1016/j.enpol.2024.114116
+2024|c17  |Energy Policy           |Charging change: Analysing the UK's electric vehicle infrastructure policies and marke|10.1016/j.enpol.2024.114178
+2024|c7   |Case Studies on Transpor|Policy interventions and urban characteristics in modeling electric vehicle charging i|10.1016/j.cstp.2024.101309
+2024|c1   |Journal of Critical Infr|Using public–private partnerships to deliver electric vehicle charging infrastructure|10.1002/jci3.12011
+2023|c78  |Transportation Research |Impact of policy incentives on the adoption of electric vehicle in China|10.1016/j.tra.2023.103801
+2023|c41  |Journal of Cleaner Produ|Exploratory policy analysis for electric vehicle adoption in European countries: A mul|10.1016/j.jclepro.2023.137401
+2022|c49  |Transportation Research |From government to market? A discrete choice analysis of policy instruments for electr|10.1016/j.tra.2022.04.004
+2022|c21  |WEVJ                    |Policy Evolution and Intensity Evaluation of the Chinese New Energy Vehicle Industry P|10.3390/wevj13050090
+2021|c147 |Transportation Research |Do policy incentives drive electric vehicle adoption? Evidence from China|10.1016/j.tra.2021.05.013

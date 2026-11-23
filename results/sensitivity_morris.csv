@@ -1,0 +1,115 @@
+archetype,target,parameter,label,mu_star,sigma
+underdeveloped,npv_musd,fuel_price,Fossil fuel price,5797.9082831640135,1629.898181146143
+underdeveloped,npv_musd,electricity_price,Retail electricity price,1317.5819049885156,323.2008325007342
+underdeveloped,npv_musd,grid_emission_factor,Grid carbon intensity,106.43362090337791,88.0919198649653
+underdeveloped,npv_musd,grid_availability,Supply availability,128.80094817146338,146.12321617157485
+underdeveloped,npv_musd,mean_temperature,Mean ambient temperature,438.04499557285186,168.65414803588178
+underdeveloped,npv_musd,capital_cost_premium,Infrastructure cost premium,503.5415472083252,146.40405702379135
+underdeveloped,npv_musd,discount_rate,Social discount rate,3287.056506772388,2123.979273876729
+underdeveloped,npv_musd,bass_q,Word-of-mouth adoption coefficient,1888.2466199565472,1489.8609477490495
+underdeveloped,npv_musd,market_potential,Market potential ceiling,237.31798263668745,243.53112969954628
+underdeveloped,npv_musd,transformer_headroom,Network spare capacity,68.37366390137208,95.36811015309475
+underdeveloped,npv_musd,solar_ghi,Solar resource,60.15849805563323,72.28705887410744
+underdeveloped,npv_musd,social_carbon_price,Social carbon price,1120.478183280855,355.0598919623941
+underdeveloped,npv_musd,value_of_time,Value of travel time,291.9078928051557,136.14710772239974
+underdeveloped,npv_musd,vehicle_stock_growth,Vehicle stock growth,2083.593244935143,1121.901888572143
+underdeveloped,npv_musd,device_esw_mult,Device switching energies,103.81070120331104,165.39793705996374
+underdeveloped,npv_musd,device_ron_mult,Device on-state resistances,61.76099625159573,64.84645210070273
+underdeveloped,npv_musd,adoption_elasticity,Policy elasticity of adoption,2670.995508346884,2154.662949845266
+underdeveloped,npv_musd,fuel_co2_mult,Displaced-fuel emission factor,136.95305783161567,121.47207549764076
+underdeveloped,npv_musd,programme_cost_mult,Programme resource cost,1164.8348632059108,204.02236583388574
+underdeveloped,cumulative_emissions_saved_mt,fuel_price,Fossil fuel price,7.812918791772291,6.071144852012439
+underdeveloped,cumulative_emissions_saved_mt,electricity_price,Retail electricity price,1.6523800959395547,1.6223075834846337
+underdeveloped,cumulative_emissions_saved_mt,grid_emission_factor,Grid carbon intensity,4.7897353850174245,0.7103283298564357
+underdeveloped,cumulative_emissions_saved_mt,grid_availability,Supply availability,0.031239600336490647,0.043188497798417186
+underdeveloped,cumulative_emissions_saved_mt,mean_temperature,Mean ambient temperature,1.3282949180836545,0.4292485743841608
+underdeveloped,cumulative_emissions_saved_mt,capital_cost_premium,Infrastructure cost premium,0.09764488470443966,0.08924213135667722
+underdeveloped,cumulative_emissions_saved_mt,discount_rate,Social discount rate,1.4767577196402737,1.0988709808512687
+underdeveloped,cumulative_emissions_saved_mt,bass_q,Word-of-mouth adoption coefficient,18.158560996786726,9.860921066520067
+underdeveloped,cumulative_emissions_saved_mt,market_potential,Market potential ceiling,2.1107852237825906,1.4294586456928173
+underdeveloped,cumulative_emissions_saved_mt,transformer_headroom,Network spare capacity,0.05292924389726994,0.05536970708760788
+underdeveloped,cumulative_emissions_saved_mt,solar_ghi,Solar resource,0.5214479963649675,0.2032720323329808
+underdeveloped,cumulative_emissions_saved_mt,social_carbon_price,Social carbon price,0.07749428421378113,0.06002951866606536
+underdeveloped,cumulative_emissions_saved_mt,value_of_time,Value of travel time,0.04315575018816875,0.051547044164544205
+underdeveloped,cumulative_emissions_saved_mt,vehicle_stock_growth,Vehicle stock growth,21.70175264930414,8.412860696864083
+underdeveloped,cumulative_emissions_saved_mt,device_esw_mult,Device switching energies,0.09305042224485072,0.09109104935817511
+underdeveloped,cumulative_emissions_saved_mt,device_ron_mult,Device on-state resistances,0.0854560213634481,0.09671400550968054
+underdeveloped,cumulative_emissions_saved_mt,adoption_elasticity,Policy elasticity of adoption,23.91460907695432,13.59430510827038
+underdeveloped,cumulative_emissions_saved_mt,fuel_co2_mult,Displaced-fuel emission factor,6.050914619434382,1.8688313746840433
+underdeveloped,cumulative_emissions_saved_mt,programme_cost_mult,Programme resource cost,0.0486390929236139,0.06299677118594757
+developing,npv_musd,fuel_price,Fossil fuel price,8857.335821477096,1755.3459045471977
+developing,npv_musd,electricity_price,Retail electricity price,1908.7377665533998,476.8620427505568
+developing,npv_musd,grid_emission_factor,Grid carbon intensity,466.1782892967906,267.21760010646165
+developing,npv_musd,grid_availability,Supply availability,481.50087162217903,349.6773387728423
+developing,npv_musd,mean_temperature,Mean ambient temperature,1367.311982958097,333.44843319081764
+developing,npv_musd,capital_cost_premium,Infrastructure cost premium,1817.649919468065,563.8720412635067
+developing,npv_musd,discount_rate,Social discount rate,2631.8468198543246,1693.045895080333
+developing,npv_musd,bass_q,Word-of-mouth adoption coefficient,778.1446643825425,463.76474283057365
+developing,npv_musd,market_potential,Market potential ceiling,433.42556741507997,506.40818276367384
+developing,npv_musd,transformer_headroom,Network spare capacity,503.8866516914266,85.39522648201785
+developing,npv_musd,solar_ghi,Solar resource,174.11692466314554,158.68777886246326
+developing,npv_musd,social_carbon_price,Social carbon price,1152.5030331784803,384.8488059332069
+developing,npv_musd,value_of_time,Value of travel time,662.8971799074094,317.26431923640604
+developing,npv_musd,vehicle_stock_growth,Vehicle stock growth,1875.1004099227255,1232.9136517049726
+developing,npv_musd,device_esw_mult,Device switching energies,160.36101796479738,185.46470502916452
+developing,npv_musd,device_ron_mult,Device on-state resistances,231.04128367911645,295.64127306862304
+developing,npv_musd,adoption_elasticity,Policy elasticity of adoption,1903.2980735669867,1418.292284268836
+developing,npv_musd,fuel_co2_mult,Displaced-fuel emission factor,338.0207929829415,173.60020284956784
+developing,npv_musd,programme_cost_mult,Programme resource cost,8681.5517165913,1598.1587726350285
+developing,cumulative_emissions_saved_mt,fuel_price,Fossil fuel price,3.067851979862719,2.258545730135747
+developing,cumulative_emissions_saved_mt,electricity_price,Retail electricity price,0.5575996634261497,0.4752885207489167
+developing,cumulative_emissions_saved_mt,grid_emission_factor,Grid carbon intensity,29.053288345697695,2.9459830292031235
+developing,cumulative_emissions_saved_mt,grid_availability,Supply availability,0.12465050987486204,0.16847316434350848
+developing,cumulative_emissions_saved_mt,mean_temperature,Mean ambient temperature,9.660604434219543,2.798980122321508
+developing,cumulative_emissions_saved_mt,capital_cost_premium,Infrastructure cost premium,0.24288575355412123,0.30166509526643076
+developing,cumulative_emissions_saved_mt,discount_rate,Social discount rate,0.7745238846960909,0.7768960898159136
+developing,cumulative_emissions_saved_mt,bass_q,Word-of-mouth adoption coefficient,7.779942811142324,6.234722271135492
+developing,cumulative_emissions_saved_mt,market_potential,Market potential ceiling,2.3410098899121197,1.155725644721269
+developing,cumulative_emissions_saved_mt,transformer_headroom,Network spare capacity,0.1327920498618267,0.18332874397840995
+developing,cumulative_emissions_saved_mt,solar_ghi,Solar resource,0.8566622548249507,0.5000722584158264
+developing,cumulative_emissions_saved_mt,social_carbon_price,Social carbon price,0.18926049904386621,0.21167872207081873
+developing,cumulative_emissions_saved_mt,value_of_time,Value of travel time,0.13738121992413466,0.21458698762742134
+developing,cumulative_emissions_saved_mt,vehicle_stock_growth,Vehicle stock growth,27.98172707020595,5.668139358120614
+developing,cumulative_emissions_saved_mt,device_esw_mult,Device switching energies,0.28950396870680595,0.14275004353390444
+developing,cumulative_emissions_saved_mt,device_ron_mult,Device on-state resistances,0.2952305387867613,0.10239836881388362
+developing,cumulative_emissions_saved_mt,adoption_elasticity,Policy elasticity of adoption,18.23543926344716,13.922812569551962
+developing,cumulative_emissions_saved_mt,fuel_co2_mult,Displaced-fuel emission factor,12.650263400871104,2.355379119345426
+developing,cumulative_emissions_saved_mt,programme_cost_mult,Programme resource cost,0.18542727355652633,0.3318564252300626
+developed,npv_musd,fuel_price,Fossil fuel price,467674.21025042766,38886.65399802945
+developed,npv_musd,electricity_price,Retail electricity price,202977.83064080935,33766.936515557514
+developed,npv_musd,grid_emission_factor,Grid carbon intensity,23961.852357587617,5098.054051095047
+developed,npv_musd,grid_availability,Supply availability,229268.23441982997,53161.84583000584
+developed,npv_musd,mean_temperature,Mean ambient temperature,45712.47074836696,14496.674511928548
+developed,npv_musd,capital_cost_premium,Infrastructure cost premium,68393.27967696695,6281.444073912168
+developed,npv_musd,discount_rate,Social discount rate,30237.22107575195,18960.078938423663
+developed,npv_musd,bass_q,Word-of-mouth adoption coefficient,36486.78791667091,20537.84447297082
+developed,npv_musd,market_potential,Market potential ceiling,10868.85964781384,9173.86686871138
+developed,npv_musd,transformer_headroom,Network spare capacity,6561.0540741608675,7194.833930269377
+developed,npv_musd,solar_ghi,Solar resource,5974.72068637497,6931.937461780229
+developed,npv_musd,social_carbon_price,Social carbon price,254981.09774942574,32885.21326830063
+developed,npv_musd,value_of_time,Value of travel time,8051.872648898536,5454.6005545626085
+developed,npv_musd,vehicle_stock_growth,Vehicle stock growth,18143.086326627035,13218.17739793188
+developed,npv_musd,device_esw_mult,Device switching energies,3806.77619189842,3504.9077457156977
+developed,npv_musd,device_ron_mult,Device on-state resistances,6188.961112943583,7720.922202419171
+developed,npv_musd,adoption_elasticity,Policy elasticity of adoption,35456.59447287512,22566.97409404761
+developed,npv_musd,fuel_co2_mult,Displaced-fuel emission factor,29503.140727560145,15514.831232454877
+developed,npv_musd,programme_cost_mult,Programme resource cost,111611.29507717854,8421.504308729749
+developed,cumulative_emissions_saved_mt,fuel_price,Fossil fuel price,148.31663365651025,95.53878659282876
+developed,cumulative_emissions_saved_mt,electricity_price,Retail electricity price,82.1666984000142,45.894350056502255
+developed,cumulative_emissions_saved_mt,grid_emission_factor,Grid carbon intensity,72.65677607871868,7.777199356243382
+developed,cumulative_emissions_saved_mt,grid_availability,Supply availability,0.37204430803830846,0.4800145163848959
+developed,cumulative_emissions_saved_mt,mean_temperature,Mean ambient temperature,25.02956797868679,9.402479814871873
+developed,cumulative_emissions_saved_mt,capital_cost_premium,Infrastructure cost premium,0.48556597508285293,0.46906254235631584
+developed,cumulative_emissions_saved_mt,discount_rate,Social discount rate,4.621048072705625,1.56218409245942
+developed,cumulative_emissions_saved_mt,bass_q,Word-of-mouth adoption coefficient,75.06365596532233,32.44813704807687
+developed,cumulative_emissions_saved_mt,market_potential,Market potential ceiling,12.698150142338001,5.951265881791868
+developed,cumulative_emissions_saved_mt,transformer_headroom,Network spare capacity,0.4062584392066739,0.31573877616460416
+developed,cumulative_emissions_saved_mt,solar_ghi,Solar resource,6.686446271336543,1.5888006601007627
+developed,cumulative_emissions_saved_mt,social_carbon_price,Social carbon price,0.4942026822478418,0.5073165546615899
+developed,cumulative_emissions_saved_mt,value_of_time,Value of travel time,0.42677956242782855,0.49257129368017233
+developed,cumulative_emissions_saved_mt,vehicle_stock_growth,Vehicle stock growth,33.034903109052784,3.581881806185405
+developed,cumulative_emissions_saved_mt,device_esw_mult,Device switching energies,1.1861463585417873,0.4263854378069144
+developed,cumulative_emissions_saved_mt,device_ron_mult,Device on-state resistances,0.7512597448974034,0.6225731378305259
+developed,cumulative_emissions_saved_mt,adoption_elasticity,Policy elasticity of adoption,53.407282783325996,34.11639313732268
+developed,cumulative_emissions_saved_mt,fuel_co2_mult,Displaced-fuel emission factor,105.2710885771937,15.16944786879399
+developed,cumulative_emissions_saved_mt,programme_cost_mult,Programme resource cost,0.5290526730663707,0.5282841188010368

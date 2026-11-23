@@ -1,0 +1,286 @@
+{
+ "underdeveloped": {
+  "keys": [
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "S5",
+   "S6"
+  ],
+  "base_rank": [
+   2,
+   6,
+   5,
+   4,
+   3,
+   1
+  ],
+  "equal_rank": [
+   2,
+   6,
+   5,
+   4,
+   3,
+   1
+  ],
+  "group_rank": [
+   2,
+   6,
+   5,
+   4,
+   3,
+   1
+  ],
+  "p_first": [
+   0.3476,
+   0.0314,
+   0.0416,
+   0.0,
+   0.0054,
+   0.574
+  ],
+  "mean_rank": [
+   2.8388,
+   5.0248,
+   4.2642,
+   4.5678,
+   2.774,
+   1.5304
+  ],
+  "kendall_tau_mean": 0.5937866666666666,
+  "kendall_tau_p05": -0.3333333333333333
+ },
+ "developing": {
+  "keys": [
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "S5",
+   "S6"
+  ],
+  "base_rank": [
+   3,
+   6,
+   5,
+   4,
+   2,
+   1
+  ],
+  "equal_rank": [
+   3,
+   6,
+   5,
+   4,
+   2,
+   1
+  ],
+  "group_rank": [
+   3,
+   6,
+   5,
+   4,
+   2,
+   1
+  ],
+  "p_first": [
+   0.2246,
+   0.0046,
+   0.1592,
+   0.0138,
+   0.216,
+   0.3818
+  ],
+  "mean_rank": [
+   3.4666,
+   4.9296,
+   3.8206,
+   4.239,
+   2.2546,
+   2.2896
+  ],
+  "kendall_tau_mean": 0.47912,
+  "kendall_tau_p05": -0.6
+ },
+ "developed": {
+  "keys": [
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "S5",
+   "S6"
+  ],
+  "base_rank": [
+   1,
+   6,
+   5,
+   2,
+   3,
+   4
+  ],
+  "equal_rank": [
+   1,
+   6,
+   5,
+   2,
+   3,
+   4
+  ],
+  "group_rank": [
+   1,
+   6,
+   5,
+   2,
+   3,
+   4
+  ],
+  "p_first": [
+   0.4722,
+   0.0,
+   0.0018,
+   0.1778,
+   0.3022,
+   0.046
+  ],
+  "mean_rank": [
+   2.4474,
+   5.747,
+   4.8484,
+   2.2498,
+   2.273,
+   3.4344
+  ],
+  "kendall_tau_mean": 0.65728,
+  "kendall_tau_p05": 0.06666666666666665
+ },
+ "weights": {
+  "fleet_energy_per_km_wh": {
+   "label": "Fleet specific energy use",
+   "group": "energy",
+   "benefit": false,
+   "weight": 0.04545454545454545
+  },
+  "mean_conversion_loss_ratio": {
+   "label": "Power-conversion loss ratio",
+   "group": "energy",
+   "benefit": false,
+   "weight": 0.05555555555555555
+  },
+  "mean_loss_fraction": {
+   "label": "Network loss fraction",
+   "group": "energy",
+   "benefit": false,
+   "weight": 0.050505050505050504
+  },
+  "load_factor": {
+   "label": "System load factor",
+   "group": "energy",
+   "benefit": true,
+   "weight": 0.04545454545454545
+  },
+  "mean_eta_traction": {
+   "label": "Traction-chain efficiency",
+   "group": "power_electronics",
+   "benefit": true,
+   "weight": 0.0606060606060606
+  },
+  "mean_eta_charging": {
+   "label": "Charging-path efficiency",
+   "group": "power_electronics",
+   "benefit": true,
+   "weight": 0.0606060606060606
+  },
+  "final_wait_min": {
+   "label": "Mean charging waiting time",
+   "group": "service",
+   "benefit": false,
+   "weight": 0.05555555555555555
+  },
+  "final_charger_availability": {
+   "label": "Charging service availability",
+   "group": "service",
+   "benefit": true,
+   "weight": 0.0404040404040404
+  },
+  "voltage_deviation_pu": {
+   "label": "Mean voltage deviation",
+   "group": "network",
+   "benefit": false,
+   "weight": 0.0404040404040404
+  },
+  "final_transformer_loading": {
+   "label": "Peak transformer loading",
+   "group": "network",
+   "benefit": false,
+   "weight": 0.04545454545454545
+  },
+  "line_loading_pu": {
+   "label": "95th-percentile line loading",
+   "group": "network",
+   "benefit": false,
+   "weight": 0.0303030303030303
+  },
+  "thd_v": {
+   "label": "Voltage total harmonic distortion",
+   "group": "network",
+   "benefit": false,
+   "weight": 0.03535353535353535
+  },
+  "final_reliability": {
+   "label": "Supply reliability",
+   "group": "network",
+   "benefit": true,
+   "weight": 0.050505050505050504
+  },
+  "resilience_index": {
+   "label": "Network resilience",
+   "group": "network",
+   "benefit": true,
+   "weight": 0.0303030303030303
+  },
+  "delta_emissions_mt": {
+   "label": "Additional CO2 avoided vs. reference",
+   "group": "environment",
+   "benefit": true,
+   "weight": 0.0707070707070707
+  },
+  "emissions_intensity_g_km": {
+   "label": "Charging emission intensity",
+   "group": "environment",
+   "benefit": false,
+   "weight": 0.04545454545454545
+  },
+  "mean_renewable_utilisation": {
+   "label": "Renewable share of charging",
+   "group": "environment",
+   "benefit": true,
+   "weight": 0.04545454545454545
+  },
+  "battery_fade_pct": {
+   "label": "Battery capacity fade",
+   "group": "environment",
+   "benefit": false,
+   "weight": 0.0303030303030303
+  },
+  "incremental_bcr": {
+   "label": "Incremental benefit-cost ratio",
+   "group": "economic",
+   "benefit": true,
+   "weight": 0.06565656565656565
+  },
+  "payback_years": {
+   "label": "Discounted payback period",
+   "group": "economic",
+   "benefit": false,
+   "weight": 0.050505050505050504
+  },
+  "abatement_cost_usd_t": {
+   "label": "Marginal abatement cost",
+   "group": "economic",
+   "benefit": false,
+   "weight": 0.04545454545454545
+  }
+ }
+}

@@ -1,0 +1,71 @@
+# Historical adoption data used by calibrate.py (second revision).
+# series = sales: electric share of new registrations.  Germany: battery-electric
+#   share of new passenger cars (Kraftfahrt-Bundesamt annual reports); India:
+#   electric share of two-wheeler sales (transferred to Bangladesh).
+# series = stock: battery-electric share of the German car stock at the end of
+#   the year (KBA stock on 1 January of the following year); used only to check
+#   the stock implied by the fitted sales through fleet turnover.
+# incentive_fraction: federal purchase premium for battery-electric cars
+#   (Umweltbonus, government and manufacturer shares) as an effective annual
+#   average, as a fraction of an average battery-electric list price of
+#   40,000 EUR: 4,000 EUR from 2 July 2016; 6,000 EUR (cars up to 40,000 EUR)
+#   from November 2019; 9,000 EUR (Innovationspraemie) from June 2020 to
+#   December 2022; 6,750 EUR in 2023, for private buyers only from September;
+#   none after 17 December 2023 (BAFA).  The company-car tax rule of 2020 is not
+#   represented and is absorbed in the fitted coefficients.
+# India: national demand incentive for electric two-wheelers as an approximate
+#   effective annual average, as a fraction of a typical ex-factory price of
+#   110,000 INR with a 2.5-2.8 kWh battery: FAME-II 10,000 INR/kWh capped at
+#   20 % from April 2019 (most 2019-20 sales were low-speed models outside the
+#   scheme); 15,000 INR/kWh capped at 40 % from June 2021; 10,000 INR/kWh capped
+#   at 15 % from 1 June 2023 (PIB); EMPS and PM E-DRIVE 5,000 INR/kWh, at most
+#   10,000 INR, from April 2024, halved from April 2025.  State incentives are
+#   not represented.
+# Years up to 2022 calibrate; 2023-2025 validate (Germany: the premium was cut in
+#   2023 and ended in December 2023, so the hold-out tests the price response).
+# Sources:
+#  KBA-PM   KBA press releases "Fahrzeugzulassungen im Dezember - Jahresbilanz",
+#           https://www.kba.de/DE/Presse/Pressemitteilungen/Fahrzeugzulassungen/ (pm01 of each year)
+#  KBA-ZR   https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/Umwelt/2024/2024_b_umwelt_zeitreihen.html
+#  KBA-JB14 https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/Jahrebilanz_Bestand/2014/2014_b_jahresbilanz_tabellen.html
+#  KBA-PM25 https://www.kba.de/DE/Presse/Pressemitteilungen/Fahrzeugbestand/2025/pm10_fz_bestand_pm_komplett.html
+#  KBA-PM26 https://www.kba.de/DE/Presse/Pressemitteilungen/Fahrzeugbestand/2026/pm09_fz_bestand_pm_komplett.html
+#  BAFA     https://www.bafa.de/SharedDocs/Kurzmeldungen/DE/Energie/Elektromobilitaet/20231216_foerderende.html
+#  PIB      https://pib.gov.in/PressReleasePage.aspx?PRID=1987802 (FAME-II two-wheeler incentive from 1 June 2023)
+#  PMED     https://www.autocarpro.in/news/pm-e-drive-two-wheeler-subsidies-will-be-halved-after-one-year-govt-122546
+#  ICCT-2W  https://theicct.org/sites/default/files/publications/2W-sales-India-wp-FINAL-dec21.pdf
+#  BS-2W22  https://www.business-standard.com/article/companies/e-two-wheeler-sales-ride-past-500-000-mark-in-2022-penetrate-4-of-mkt-122122700569_1.html
+#  IEA24/25 https://www.iea.org/reports/global-ev-outlook-2025/trends-in-other-light-duty-electric-vehicles
+#  IEA26    https://www.iea.org/reports/global-ev-outlook-2026/trends-in-other-ev-modes
+archetype,country,series,year,ev_stock_share,ev_sales_share,incentive_fraction,lifetime_y,stock_growth,source
+developed,Germany,sales,2014,,0.002806,0.0,16,0.004,KBA-PM (8522 BEV of 3036773 new cars)
+developed,Germany,sales,2015,,0.003856,0.0,16,0.004,KBA-PM (12363 of 3206042)
+developed,Germany,sales,2016,,0.003404,0.05,16,0.004,KBA-PM (11410 of 3351607); premium from July
+developed,Germany,sales,2017,,0.007281,0.10,16,0.004,KBA-PM (25056 of 3441262)
+developed,Germany,sales,2018,,0.010496,0.10,16,0.004,KBA-PM (36062 of 3435778)
+developed,Germany,sales,2019,,0.017543,0.11,16,0.004,KBA-PM (63281 of 3607258)
+developed,Germany,sales,2020,,0.066547,0.19,16,0.004,KBA-PM (194163 of 2917678; 2021 report: +83.3 %)
+developed,Germany,sales,2021,,0.135753,0.21,16,0.004,KBA-PM (355961 of 2622132; 13.6 %)
+developed,Germany,sales,2022,,0.177478,0.21,16,0.004,KBA-PM (470559 of 2651357; 17.7 %)
+developed,Germany,sales,2023,,0.184285,0.11,16,0.004,KBA-PM (524219 of 2844609; 18.4 %)
+developed,Germany,sales,2024,,0.135096,0.0,16,0.004,KBA-PM (380609 of 2817331; 13.5 %)
+developed,Germany,sales,2025,,0.191,0.0,16,0.004,KBA-PM (545142; 19.1 %)
+developed,Germany,stock,2013,0.000277,,,,,KBA-JB14 (BEV 12156 of 43851230 on 1 Jan 2014)
+developed,Germany,stock,2014,0.000427,,,,,KBA-ZR (BEV 18948 of 44403124 on 1 Jan 2015)
+developed,Germany,stock,2015,0.000566,,,,,KBA-ZR (BEV 25502 of 45071209 on 1 Jan 2016)
+developed,Germany,stock,2016,0.000743,,,,,KBA-ZR (BEV 34022 of 45803560 on 1 Jan 2017)
+developed,Germany,stock,2017,0.001159,,,,,KBA-ZR (BEV 53861 of 46474594 on 1 Jan 2018)
+developed,Germany,stock,2018,0.001766,,,,,KBA-ZR (BEV 83175 of 47095784 on 1 Jan 2019)
+developed,Germany,stock,2019,0.002863,,,,,KBA-ZR (BEV 136617 of 47715977 on 1 Jan 2020)
+developed,Germany,stock,2020,0.006406,,,,,KBA-ZR (BEV 309083 of 48248584 on 1 Jan 2021)
+developed,Germany,stock,2021,0.012741,,,,,KBA-ZR (BEV 618460 of 48540878 on 1 Jan 2022)
+developed,Germany,stock,2022,0.020774,,,,,KBA-ZR (BEV 1013009 of 48763036 on 1 Jan 2023)
+developed,Germany,stock,2023,0.028691,,,,,KBA-ZR (BEV 1408681 of 49098685 on 1 Jan 2024)
+developed,Germany,stock,2024,0.033475,,,,,KBA-PM25 (BEV 1651643 of 49339166 on 1 Jan 2025)
+developed,Germany,stock,2025,0.041107,,,,,KBA-PM26 (BEV 2034260 of 49486487 on 1 Jan 2026)
+developing,India (transferred to Bangladesh),sales,2019,,0.002,0.10,11,0.05,ICCT-2W (electric share of two-wheeler sales FY2019-20)
+developing,India (transferred to Bangladesh),sales,2020,,0.003,0.10,11,0.05,ICCT-2W (FY2020-21)
+developing,India (transferred to Bangladesh),sales,2022,,0.04,0.33,11,0.05,BS-2W22 (calendar 2022)
+developing,India (transferred to Bangladesh),sales,2023,,0.05,0.225,11,0.05,IEA24/IEA25 (calendar 2023); PIB
+developing,India (transferred to Bangladesh),sales,2024,,0.06,0.10,11,0.05,IEA25 (calendar 2024); PMED
+developing,India (transferred to Bangladesh),sales,2025,,0.06,0.05,11,0.05,IEA26 (calendar 2025); PMED

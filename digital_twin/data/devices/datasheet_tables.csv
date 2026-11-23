@@ -1,0 +1,74 @@
+part_number,manufacturer,parameter,value,unit,condition,source,page,how
+IPDQ65R017CFD7A,Infineon,v_rating,650,V,V(BR)DSS; VGS=0 V,"650V CoolMOS CFD7A SJ Power Device, Datasheet IPDQ65R017CFD7A Rev. 2.2, 2026-03-01 (automotive, fast body diode)",p.5 Table 4,table
+IPDQ65R017CFD7A,Infineon,i_nominal,86,A,ID continuous; TC=100 C,same,p.3 Table 2,table
+IPDQ65R017CFD7A,Infineon,rds_on_25,14,mohm,VGS=10 V; ID=61.6 A; Tj=25 C; typ,same,p.5 Table 4,table
+IPDQ65R017CFD7A,Infineon,rds_on_hot,31,mohm,VGS=10 V; ID=61.6 A; Tj=150 C; typ,same,p.5 Table 4,table
+IPDQ65R017CFD7A,Infineon,t_hot,150,C,temperature of rds_on_hot,same,p.5 Table 4,table
+IPDQ65R017CFD7A,Infineon,rth_jc,0.18,K/W,junction-case; max,same,p.4 Table 3,table
+IPDQ65R017CFD7A,Infineon,v_sd,1.0,V,VGS=0 V; IF=61.6 A; Tj=25 C,same,p.6 Table 7,table
+IPDQ65R017CFD7A,Infineon,q_rec,2500,nC,Qrr; VR=400 V; IF=61.6 A; diF/dt=100 A/us,same,p.6 Table 7,table
+IPDQ65R017CFD7A,Infineon,e_oss,35.3,uJ,0.5 Co(er) V^2 with Co(er)=441 pF over VDS=0-400 V,same,p.5 Table 5,table
+IPDQ65R017CFD7A,Infineon,t_r,35,ns,rise time; VDD=400 V; VGS=13 V; ID=61.6 A; RG=1.8 ohm,same,p.5 Table 5,table
+IPDQ65R017CFD7A,Infineon,t_f,4,ns,fall time; VDD=400 V; VGS=13 V; ID=61.6 A; RG=1.8 ohm,same,p.5 Table 5,table
+IPDQ65R017CFD7A,Infineon,v_test,400,V,switching-time test voltage,same,p.5 Table 5,table
+IPDQ65R017CFD7A,Infineon,i_test,61.6,A,switching-time test current,same,p.5 Table 5,table
+IAUT300N10S5N015,Infineon,v_rating,100,V,V(BR)DSS; VGS=0 V,"OptiMOS-5 Power-Transistor IAUT300N10S5N015 data sheet Rev. 1.2, 2025-02-19",p.2,table
+IAUT300N10S5N015,Infineon,i_nominal,247,A,ID continuous; TC=100 C; VGS=10 V,same,p.1,table
+IAUT300N10S5N015,Infineon,rds_on_25,1.3,mohm,VGS=10 V; ID=100 A; Tj=25 C; typ,same,p.2,table
+IAUT300N10S5N015,Infineon,rds_on_hot,2.57,mohm,VGS=10 V; ID=100 A; Tj=175 C; typ,same,p.5 Fig. 8,figure
+IAUT300N10S5N015,Infineon,t_hot,175,C,temperature of rds_on_hot,same,p.5 Fig. 8,figure
+IAUT300N10S5N015,Infineon,rth_jc,0.4,K/W,junction-case; max,same,p.2,table
+IAUT300N10S5N015,Infineon,v_sd,0.9,V,VGS=0 V; IF=100 A; Tj=25 C; typ,same,p.3,table
+IAUT300N10S5N015,Infineon,q_rec,220,nC,Qrr; VR=50 V; IF=50 A; diF/dt=100 A/us,same,p.3,table
+IAUT300N10S5N015,Infineon,e_oss,2.4,uJ,0.5 Coss V^2 with Coss=1920 pF at VDS=50 V (tabulated Coss; Eoss not tabulated),same,p.3,table
+IAUT300N10S5N015,Infineon,t_r,15,ns,rise time; VDD=50 V; VGS=10 V; ID=100 A; RG=3.5 ohm,same,p.3,table
+IAUT300N10S5N015,Infineon,t_f,48,ns,fall time; VDD=50 V; VGS=10 V; ID=100 A; RG=3.5 ohm,same,p.3,table
+IAUT300N10S5N015,Infineon,v_test,50,V,switching-time test voltage,same,p.3,table
+IAUT300N10S5N015,Infineon,i_test,100,A,switching-time test current,same,p.3,table
+EPC2302,EPC,v_rating,100,V,VDS continuous,"eGaN FET Datasheet EPC2302, revised April 29, 2026",p.1,table
+EPC2302,EPC,i_nominal,133,A,ID continuous; TJ<125 C,same,p.1,table
+EPC2302,EPC,rds_on_25,1.4,mohm,VGS=5 V; ID=50 A; TJ=25 C; typ,same,p.2,table
+EPC2302,EPC,rds_on_hot,2.86,mohm,"2.04 x the 25 C value at TJ=150 C (ID=50 A, VGS=5 V)",same,p.4 Fig. 9,figure
+EPC2302,EPC,t_hot,150,C,temperature of rds_on_hot,same,p.4 Fig. 9,figure
+EPC2302,EPC,rth_jc,0.2,K/W,junction-case (case top); typ,same,p.2,table
+EPC2302,EPC,v_sd,2.4,V,reverse conduction; ISD=50 A; VGS=0 V; 25 C,same,p.4 Fig. 8,figure
+EPC2302,EPC,q_rec,0,nC,QRR,same,p.2,table
+EPC2302,EPC,e_oss,1.63,uJ,0.5 COSS(ER) V^2 with COSS(ER)=1300 pF over VDS=0-50 V,same,p.2,table
+EPC2302,EPC,q_gd,2.3,nC,QGD; VDS=50 V; ID=50 A,same,p.2,table
+EPC2302,EPC,q_gs,8.9,nC,QGS; VDS=50 V; ID=50 A,same,p.2,table
+EPC2302,EPC,q_gth,6.3,nC,QG(TH),same,p.2,table
+EPC2302,EPC,r_g_int,0.5,ohm,internal gate resistance,same,p.2,table
+EPC2302,EPC,v_plateau,2.35,V,Miller plateau at ID=50 A; VDS=50 V,same,p.4 Fig. 7,figure
+EPC2302,EPC,v_drive,5,V,recommended gate drive ON,same,p.1,table
+EPC2302,EPC,v_test,50,V,gate-charge test voltage,same,p.2,table
+EPC2302,EPC,i_test,50,A,gate-charge test current,same,p.2,table
+IMZA65R027M1H,Infineon,v_rating,650,V,VDSS,"Datasheet IMZA65R027M1H (CoolSiC MOSFET 650 V G1) Rev. 2.2, 2025-01-20",p.6 Table 5,table
+IMZA65R027M1H,Infineon,i_nominal,48,A,ID continuous; TC=100 C,same,p.3 Table 2,table
+IMZA65R027M1H,Infineon,rds_on_25,27,mohm,VGS=18 V; ID=38.3 A; Tj=25 C; typ,same,p.6 Table 5,table
+IMZA65R027M1H,Infineon,rds_on_hot,38,mohm,VGS=18 V; ID=38.3 A; Tj=175 C; typ,same,p.6 Table 5,table
+IMZA65R027M1H,Infineon,t_hot,175,C,temperature of rds_on_hot,same,p.6 Table 5,table
+IMZA65R027M1H,Infineon,rth_jc,0.66,K/W,junction-case; max,same,p.4 Table 3,table
+IMZA65R027M1H,Infineon,v_sd,4.0,V,VGS=0 V; IS=38.3 A; Tj=25 C,same,p.7 Table 8,table
+IMZA65R027M1H,Infineon,q_rec,92,nC,Qfr 239 nC less Qoss 147 nC; VDD=400 V; IS=38.3 A; di/dt=1000 A/us,same,p.6 Table 6; p.7 Table 8,table
+IMZA65R027M1H,Infineon,e_oss,22.2,uJ,0.5 Co(er) V^2 with Co(er)=278 pF over VDS=0-400 V,same,p.6 Table 6,table
+IMZA65R027M1H,Infineon,t_r,4.2,ns,rise time; VDD=400 V; VGS=0/18 V; ID=38.3 A; RG=1.8 ohm,same,p.6 Table 6,table
+IMZA65R027M1H,Infineon,t_f,8.4,ns,fall time; VDD=400 V; VGS=0/18 V; ID=38.3 A; RG=1.8 ohm,same,p.6 Table 6,table
+IMZA65R027M1H,Infineon,v_test,400,V,switching-time test voltage,same,p.6 Table 6,table
+IMZA65R027M1H,Infineon,i_test,38.3,A,switching-time test current,same,p.6 Table 6,table
+IMZA120R022M2H,Infineon,v_rating,1200,V,VDSS,"Datasheet IMZA120R022M2H (CoolSiC 1200 V SiC MOSFET G2) Rev. 1.20, 2026-07-23",p.3 Table 2,table
+IMZA120R022M2H,Infineon,i_nominal,57,A,IDDC; VGS=18 V; TC=100 C,same,p.3 Table 2,table
+IMZA120R022M2H,Infineon,rds_on_25,22,mohm,VGS=18 V; ID=32 A; Tvj=25 C; typ,same,p.4 Table 4,table
+IMZA120R022M2H,Infineon,rds_on_hot,51,mohm,VGS=18 V; ID=32 A; Tvj=175 C; typ,same,p.4 Table 4,table
+IMZA120R022M2H,Infineon,t_hot,175,C,temperature of rds_on_hot,same,p.4 Table 4,table
+IMZA120R022M2H,Infineon,rth_jc,0.35,K/W,MOSFET junction-case; typ,same,p.2 Table 1,table
+IMZA120R022M2H,Infineon,v_sd,4.05,V,VGS=0 V; ISD=32 A; Tvj=175 C,same,p.7 Table 6,table
+IMZA120R022M2H,Infineon,q_rec,114,nC,Qfr 0.27 uC less Qoss 156 nC; VDD=800 V; ISD=32 A; Tvj=25 C,same,p.4 Table 4; p.7 Table 6,table
+IMZA120R022M2H,Infineon,e_oss,42,uJ,Eoss from Coss=f(VDD) at 800 V,same,p.4 Table 4,table
+IMZA120R022M2H,Infineon,t_r,6.2,ns,rise time; VDD=800 V; ID=32 A; VGS=0/18 V; RG=2.3 ohm; Tvj=25 C,same,p.5 Table 4,table
+IMZA120R022M2H,Infineon,t_f,9.3,ns,fall time; VDD=800 V; ID=32 A; VGS=0/18 V; RG=2.3 ohm; Tvj=25 C,same,p.5 Table 4,table
+IMZA120R022M2H,Infineon,v_test,800,V,switching test voltage,same,p.5 Table 4,table
+IMZA120R022M2H,Infineon,i_test,32,A,switching test current,same,p.5 Table 4,table
+IMZA120R022M2H,Infineon,e_on_25,248,uJ,Eon; VDD=800 V; ID=32 A; VGS=0/18 V; RG=2.3 ohm; Tvj=25 C,same,p.5 Table 4,table
+IMZA120R022M2H,Infineon,e_off_25,105,uJ,Eoff; same conditions; Tvj=25 C,same,p.5 Table 4,table
+IMZA120R022M2H,Infineon,e_rec_25,134,uJ,Efr (forward recovery of the body diode); VDD=800 V; ISD=32 A; Tvj=25 C,same,p.7 Table 6,table
+IMZA120R022M2H,Infineon,e_tot_hot,971,uJ,Etot including Efr; same conditions; Tvj=175 C,same,p.5 Table 4,table

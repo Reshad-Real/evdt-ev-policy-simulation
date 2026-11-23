@@ -1,0 +1,18 @@
+Type,Check,Data,Model
+V,"Adoption, BEV cars, DE",test 2023-25,MAPE 15 %
+V,"Adoption, e-2W, IN (panel)",test 2023-25,MAPE 24 %
+V,"Transfer, IN/ID/KE left out",e-2W sales,MAPE 53-170 %
+V,Transfer to VN (no incentive),e-2W 2020-24,MAPE 20 %
+V,"Sales per 1000 EUR, DE",+5-7 % [munzel-2019],+8.1 %
+V,"Road CO2 2024, DE (CRF)",102.8 Mt,99.0 Mt
+V,"Transport CO2 2023, BD (bound)",14.9 Mt,14.4 Mt
+V,"Datasheets, 11 parts",83 points [infineon-hpd; transphorm-gan],max error 8 %
+V,"Light load, 225 V (held out)",8 points [ornl-prius-2011],MAE 1.6 pp
+V,Si IGBT inverter peak,>99 % [ornl-prius-2011; doe-amr-ornl],98.4-98.7 %
+V,"Range gain, 800 V SiC / IGBT",+5.0 / +1.2 % [allca-2024],+4.3 / +0.6 %
+V,SiC PFC / WBG OBC peak,98.5 / >96 %,98.7 / 96.2 %
+V,"DC stage peak, SiC / Si",>97 / >94 %,98.5 / 98.7 %
+V,"Feeders, loss / V_min","IEEE 33/69, IN 28 [baran-wu-1989; baran-wu-1989b; das-1994]",0.00 % / 0.0002 pu
+Ver.,"Power flow, interpolated",direct,4e-7 pu
+Ver.,Queue (6) vs simulation,5 cases,2.1 %
+Ver.,Energy balance,9 years,1e-16

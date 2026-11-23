@@ -1,0 +1,4285 @@
+[
+  {
+    "n": 1,
+    "key": "pol-infra-income",
+    "doi": "10.1016/j.enpol.2026.115098",
+    "title": "The role of charging infrastructure and income on electric vehicle adoption",
+    "journal": "Energy Policy",
+    "volume": "211",
+    "issue": "",
+    "page": "115098",
+    "article": "115098",
+    "alt_id": "S0301421526000327",
+    "year": 2026,
+    "month": 4,
+    "month_abbr": "Apr.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Thomas",
+        "family": "Gifford"
+      },
+      {
+        "given": "Edward",
+        "family": "Barbier"
+      }
+    ]
+  },
+  {
+    "n": 2,
+    "key": "pol-cn-incentives",
+    "doi": "10.1016/j.tra.2021.05.013",
+    "title": "Do policy incentives drive electric vehicle adoption? Evidence from China",
+    "journal": "Transportation Research Part A: Policy and Practice",
+    "volume": "150",
+    "issue": "",
+    "page": "49-62",
+    "article": "",
+    "alt_id": "S0965856421001415",
+    "year": 2021,
+    "month": 8,
+    "month_abbr": "Aug.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Xiaoling",
+        "family": "Liu"
+      },
+      {
+        "given": "Xiaohua",
+        "family": "Sun"
+      },
+      {
+        "given": "Hui",
+        "family": "Zheng"
+      },
+      {
+        "given": "Dongdong",
+        "family": "Huang"
+      }
+    ]
+  },
+  {
+    "n": 3,
+    "key": "pol-gov2market",
+    "doi": "10.1016/j.tra.2022.04.004",
+    "title": "From government to market? A discrete choice analysis of policy instruments for electric vehicle adoption",
+    "journal": "Transportation Research Part A: Policy and Practice",
+    "volume": "160",
+    "issue": "",
+    "page": "143-159",
+    "article": "",
+    "alt_id": "S0965856422000921",
+    "year": 2022,
+    "month": 6,
+    "month_abbr": "Jun.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Lixu",
+        "family": "Li"
+      },
+      {
+        "given": "Zhiqiang",
+        "family": "Wang"
+      },
+      {
+        "given": "Xiaoqing",
+        "family": "Xie"
+      }
+    ]
+  },
+  {
+    "n": 4,
+    "key": "pe-traction-inv-review",
+    "doi": "10.1016/j.egyr.2023.10.056",
+    "title": "A technical review of modern traction inverter systems used in electric vehicle application",
+    "journal": "Energy Reports",
+    "volume": "10",
+    "issue": "",
+    "page": "3882-3907",
+    "article": "",
+    "alt_id": "S2352484723014889",
+    "year": 2023,
+    "month": 11,
+    "month_abbr": "Nov.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Y.",
+        "family": "Vijaya Sambhavi"
+      },
+      {
+        "given": "Vijayapriya",
+        "family": "Ramachandran"
+      }
+    ]
+  },
+  {
+    "n": 5,
+    "key": "pe-gan-ev",
+    "doi": "10.3390/en19071752",
+    "title": "GaN HEMTs for Electric Vehicle Power Electronics: Device Architectures, Reliability and Next-Generation Wide Bandgap Opportunities",
+    "journal": "Energies",
+    "volume": "19",
+    "issue": "7",
+    "page": "1752",
+    "article": "",
+    "alt_id": "en19071752",
+    "year": 2026,
+    "month": 4,
+    "month_abbr": "Apr.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Husna",
+        "family": "Hamza"
+      },
+      {
+        "given": "Julie Roslita",
+        "family": "Rusli"
+      },
+      {
+        "given": "Anwar",
+        "family": "Jarndal"
+      }
+    ]
+  },
+  {
+    "n": 6,
+    "key": "pe-wbg-packaging",
+    "doi": "10.1109/tpel.2022.3200469",
+    "title": "Review of Topside Interconnections for Wide Bandgap Power Semiconductor Packaging",
+    "journal": "IEEE Transactions on Power Electronics",
+    "volume": "38",
+    "issue": "1",
+    "page": "472-490",
+    "article": "",
+    "alt_id": "",
+    "year": 2023,
+    "month": 1,
+    "month_abbr": "Jan.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Lisheng",
+        "family": "Wang"
+      },
+      {
+        "given": "Wenbo",
+        "family": "Wang"
+      },
+      {
+        "given": "Raymond J. E.",
+        "family": "Hueting"
+      },
+      {
+        "given": "Gert",
+        "family": "Rietveld"
+      },
+      {
+        "given": "Jan Abraham",
+        "family": "Ferreira"
+      }
+    ]
+  },
+  {
+    "n": 7,
+    "key": "pe-sic-loss-datasheet",
+    "doi": "10.1109/ojpel.2024.3485891",
+    "title": "Fast and Accurate Data Sheet Based Analytical Switching Loss Model for a SiC MOSFET and Schottky Diode Half-Bridge",
+    "journal": "IEEE Open Journal of Power Electronics",
+    "volume": "5",
+    "issue": "",
+    "page": "1684-1696",
+    "article": "",
+    "alt_id": "",
+    "year": 2024,
+    "month": 10,
+    "month_abbr": "Oct.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Anliang",
+        "family": "Hu"
+      },
+      {
+        "given": "Jürgen",
+        "family": "Biela"
+      }
+    ]
+  },
+  {
+    "n": 8,
+    "key": "dt-energy-review",
+    "doi": "10.1016/j.rser.2023.113891",
+    "title": "Energy Digital Twin applications: A review",
+    "journal": "Renewable and Sustainable Energy Reviews",
+    "volume": "188",
+    "issue": "",
+    "page": "113891",
+    "article": "113891",
+    "alt_id": "S1364032123007499",
+    "year": 2023,
+    "month": 12,
+    "month_abbr": "Dec.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "J.V.S.",
+        "family": "do Amaral"
+      },
+      {
+        "given": "C.H.",
+        "family": "dos Santos"
+      },
+      {
+        "given": "J.A.B.",
+        "family": "Montevechi"
+      },
+      {
+        "given": "A.R.",
+        "family": "de Queiroz"
+      }
+    ]
+  },
+  {
+    "n": 9,
+    "key": "dt-powertrain-review",
+    "doi": "10.3390/wevj15050208",
+    "title": "Application of Digital Twin in Electric Vehicle Powertrain: A Review",
+    "journal": "World Electric Vehicle Journal",
+    "volume": "15",
+    "issue": "5",
+    "page": "208",
+    "article": "",
+    "alt_id": "wevj15050208",
+    "year": 2024,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Xiaokang",
+        "family": "Li"
+      },
+      {
+        "given": "Wenxu",
+        "family": "Niu"
+      },
+      {
+        "given": "Haobin",
+        "family": "Tian"
+      }
+    ]
+  },
+  {
+    "n": 10,
+    "key": "dt-charging-infra",
+    "doi": "10.1016/j.scs.2024.105479",
+    "title": "Digital twin enabled transition towards the smart electric vehicle charging infrastructure: A review",
+    "journal": "Sustainable Cities and Society",
+    "volume": "108",
+    "issue": "",
+    "page": "105479",
+    "article": "105479",
+    "alt_id": "S2210670724003068",
+    "year": 2024,
+    "month": 8,
+    "month_abbr": "Aug.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Gang",
+        "family": "Yu"
+      },
+      {
+        "given": "Xianming",
+        "family": "Ye"
+      },
+      {
+        "given": "Xiaohua",
+        "family": "Xia"
+      },
+      {
+        "given": "YangQuan",
+        "family": "Chen"
+      }
+    ]
+  },
+  {
+    "n": 11,
+    "key": "dev-barriers-cmp",
+    "doi": "10.1016/j.esd.2025.101753",
+    "title": "Barriers to energy transition: Comparing developing with developed countries",
+    "journal": "Energy for Sustainable Development",
+    "volume": "87",
+    "issue": "",
+    "page": "101753",
+    "article": "101753",
+    "alt_id": "S0973082625001036",
+    "year": 2025,
+    "month": 8,
+    "month_abbr": "Aug.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Salvador",
+        "family": "Pereira"
+      },
+      {
+        "given": "Cristóvão",
+        "family": "Silva"
+      },
+      {
+        "given": "Luis Miguel D.F.",
+        "family": "Ferreira"
+      }
+    ]
+  },
+  {
+    "n": 12,
+    "key": "dev-in-2w",
+    "doi": "10.1016/j.tranpol.2024.05.004",
+    "title": "Electric two-wheeler adoption in India – A discrete choice analysis of motivators and barriers affecting the potential electric two-wheeler buyers",
+    "journal": "Transport Policy",
+    "volume": "152",
+    "issue": "",
+    "page": "118-131",
+    "article": "",
+    "alt_id": "S0967070X24001215",
+    "year": 2024,
+    "month": 6,
+    "month_abbr": "Jun.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Furqan A.",
+        "family": "Bhat"
+      },
+      {
+        "given": "Ashish",
+        "family": "Verma"
+      }
+    ]
+  },
+  {
+    "n": 13,
+    "key": "ldc-ssa-policy-access",
+    "doi": "10.1016/j.enpol.2026.115184",
+    "title": "Policy's role in electricity access progress in Sub-Saharan Africa",
+    "journal": "Energy Policy",
+    "volume": "212",
+    "issue": "",
+    "page": "115184",
+    "article": "115184",
+    "alt_id": "S0301421526001187",
+    "year": 2026,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Steven",
+        "family": "Parker"
+      },
+      {
+        "given": "Brantley",
+        "family": "Liddle"
+      }
+    ]
+  },
+  {
+    "n": 14,
+    "key": "bd-3w",
+    "doi": "10.3390/su15010149",
+    "title": "Affordable Electric Three-Wheeler in Bangladesh: Prospects, Challenges, and Sustainable Solutions",
+    "journal": "Sustainability",
+    "volume": "15",
+    "issue": "1",
+    "page": "149",
+    "article": "",
+    "alt_id": "su15010149",
+    "year": 2022,
+    "month": 12,
+    "month_abbr": "Dec.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Md Junaed Al",
+        "family": "Hossain"
+      },
+      {
+        "given": "Md. Zakir",
+        "family": "Hasan"
+      },
+      {
+        "given": "Md",
+        "family": "Hasanuzzaman"
+      },
+      {
+        "given": "Md. Ziaur Rahman",
+        "family": "Khan"
+      },
+      {
+        "given": "Mohammad",
+        "family": "Ahsan Habib"
+      }
+    ]
+  },
+  {
+    "n": 15,
+    "key": "bd-energy-access",
+    "doi": "10.1016/j.esr.2024.101490",
+    "title": "Energy in Bangladesh: From scarcity to universal access",
+    "journal": "Energy Strategy Reviews",
+    "volume": "54",
+    "issue": "",
+    "page": "101490",
+    "article": "101490",
+    "alt_id": "S2211467X24001974",
+    "year": 2024,
+    "month": 7,
+    "month_abbr": "Jul.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Tareq",
+        "family": "Mahbub"
+      }
+    ]
+  },
+  {
+    "n": 16,
+    "key": "pol-cn-subsidy-innov",
+    "doi": "10.1016/j.enpol.2023.113527",
+    "title": "Policy incentives, government subsidies, and technological innovation in new energy vehicle enterprises: Evidence from China",
+    "journal": "Energy Policy",
+    "volume": "177",
+    "issue": "",
+    "page": "113527",
+    "article": "113527",
+    "alt_id": "S030142152300112X",
+    "year": 2023,
+    "month": 6,
+    "month_abbr": "Jun.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Zhangsheng",
+        "family": "Jiang"
+      },
+      {
+        "given": "Chenghao",
+        "family": "Xu"
+      }
+    ]
+  },
+  {
+    "n": 17,
+    "key": "pol-uk-infra",
+    "doi": "10.1016/j.enpol.2024.114178",
+    "title": "Charging change: Analysing the UK's electric vehicle infrastructure policies and market dynamics",
+    "journal": "Energy Policy",
+    "volume": "191",
+    "issue": "",
+    "page": "114178",
+    "article": "114178",
+    "alt_id": "S0301421524001988",
+    "year": 2024,
+    "month": 8,
+    "month_abbr": "Aug.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Jie",
+        "family": "Sun"
+      },
+      {
+        "given": "Siying",
+        "family": "Sun"
+      },
+      {
+        "given": "Boli",
+        "family": "Chen"
+      },
+      {
+        "given": "Yukun",
+        "family": "Hu"
+      }
+    ]
+  },
+  {
+    "n": 18,
+    "key": "pol-tariff-bidir",
+    "doi": "10.1016/j.enpol.2024.114240",
+    "title": "Tariff option preferences for smart and bidirectional charging: Evidence from battery electric vehicle users in Germany",
+    "journal": "Energy Policy",
+    "volume": "192",
+    "issue": "",
+    "page": "114240",
+    "article": "114240",
+    "alt_id": "S030142152400260X",
+    "year": 2024,
+    "month": 9,
+    "month_abbr": "Sep.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Marvin",
+        "family": "Helferich"
+      },
+      {
+        "given": "Josephine",
+        "family": "Tröger"
+      },
+      {
+        "given": "Annegret",
+        "family": "Stephan"
+      },
+      {
+        "given": "Sabine",
+        "family": "Preuß"
+      },
+      {
+        "given": "Sabine",
+        "family": "Pelka"
+      },
+      {
+        "given": "Judith",
+        "family": "Stute"
+      },
+      {
+        "given": "Patrick",
+        "family": "Plötz"
+      }
+    ]
+  },
+  {
+    "n": 19,
+    "key": "pol-cn-mandate",
+    "doi": "10.3390/wevj16030151",
+    "title": "The Efficacy of the New Energy Vehicle Mandate Policy on Passenger Vehicle Market in China",
+    "journal": "World Electric Vehicle Journal",
+    "volume": "16",
+    "issue": "3",
+    "page": "151",
+    "article": "",
+    "alt_id": "wevj16030151",
+    "year": 2025,
+    "month": 3,
+    "month_abbr": "Mar.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Ning",
+        "family": "Wang"
+      },
+      {
+        "given": "Xiufeng",
+        "family": "Li"
+      },
+      {
+        "given": "Xuening",
+        "family": "Yang"
+      }
+    ]
+  },
+  {
+    "n": 20,
+    "key": "pol-phaseout",
+    "doi": "10.3390/wevj16060300",
+    "title": "From Jump-Start to Phase-Out—Transitioning Policy Making Towards a Primarily Market Driven Charging Infrastructure Rollout in Germany",
+    "journal": "World Electric Vehicle Journal",
+    "volume": "16",
+    "issue": "6",
+    "page": "300",
+    "article": "",
+    "alt_id": "wevj16060300",
+    "year": 2025,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Johannes Martin",
+        "family": "Loehr"
+      },
+      {
+        "given": "Maik",
+        "family": "Hanken"
+      }
+    ]
+  },
+  {
+    "n": 21,
+    "key": "pol-commercial",
+    "doi": "10.1016/j.enpol.2024.114116",
+    "title": "Effectiveness of policies for electric commercial vehicle adoption and emission reduction in the logistics industry",
+    "journal": "Energy Policy",
+    "volume": "188",
+    "issue": "",
+    "page": "114116",
+    "article": "114116",
+    "alt_id": "S0301421524001368",
+    "year": 2024,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Wen",
+        "family": "Yang"
+      },
+      {
+        "given": "Jianhua",
+        "family": "Ma"
+      },
+      {
+        "given": "Ao",
+        "family": "Fan"
+      },
+      {
+        "given": "Jinyi",
+        "family": "Zhang"
+      },
+      {
+        "given": "Yanchun",
+        "family": "Pan"
+      }
+    ]
+  },
+  {
+    "n": 22,
+    "key": "dev-consumer-ready",
+    "doi": "10.1016/j.enpol.2024.114173",
+    "title": "Are consumers ready to adopt electric vehicles? Analyzing the barriers and motivators associated with electric vehicle adoption in India: Policy implications for various stakeholders",
+    "journal": "Energy Policy",
+    "volume": "190",
+    "issue": "",
+    "page": "114173",
+    "article": "114173",
+    "alt_id": "S0301421524001939",
+    "year": 2024,
+    "month": 7,
+    "month_abbr": "Jul.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Rambalak",
+        "family": "Yadav"
+      },
+      {
+        "given": "Radha",
+        "family": "Yadav"
+      }
+    ]
+  },
+  {
+    "n": 23,
+    "key": "dev-barriers-4d",
+    "doi": "10.3390/wevj15090422",
+    "title": "Technological, Environmental, Economic, and Regulation Barriers to Electric Vehicle Adoption: Evidence from Indonesia",
+    "journal": "World Electric Vehicle Journal",
+    "volume": "15",
+    "issue": "9",
+    "page": "422",
+    "article": "",
+    "alt_id": "wevj15090422",
+    "year": 2024,
+    "month": 9,
+    "month_abbr": "Sep.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Ardhy",
+        "family": "Lazuardy"
+      },
+      {
+        "given": "Rahmat",
+        "family": "Nurcahyo"
+      },
+      {
+        "given": "Ellia",
+        "family": "Kristiningrum"
+      },
+      {
+        "given": "Azanizawati",
+        "family": "Ma’aram"
+      },
+      {
+        "given": "",
+        "family": "Farizal"
+      },
+      {
+        "given": "Syafira Nurin",
+        "family": "Aqmarina"
+      },
+      {
+        "given": "Muhammad Fadhil",
+        "family": "Rajabi"
+      }
+    ]
+  },
+  {
+    "n": 24,
+    "key": "dev-in-infra",
+    "doi": "10.1016/j.regsus.2022.11.008",
+    "title": "Charging infrastructure planning for electric vehicle in India: Present status and future challenges",
+    "journal": "Regional Sustainability",
+    "volume": "3",
+    "issue": "4",
+    "page": "335-345",
+    "article": "",
+    "alt_id": "S2666660X22000706",
+    "year": 2022,
+    "month": 12,
+    "month_abbr": "Dec.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Sulabh",
+        "family": "Sachan"
+      },
+      {
+        "given": "Praveen Prakash",
+        "family": "Singh"
+      }
+    ]
+  },
+  {
+    "n": 25,
+    "key": "dev-pk-moto",
+    "doi": "10.3390/wevj14100278",
+    "title": "Adoption of Electric Motorcycles in Pakistan: A Technology Acceptance Model Perspective",
+    "journal": "World Electric Vehicle Journal",
+    "volume": "14",
+    "issue": "10",
+    "page": "278",
+    "article": "",
+    "alt_id": "wevj14100278",
+    "year": 2023,
+    "month": 10,
+    "month_abbr": "Oct.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Sajan",
+        "family": "Shaikh"
+      },
+      {
+        "given": "Mir Aftab Hussain",
+        "family": "Talpur"
+      },
+      {
+        "given": "Farrukh",
+        "family": "Baig"
+      },
+      {
+        "given": "Fariha",
+        "family": "Tariq"
+      },
+      {
+        "given": "Shabir Hussain",
+        "family": "Khahro"
+      }
+    ]
+  },
+  {
+    "n": 26,
+    "key": "dev-np-policy",
+    "doi": "10.3390/en16217428",
+    "title": "Which Policies and Factors Drive Electric Vehicle Use in Nepal?",
+    "journal": "Energies",
+    "volume": "16",
+    "issue": "21",
+    "page": "7428",
+    "article": "",
+    "alt_id": "en16217428",
+    "year": 2023,
+    "month": 11,
+    "month_abbr": "Nov.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Laxman Prasad",
+        "family": "Ghimire"
+      },
+      {
+        "given": "Yeonbae",
+        "family": "Kim"
+      },
+      {
+        "given": "Nawa Raj",
+        "family": "Dhakal"
+      }
+    ]
+  },
+  {
+    "n": 27,
+    "key": "dev-sea-readiness",
+    "doi": "10.3390/wevj17060280",
+    "title": "Battery Electric Vehicle Readiness in Thailand, Lao PDR, and Vietnam: A Demand–Supply Assessment",
+    "journal": "World Electric Vehicle Journal",
+    "volume": "17",
+    "issue": "6",
+    "page": "280",
+    "article": "",
+    "alt_id": "wevj17060280",
+    "year": 2026,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Salinee",
+        "family": "Santiteerakul"
+      },
+      {
+        "given": "Sakgasem",
+        "family": "Ramingwong"
+      },
+      {
+        "given": "Apichat",
+        "family": "Sopadang"
+      },
+      {
+        "given": "Korrakot Yaibuathet",
+        "family": "Tippayawong"
+      },
+      {
+        "given": "Poti",
+        "family": "Chaopaisarn"
+      },
+      {
+        "given": "Jirapat",
+        "family": "Wanitwattanakosol"
+      },
+      {
+        "given": "Boontarika",
+        "family": "Paphawasit"
+      },
+      {
+        "given": "Suttinee",
+        "family": "Sawadsitang"
+      },
+      {
+        "given": "Tisinee",
+        "family": "Surapunt"
+      }
+    ]
+  },
+  {
+    "n": 28,
+    "key": "econ-tco-asean",
+    "doi": "10.1016/j.esd.2024.101650",
+    "title": "Total cost of ownership (TCO) analysis of electric vehicle in ASEAN",
+    "journal": "Energy for Sustainable Development",
+    "volume": "85",
+    "issue": "",
+    "page": "101650",
+    "article": "101650",
+    "alt_id": "S097308262400276X",
+    "year": 2025,
+    "month": 4,
+    "month_abbr": "Apr.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Tawan",
+        "family": "Champeecharoensuk"
+      },
+      {
+        "given": "Peerawat",
+        "family": "Saisirirat"
+      },
+      {
+        "given": "Nuwong",
+        "family": "Chollacoop"
+      },
+      {
+        "given": "Khemrath",
+        "family": "Vithean"
+      },
+      {
+        "given": "Kampanat",
+        "family": "Thapmanee"
+      },
+      {
+        "given": "Kampanart",
+        "family": "Silva"
+      },
+      {
+        "given": "Arthit",
+        "family": "Champeecharoensuk"
+      }
+    ]
+  },
+  {
+    "n": 29,
+    "key": "bd-lcc",
+    "doi": "10.3390/wevj15050183",
+    "title": "Life Cycle Cost Assessment of Electric, Hybrid, and Conventional Vehicles in Bangladesh: A Comparative Analysis",
+    "journal": "World Electric Vehicle Journal",
+    "volume": "15",
+    "issue": "5",
+    "page": "183",
+    "article": "",
+    "alt_id": "wevj15050183",
+    "year": 2024,
+    "month": 4,
+    "month_abbr": "Apr.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Md. Sarowar",
+        "family": "Khaled"
+      },
+      {
+        "given": "Abdalla M.",
+        "family": "Abdalla"
+      },
+      {
+        "given": "Pg Emeroylariffion",
+        "family": "Abas"
+      },
+      {
+        "given": "Juntakan",
+        "family": "Taweekun"
+      },
+      {
+        "given": "Md. Sumon",
+        "family": "Reza"
+      },
+      {
+        "given": "Abul K.",
+        "family": "Azad"
+      }
+    ]
+  },
+  {
+    "n": 30,
+    "key": "bd-lcsa-power",
+    "doi": "10.1016/j.egyr.2023.10.041",
+    "title": "Integrated life cycle sustainability assessment of the electricity generation sector in Bangladesh: Towards sustainable electricity generation",
+    "journal": "Energy Reports",
+    "volume": "10",
+    "issue": "",
+    "page": "3993-4012",
+    "article": "",
+    "alt_id": "S2352484723014762",
+    "year": 2023,
+    "month": 11,
+    "month_abbr": "Nov.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Ebne",
+        "family": "Rashid"
+      },
+      {
+        "given": "Nehreen",
+        "family": "Majed"
+      }
+    ]
+  },
+  {
+    "n": 31,
+    "key": "bd-temp-demand",
+    "doi": "10.3390/earth6040127",
+    "title": "Shifting Electricity Demand Under Temperature Extremes in Bangladesh",
+    "journal": "Earth",
+    "volume": "6",
+    "issue": "4",
+    "page": "127",
+    "article": "",
+    "alt_id": "earth6040127",
+    "year": 2025,
+    "month": 10,
+    "month_abbr": "Oct.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Md. Mahbub",
+        "family": "Alam"
+      },
+      {
+        "given": "Sharad",
+        "family": "Aryal"
+      },
+      {
+        "given": "Quazi K.",
+        "family": "Hassan"
+      }
+    ]
+  },
+  {
+    "n": 32,
+    "key": "bd-policy-coherence",
+    "doi": "10.1016/j.eist.2025.100967",
+    "title": "Policy coherence of low-emission transport transition in the Global South: The case of Dhaka City, Bangladesh",
+    "journal": "Environmental Innovation and Societal Transitions",
+    "volume": "56",
+    "issue": "",
+    "page": "100967",
+    "article": "100967",
+    "alt_id": "S2210422425000061",
+    "year": 2025,
+    "month": 9,
+    "month_abbr": "Sep.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Tohmina",
+        "family": "Khatoon"
+      }
+    ]
+  },
+  {
+    "n": 33,
+    "key": "bd-pv-cs-20kw",
+    "doi": "10.1016/j.ecmx.2025.101510",
+    "title": "Performance evaluation of a 20-kW solar-powered EV charging station in Bangladesh: a post commissioning review",
+    "journal": "Energy Conversion and Management: X",
+    "volume": "29",
+    "issue": "",
+    "page": "101510",
+    "article": "101510",
+    "alt_id": "S2590174525006427",
+    "year": 2026,
+    "month": 1,
+    "month_abbr": "Jan.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Md. Mehadi Hasan",
+        "family": "Shamim"
+      },
+      {
+        "given": "Md. Khalid",
+        "family": "Mahmud"
+      },
+      {
+        "given": "Khondaker Golam",
+        "family": "Moazzem"
+      }
+    ]
+  },
+  {
+    "n": 34,
+    "key": "bd-pv-grid-batt",
+    "doi": "10.1016/j.ecmx.2025.101256",
+    "title": "Cost-benefit and net zero impact analysis of PV-grid-battery systems for EV charging stations in Bangladesh",
+    "journal": "Energy Conversion and Management: X",
+    "volume": "28",
+    "issue": "",
+    "page": "101256",
+    "article": "101256",
+    "alt_id": "S2590174525003885",
+    "year": 2025,
+    "month": 10,
+    "month_abbr": "Oct.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Munyem Ahammad",
+        "family": "Muyeed"
+      },
+      {
+        "given": "Moslema Hoque",
+        "family": "Oeishee"
+      },
+      {
+        "given": "Abu S.M.",
+        "family": "Mohsin"
+      }
+    ]
+  },
+  {
+    "n": 35,
+    "key": "ldc-ssa-affordability",
+    "doi": "10.1038/s41467-026-75104-7",
+    "title": "Assessing grid affordability for universal electricity access in Sub-Saharan Africa",
+    "journal": "Nature Communications",
+    "volume": "17",
+    "issue": "1",
+    "page": "",
+    "article": "8455",
+    "alt_id": "75104",
+    "year": 2026,
+    "month": 7,
+    "month_abbr": "Jul.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Yidan",
+        "family": "Kou"
+      },
+      {
+        "given": "Stephanie",
+        "family": "Hirmer"
+      },
+      {
+        "given": "Pu",
+        "family": "Yang"
+      },
+      {
+        "given": "Alycia",
+        "family": "Leonard"
+      },
+      {
+        "given": "Florian",
+        "family": "Egli"
+      }
+    ]
+  },
+  {
+    "n": 36,
+    "key": "ldc-minigrid-rel",
+    "doi": "10.1016/j.deveng.2022.100106",
+    "title": "Performance and reliability analysis of an off-grid PV mini-grid system in rural tropical Africa: A case study in southern Ethiopia",
+    "journal": "Development Engineering",
+    "volume": "8",
+    "issue": "",
+    "page": "100106",
+    "article": "100106",
+    "alt_id": "S235272852200015X",
+    "year": 2023,
+    "month": 11,
+    "month_abbr": "Nov.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Yibeltal T.",
+        "family": "Wassie"
+      },
+      {
+        "given": "Erik O.",
+        "family": "Ahlgren"
+      }
+    ]
+  },
+  {
+    "n": 37,
+    "key": "ldc-paratransit",
+    "doi": "10.1016/j.trd.2025.105113",
+    "title": "Electrifying paratransit in sub-Saharan Africa: Perspectives from practitioners",
+    "journal": "Transportation Research Part D: Transport and Environment",
+    "volume": "150",
+    "issue": "",
+    "page": "105113",
+    "article": "105113",
+    "alt_id": "S1361920925005231",
+    "year": 2026,
+    "month": 1,
+    "month_abbr": "Jan.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Shukurat Omotola",
+        "family": "Bankole"
+      },
+      {
+        "given": "Daniel L.",
+        "family": "Donaldson"
+      },
+      {
+        "given": "Dilum",
+        "family": "Dissanayake"
+      },
+      {
+        "given": "Emma Jayne",
+        "family": "Sakamoto Ferranti"
+      }
+    ]
+  },
+  {
+    "n": 38,
+    "key": "pe-motor-control-review",
+    "doi": "10.1109/access.2021.3110736",
+    "title": "A Comprehensive Review of Advanced Traction Motor Control Techniques Suitable for Electric Vehicle Applications",
+    "journal": "IEEE Access",
+    "volume": "9",
+    "issue": "",
+    "page": "125080-125108",
+    "article": "",
+    "alt_id": "",
+    "year": 2021,
+    "month": 9,
+    "month_abbr": "Sep.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Matthew Liam",
+        "family": "De Klerk"
+      },
+      {
+        "given": "Akshay Kumar",
+        "family": "Saha"
+      }
+    ]
+  },
+  {
+    "n": 39,
+    "key": "pe-bidir-dcdc-review",
+    "doi": "10.3390/en17102434",
+    "title": "Overview of Isolated Bidirectional DC–DC Converter Topology and Switching Strategies for Electric Vehicle Applications",
+    "journal": "Energies",
+    "volume": "17",
+    "issue": "10",
+    "page": "2434",
+    "article": "",
+    "alt_id": "en17102434",
+    "year": 2024,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Zhenkun",
+        "family": "Wang"
+      },
+      {
+        "given": "Xianjin",
+        "family": "Su"
+      },
+      {
+        "given": "Nianyin",
+        "family": "Zeng"
+      },
+      {
+        "given": "Jiahui",
+        "family": "Jiang"
+      }
+    ]
+  },
+  {
+    "n": 40,
+    "key": "pe-obc-totem",
+    "doi": "10.1109/access.2024.3432791",
+    "title": "A Bidirectional Interleaved Totem Pole PFC-Based Integrated On-Board Charger for EV SRM Drive",
+    "journal": "IEEE Access",
+    "volume": "12",
+    "issue": "",
+    "page": "101909-101920",
+    "article": "",
+    "alt_id": "",
+    "year": 2024,
+    "month": 7,
+    "month_abbr": "Jul.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "T.",
+        "family": "Faheem Ali"
+      },
+      {
+        "given": "D.",
+        "family": "Arun Dominic"
+      },
+      {
+        "given": "Prajof",
+        "family": "Prabhakaran"
+      },
+      {
+        "given": "Arun P.",
+        "family": "Parameswaran"
+      }
+    ]
+  },
+  {
+    "n": 41,
+    "key": "pe-sst-review",
+    "doi": "10.3390/en15155602",
+    "title": "Review of Solid-State Transformer Applications on Electric Vehicle DC Ultra-Fast Charging Station",
+    "journal": "Energies",
+    "volume": "15",
+    "issue": "15",
+    "page": "5602",
+    "article": "",
+    "alt_id": "en15155602",
+    "year": 2022,
+    "month": 8,
+    "month_abbr": "Aug.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Seyedamin",
+        "family": "Valedsaravi"
+      },
+      {
+        "given": "Abdelali",
+        "family": "El Aroudi"
+      },
+      {
+        "given": "Luis",
+        "family": "Martínez-Salamero"
+      }
+    ]
+  },
+  {
+    "n": 42,
+    "key": "pe-hv-station",
+    "doi": "10.1109/access.2021.3093696",
+    "title": "High-Voltage Stations for Electric Vehicle Fast-Charging: Trends, Standards, Charging Modes and Comparison of Unity Power-Factor Rectifiers",
+    "journal": "IEEE Access",
+    "volume": "9",
+    "issue": "",
+    "page": "102177-102194",
+    "article": "",
+    "alt_id": "",
+    "year": 2021,
+    "month": 6,
+    "month_abbr": "Jun.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Iker",
+        "family": "Aretxabaleta"
+      },
+      {
+        "given": "Inigo Martinez",
+        "family": "De Alegria"
+      },
+      {
+        "given": "Jon",
+        "family": "Andreu"
+      },
+      {
+        "given": "Inigo",
+        "family": "Kortabarria"
+      },
+      {
+        "given": "Endika",
+        "family": "Robles"
+      }
+    ]
+  },
+  {
+    "n": 43,
+    "key": "pe-anpc-pq",
+    "doi": "10.3390/en14092650",
+    "title": "Novel Five-Level ANPC Bidirectional Converter for Power Quality Enhancement during G2V/V2G Operation of Cascaded EV Charger",
+    "journal": "Energies",
+    "volume": "14",
+    "issue": "9",
+    "page": "2650",
+    "article": "",
+    "alt_id": "en14092650",
+    "year": 2021,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Jorge",
+        "family": "Lara"
+      },
+      {
+        "given": "Lesedi",
+        "family": "Masisi"
+      },
+      {
+        "given": "Concepcion",
+        "family": "Hernandez"
+      },
+      {
+        "given": "Marco A.",
+        "family": "Arjona"
+      },
+      {
+        "given": "Ambrish",
+        "family": "Chandra"
+      }
+    ]
+  },
+  {
+    "n": 44,
+    "key": "pe-sic-loss-dynamic",
+    "doi": "10.1109/tpel.2024.3406517",
+    "title": "Dynamic Analytical Switching Loss Model of SiC MOSFET Considering Threshold Voltage Instability",
+    "journal": "IEEE Transactions on Power Electronics",
+    "volume": "39",
+    "issue": "11",
+    "page": "14630-14642",
+    "article": "",
+    "alt_id": "",
+    "year": 2024,
+    "month": 11,
+    "month_abbr": "Nov.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Yumeng",
+        "family": "Cai"
+      },
+      {
+        "given": "Peng",
+        "family": "Sun"
+      },
+      {
+        "given": "Yuankui",
+        "family": "Zhang"
+      },
+      {
+        "given": "Cong",
+        "family": "Chen"
+      },
+      {
+        "given": "Zhibin",
+        "family": "Zhao"
+      },
+      {
+        "given": "Xuebao",
+        "family": "Li"
+      },
+      {
+        "given": "Lei",
+        "family": "Qi"
+      },
+      {
+        "given": "Zhong",
+        "family": "Chen"
+      },
+      {
+        "given": "Hans-Peter",
+        "family": "Nee"
+      }
+    ]
+  },
+  {
+    "n": 45,
+    "key": "pe-loss-rt",
+    "doi": "10.1109/access.2026.3671183",
+    "title": "An Acceleration Approach for Real-Time Losses Calculation Model of Si IGBT and SiC MOSFET Traction Inverter Systems",
+    "journal": "IEEE Access",
+    "volume": "14",
+    "issue": "",
+    "page": "41380-41397",
+    "article": "",
+    "alt_id": "",
+    "year": 2026,
+    "month": 3,
+    "month_abbr": "Mar.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Ekaterina E.",
+        "family": "Abramushkina"
+      },
+      {
+        "given": "Mohamed Amine",
+        "family": "Frikha"
+      },
+      {
+        "given": "Boud",
+        "family": "Verbrugge"
+      },
+      {
+        "given": "Omar",
+        "family": "Hegazy"
+      },
+      {
+        "given": "Mohamed El",
+        "family": "Baghdadi"
+      }
+    ]
+  },
+  {
+    "n": 46,
+    "key": "pe-sic-powercycling",
+    "doi": "10.1016/j.microrel.2025.115786",
+    "title": "Advanced power cycling test strategies on discrete SiC MOSFETs in different operating modes and the impact on lifetime",
+    "journal": "Microelectronics Reliability",
+    "volume": "170",
+    "issue": "",
+    "page": "115786",
+    "article": "115786",
+    "alt_id": "S0026271425001994",
+    "year": 2025,
+    "month": 7,
+    "month_abbr": "Jul.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "L.",
+        "family": "Hein"
+      },
+      {
+        "given": "P.",
+        "family": "Heimler"
+      },
+      {
+        "given": "T.",
+        "family": "Lentzsch"
+      },
+      {
+        "given": "J.",
+        "family": "Lutz"
+      },
+      {
+        "given": "T.",
+        "family": "Basler"
+      }
+    ]
+  },
+  {
+    "n": 47,
+    "key": "pe-bondwire",
+    "doi": "10.1016/j.microrel.2023.115060",
+    "title": "State-of-the-art of the bond wire failure mechanism and power cycling lifetime in power electronics",
+    "journal": "Microelectronics Reliability",
+    "volume": "147",
+    "issue": "",
+    "page": "115060",
+    "article": "115060",
+    "alt_id": "S0026271423001609",
+    "year": 2023,
+    "month": 8,
+    "month_abbr": "Aug.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Luhong",
+        "family": "Xie"
+      },
+      {
+        "given": "Erping",
+        "family": "Deng"
+      },
+      {
+        "given": "Shaohua",
+        "family": "Yang"
+      },
+      {
+        "given": "Ying",
+        "family": "Zhang"
+      },
+      {
+        "given": "Yan",
+        "family": "Zhong"
+      },
+      {
+        "given": "Yanhao",
+        "family": "Wang"
+      },
+      {
+        "given": "Yongzhang",
+        "family": "Huang"
+      }
+    ]
+  },
+  {
+    "n": 48,
+    "key": "pe-sic-gateoxide",
+    "doi": "10.1016/j.microrel.2026.116035",
+    "title": "Degradation mechanisms of gate oxide reliability in SiC Power MOSFETs under different energy proton irradiation",
+    "journal": "Microelectronics Reliability",
+    "volume": "178",
+    "issue": "",
+    "page": "116035",
+    "article": "116035",
+    "alt_id": "S0026271426000399",
+    "year": 2026,
+    "month": 3,
+    "month_abbr": "Mar.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Binrui",
+        "family": "Xue"
+      },
+      {
+        "given": "Ying",
+        "family": "Wei"
+      },
+      {
+        "given": "Mingzhu",
+        "family": "Xun"
+      },
+      {
+        "given": "Dan",
+        "family": "Zhang"
+      },
+      {
+        "given": "Xiaowen",
+        "family": "Liang"
+      },
+      {
+        "given": "Jiaxing",
+        "family": "Wang"
+      },
+      {
+        "given": "Jingyi",
+        "family": "Xu"
+      },
+      {
+        "given": "Jie",
+        "family": "Feng"
+      },
+      {
+        "given": "Xuefeng",
+        "family": "Yu"
+      },
+      {
+        "given": "Lin",
+        "family": "Wen"
+      },
+      {
+        "given": "Qi",
+        "family": "Guo"
+      },
+      {
+        "given": "Yudong",
+        "family": "Li"
+      }
+    ]
+  },
+  {
+    "n": 49,
+    "key": "pe-sic-wafer",
+    "doi": "10.3390/jmmp10010002",
+    "title": "Laser Processing Methods in Precision Silicon Carbide Wafer Exfoliation: A Review",
+    "journal": "Journal of Manufacturing and Materials Processing",
+    "volume": "10",
+    "issue": "1",
+    "page": "2",
+    "article": "",
+    "alt_id": "jmmp10010002",
+    "year": 2025,
+    "month": 12,
+    "month_abbr": "Dec.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Tuğrul",
+        "family": "Özel"
+      },
+      {
+        "given": "Faik Derya",
+        "family": "Ince"
+      }
+    ]
+  },
+  {
+    "n": 50,
+    "key": "dt-batt-state",
+    "doi": "10.1016/j.rineng.2025.106858",
+    "title": "Integration of digital twin technologies for state estimation in electric vehicle batteries: A review",
+    "journal": "Results in Engineering",
+    "volume": "27",
+    "issue": "",
+    "page": "106858",
+    "article": "106858",
+    "alt_id": "S2590123025029214",
+    "year": 2025,
+    "month": 9,
+    "month_abbr": "Sep.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "S.",
+        "family": "Ramshankar"
+      },
+      {
+        "given": "M.",
+        "family": "Manimozhi"
+      }
+    ]
+  },
+  {
+    "n": 51,
+    "key": "dt-converter-health",
+    "doi": "10.1109/access.2023.3243432",
+    "title": "A Component Level Digital Twin Model for Power Converter Health Monitoring",
+    "journal": "IEEE Access",
+    "volume": "11",
+    "issue": "",
+    "page": "54143-54164",
+    "article": "",
+    "alt_id": "",
+    "year": 2023,
+    "month": 6,
+    "month_abbr": "Jun.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Andrew J.",
+        "family": "Wileman"
+      },
+      {
+        "given": "Sohaib",
+        "family": "Aslam"
+      },
+      {
+        "given": "Suresh",
+        "family": "Perinpanayagam"
+      }
+    ]
+  },
+  {
+    "n": 52,
+    "key": "dt-pmsm-shadow",
+    "doi": "10.1049/dgt2.12024",
+    "title": "Digital shadow of an electric vehicle‐permanent magnet synchronous motor drive for real‐time performance monitoring",
+    "journal": "Digital Twins and Applications",
+    "volume": "2",
+    "issue": "1",
+    "page": "",
+    "article": "e12024",
+    "alt_id": "10.1049/dgt2.12024",
+    "year": 2025,
+    "month": 1,
+    "month_abbr": "Jan.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Mahmoud",
+        "family": "Ibrahim"
+      },
+      {
+        "given": "Viktor",
+        "family": "Rjabtšikov"
+      },
+      {
+        "given": "Anton",
+        "family": "Rassõlkin"
+      }
+    ]
+  },
+  {
+    "n": 53,
+    "key": "dt-drl-ems",
+    "doi": "10.1016/j.energy.2024.133384",
+    "title": "Deep reinforcement learning-based energy management system enhancement using digital twin for electric vehicles",
+    "journal": "Energy",
+    "volume": "312",
+    "issue": "",
+    "page": "133384",
+    "article": "133384",
+    "alt_id": "S0360544224031608",
+    "year": 2024,
+    "month": 12,
+    "month_abbr": "Dec.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Yiming",
+        "family": "Ye"
+      },
+      {
+        "given": "Bin",
+        "family": "Xu"
+      },
+      {
+        "given": "Hanchen",
+        "family": "Wang"
+      },
+      {
+        "given": "Jiangfeng",
+        "family": "Zhang"
+      },
+      {
+        "given": "Benjamin",
+        "family": "Lawler"
+      },
+      {
+        "given": "Beshah",
+        "family": "Ayalew"
+      }
+    ]
+  },
+  {
+    "n": 54,
+    "key": "dt-fleet-charging",
+    "doi": "10.1186/s40807-026-00240-z",
+    "title": "Optimizing electric vehicle fleets to develop smart charging infrastructure: a digital twin approach",
+    "journal": "Sustainable Energy Research",
+    "volume": "13",
+    "issue": "1",
+    "page": "",
+    "article": "8",
+    "alt_id": "240",
+    "year": 2026,
+    "month": 2,
+    "month_abbr": "Feb.",
+    "type": "journal-article",
+    "authors": [
+      "Pandey AK",
+      "Amitha B",
+      "Krishnamurthy NK"
+    ],
+    "authors_display": [
+      "A.K. Pandey",
+      "Amitha B.",
+      "N.K. Krishnamurthy"
+    ],
+    "authors_ieee": [
+      "A. K. Pandey",
+      "Amitha B.",
+      "N. K. Krishnamurthy"
+    ]
+  },
+  {
+    "n": 55,
+    "key": "dt-cyber-5g",
+    "doi": "10.3390/en18226048",
+    "title": "Digital Twin-Driven Cybersecurity for 5G/6G-Enabled Electric Vehicle Charging Infrastructure: A Review",
+    "journal": "Energies",
+    "volume": "18",
+    "issue": "22",
+    "page": "6048",
+    "article": "",
+    "alt_id": "en18226048",
+    "year": 2025,
+    "month": 11,
+    "month_abbr": "Nov.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Ernest Fiko",
+        "family": "Morgan"
+      },
+      {
+        "given": "Mohd. Hasan",
+        "family": "Ali"
+      }
+    ]
+  },
+  {
+    "n": 56,
+    "key": "dt-ai-converter",
+    "doi": "10.1049/pel2.70013",
+    "title": "Artificial Intelligence and Digital Twin Technologies for Power Converter Control in Transportation Applications: A Review",
+    "journal": "IET Power Electronics",
+    "volume": "18",
+    "issue": "1",
+    "page": "",
+    "article": "e70013",
+    "alt_id": "10.1049/pel2.70013",
+    "year": 2025,
+    "month": 1,
+    "month_abbr": "Jan.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Zhen",
+        "family": "Huang"
+      },
+      {
+        "given": "Jiawei",
+        "family": "Gong"
+      },
+      {
+        "given": "Xuechun",
+        "family": "Xiao"
+      },
+      {
+        "given": "Yuan",
+        "family": "Gao"
+      },
+      {
+        "given": "Yonghong",
+        "family": "Xia"
+      },
+      {
+        "given": "Pat",
+        "family": "Wheeler"
+      },
+      {
+        "given": "Bing",
+        "family": "Ji"
+      }
+    ]
+  },
+  {
+    "n": 57,
+    "key": "own-dt-anomaly",
+    "doi": "10.1016/j.est.2026.122795",
+    "title": "Demand-based anomaly detection algorithm in electric vehicle charging systems using machine learning and digital twin simulation",
+    "journal": "Journal of Energy Storage",
+    "volume": "170",
+    "issue": "",
+    "page": "122795",
+    "article": "122795",
+    "alt_id": "S2352152X2602459X",
+    "year": 2026,
+    "month": 8,
+    "month_abbr": "Aug.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Md. Reshad",
+        "family": "Al Muttaki"
+      },
+      {
+        "given": "Sadia",
+        "family": "Afrin"
+      },
+      {
+        "given": "Alvi Ibn Amzad",
+        "family": "Anil"
+      },
+      {
+        "given": "Shameem",
+        "family": "Hasan"
+      }
+    ]
+  },
+  {
+    "n": 58,
+    "key": "own-soc-charging",
+    "doi": "10.1016/j.ecmx.2026.101775",
+    "title": "State-of-charge-aware charging opportunity detection for electric vehicles using data-driven learning and digital twin simulation",
+    "journal": "Energy Conversion and Management: X",
+    "volume": "30",
+    "issue": "",
+    "page": "101775",
+    "article": "101775",
+    "alt_id": "S2590174526002588",
+    "year": 2026,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Md. Reshad",
+        "family": "Al Muttaki"
+      },
+      {
+        "given": "Sadia",
+        "family": "Afrin"
+      },
+      {
+        "given": "Alvi Ibn Amzad",
+        "family": "Anil"
+      },
+      {
+        "given": "Shameem",
+        "family": "Hasan"
+      }
+    ]
+  },
+  {
+    "n": 59,
+    "key": "own-ev-cyber-tea",
+    "doi": "10.1016/j.ecmx.2026.102107",
+    "title": "Balancing cybersecurity, wireless charging, and safety: Digital twin-driven techno-economic analysis of electric vehicles",
+    "journal": "Energy Conversion and Management: X",
+    "volume": "31",
+    "issue": "",
+    "page": "102107",
+    "article": "102107",
+    "alt_id": "S2590174526005908",
+    "year": 2026,
+    "month": 9,
+    "month_abbr": "Sep.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Shameem",
+        "family": "Hasan"
+      },
+      {
+        "given": "Abu M.",
+        "family": "Fuad"
+      },
+      {
+        "given": "B.M.",
+        "family": "Khalid Hasan Drobo"
+      },
+      {
+        "given": "Md. Reshad",
+        "family": "Al Muttaki"
+      },
+      {
+        "given": "Sadia",
+        "family": "Afrin"
+      },
+      {
+        "given": "Alvi Ibn Amzad",
+        "family": "Anil"
+      },
+      {
+        "given": "Omar",
+        "family": "Farrok"
+      }
+    ]
+  },
+  {
+    "n": 60,
+    "key": "ai-demand-dl",
+    "doi": "10.1016/j.apenergy.2024.123751",
+    "title": "Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station",
+    "journal": "Applied Energy",
+    "volume": "371",
+    "issue": "",
+    "page": "123751",
+    "article": "123751",
+    "alt_id": "S0306261924011346",
+    "year": 2024,
+    "month": 10,
+    "month_abbr": "Oct.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Tingwei",
+        "family": "Cao"
+      },
+      {
+        "given": "Yinliang",
+        "family": "Xu"
+      },
+      {
+        "given": "Guowei",
+        "family": "Liu"
+      },
+      {
+        "given": "Shengyu",
+        "family": "Tao"
+      },
+      {
+        "given": "Wenjun",
+        "family": "Tang"
+      },
+      {
+        "given": "Hongbin",
+        "family": "Sun"
+      }
+    ]
+  },
+  {
+    "n": 61,
+    "key": "ai-pinn-batt",
+    "doi": "10.3390/batteries9060301",
+    "title": "Hybrid Modeling of Lithium-Ion Battery: Physics-Informed Neural Network for Battery State Estimation",
+    "journal": "Batteries",
+    "volume": "9",
+    "issue": "6",
+    "page": "301",
+    "article": "",
+    "alt_id": "batteries9060301",
+    "year": 2023,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Soumya",
+        "family": "Singh"
+      },
+      {
+        "given": "Yvonne Eboumbou",
+        "family": "Ebongue"
+      },
+      {
+        "given": "Shahed",
+        "family": "Rezaei"
+      },
+      {
+        "given": "Kai Peter",
+        "family": "Birke"
+      }
+    ]
+  },
+  {
+    "n": 62,
+    "key": "meth-abm-diffusion",
+    "doi": "10.1016/j.energy.2022.124700",
+    "title": "Electric vehicle charging station diffusion: An agent-based evolutionary game model in complex networks",
+    "journal": "Energy",
+    "volume": "257",
+    "issue": "",
+    "page": "124700",
+    "article": "124700",
+    "alt_id": "S0360544222016036",
+    "year": 2022,
+    "month": 10,
+    "month_abbr": "Oct.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Xingjun",
+        "family": "Huang"
+      },
+      {
+        "given": "Yun",
+        "family": "Lin"
+      },
+      {
+        "given": "Ming K.",
+        "family": "Lim"
+      },
+      {
+        "given": "Fuli",
+        "family": "Zhou"
+      },
+      {
+        "given": "Feng",
+        "family": "Liu"
+      }
+    ]
+  },
+  {
+    "n": 63,
+    "key": "grid-infra-impact",
+    "doi": "10.1080/15325008.2024.2315206",
+    "title": "Electric Vehicle Charging Infrastructure, Standards, Types, and Its Impact on Grid: A Review",
+    "journal": "Electric Power Components and Systems",
+    "volume": "53",
+    "issue": "6",
+    "page": "669-693",
+    "article": "",
+    "alt_id": "10.1080/15325008.2024.2315206",
+    "year": 2025,
+    "month": 4,
+    "month_abbr": "Apr.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "P.",
+        "family": "Bhosale"
+      },
+      {
+        "given": "Sujil",
+        "family": "A"
+      },
+      {
+        "given": "Rajesh",
+        "family": "Kumar"
+      },
+      {
+        "given": "R. C.",
+        "family": "Bansal"
+      }
+    ]
+  },
+  {
+    "n": 64,
+    "key": "grid-harmonic-std",
+    "doi": "10.1016/j.epsr.2024.110260",
+    "title": "Evaluations on the harmonic allocation methods of IEC 61000-3-6 and IEEE Standard 519 in the distribution systems",
+    "journal": "Electric Power Systems Research",
+    "volume": "230",
+    "issue": "",
+    "page": "110260",
+    "article": "110260",
+    "alt_id": "S0378779624001482",
+    "year": 2024,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "N.",
+        "family": "Cho"
+      },
+      {
+        "given": "B.",
+        "family": "Wendha"
+      },
+      {
+        "given": "M.",
+        "family": "Luthfi"
+      }
+    ]
+  },
+  {
+    "n": 65,
+    "key": "grid-dr-aggregator",
+    "doi": "10.1016/j.rser.2022.112251",
+    "title": "Optimal coordination strategy of demand response and electric vehicle aggregators for the energy management of reconfigured grid-connected microgrid",
+    "journal": "Renewable and Sustainable Energy Reviews",
+    "volume": "160",
+    "issue": "",
+    "page": "112251",
+    "article": "112251",
+    "alt_id": "S1364032122001721",
+    "year": 2022,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Pratik",
+        "family": "Harsh"
+      },
+      {
+        "given": "Debapriya",
+        "family": "Das"
+      }
+    ]
+  },
+  {
+    "n": 66,
+    "key": "grid-v2g-review",
+    "doi": "10.1016/j.rineng.2025.106813",
+    "title": "A comprehensive review of vehicle–to–grid (V2G) technology as an ancillary services provider",
+    "journal": "Results in Engineering",
+    "volume": "27",
+    "issue": "",
+    "page": "106813",
+    "article": "106813",
+    "alt_id": "S2590123025028774",
+    "year": 2025,
+    "month": 9,
+    "month_abbr": "Sep.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Shehzad",
+        "family": "Alamgir"
+      },
+      {
+        "given": "S Jarjees Ul",
+        "family": "Hassan"
+      },
+      {
+        "given": "Arif",
+        "family": "Mehdi"
+      },
+      {
+        "given": "Ahmed",
+        "family": "Abdelmaksoud"
+      },
+      {
+        "given": "Zeeshan",
+        "family": "Haider"
+      },
+      {
+        "given": "Gwang–Su",
+        "family": "Shin"
+      },
+      {
+        "given": "Chul–Hwan",
+        "family": "Kim"
+      }
+    ]
+  },
+  {
+    "n": 67,
+    "key": "own-wams",
+    "doi": "10.1016/j.ecmx.2025.101424",
+    "title": "Towards smarter grids: A systematic review of wide area monitoring enhancing stability, protection, and promoting environmental sustainability",
+    "journal": "Energy Conversion and Management: X",
+    "volume": "29",
+    "issue": "",
+    "page": "101424",
+    "article": "101424",
+    "alt_id": "S2590174525005562",
+    "year": 2026,
+    "month": 1,
+    "month_abbr": "Jan.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Md. Reshad",
+        "family": "Al Muttaki"
+      },
+      {
+        "given": "Alvi Ibn Amzad",
+        "family": "Anil"
+      },
+      {
+        "given": "Sadia",
+        "family": "Afrin"
+      },
+      {
+        "given": "Shameem",
+        "family": "Hasan"
+      }
+    ]
+  },
+  {
+    "n": 68,
+    "key": "own-storage",
+    "doi": "10.1016/j.ecmx.2026.101771",
+    "title": "The next generation of energy storage for smart and sustainable power grids: A systematic review",
+    "journal": "Energy Conversion and Management: X",
+    "volume": "30",
+    "issue": "",
+    "page": "101771",
+    "article": "101771",
+    "alt_id": "S2590174526002540",
+    "year": 2026,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Alvi Ibn Amzad",
+        "family": "Anil"
+      },
+      {
+        "given": "Md. Reshad",
+        "family": "Al Muttaki"
+      },
+      {
+        "given": "Sadia",
+        "family": "Afrin"
+      },
+      {
+        "given": "Shameem",
+        "family": "Hasan"
+      }
+    ]
+  },
+  {
+    "n": 69,
+    "key": "own-grid-cyber",
+    "doi": "10.1016/j.ecmx.2025.101416",
+    "title": "AI-powered cybersecurity for smart grid communication: A systematic review of intrusion detection and threat mitigation systems",
+    "journal": "Energy Conversion and Management: X",
+    "volume": "29",
+    "issue": "",
+    "page": "101416",
+    "article": "101416",
+    "alt_id": "S2590174525005483",
+    "year": 2026,
+    "month": 1,
+    "month_abbr": "Jan.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Sadia",
+        "family": "Afrin"
+      },
+      {
+        "given": "Md. Reshad",
+        "family": "Al Muttaki"
+      },
+      {
+        "given": "Alvi Ibn Amzad",
+        "family": "Anil"
+      },
+      {
+        "given": "Shameem",
+        "family": "Hasan"
+      }
+    ]
+  },
+  {
+    "n": 70,
+    "key": "chg-siting-uncert",
+    "doi": "10.1109/tits.2024.3384537",
+    "title": "Charging Station Siting and Sizing Considering Uncertainty in Electric Vehicle Charging Demand Distribution",
+    "journal": "IEEE Transactions on Intelligent Transportation Systems",
+    "volume": "25",
+    "issue": "9",
+    "page": "12709-12721",
+    "article": "",
+    "alt_id": "",
+    "year": 2024,
+    "month": 9,
+    "month_abbr": "Sep.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Sanghamitra",
+        "family": "Mishra"
+      },
+      {
+        "given": "Arijit",
+        "family": "Mondal"
+      },
+      {
+        "given": "Samrat",
+        "family": "Mondal"
+      }
+    ]
+  },
+  {
+    "n": 71,
+    "key": "chg-wait-longtrip",
+    "doi": "10.1109/access.2025.3552730",
+    "title": "Long Trip Charging Planning of Battery Electric Vehicle Considering Vehicle Waiting Time Forecast at Fast Charging Stations: A Mixed-Integer Dynamic Programming Approach",
+    "journal": "IEEE Access",
+    "volume": "13",
+    "issue": "",
+    "page": "52100-52113",
+    "article": "",
+    "alt_id": "",
+    "year": 2025,
+    "month": 3,
+    "month_abbr": "Mar.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Pradeep Krishna",
+        "family": "Bhat"
+      },
+      {
+        "given": "Zhouquan",
+        "family": "Wu"
+      },
+      {
+        "given": "Bo",
+        "family": "Chen"
+      }
+    ]
+  },
+  {
+    "n": 72,
+    "key": "chg-behaviour-dk",
+    "doi": "10.1016/j.epsr.2024.110556",
+    "title": "An empirical analysis of electric vehicle charging behavior based on real Danish residential charging data",
+    "journal": "Electric Power Systems Research",
+    "volume": "234",
+    "issue": "",
+    "page": "110556",
+    "article": "110556",
+    "alt_id": "S0378779624004425",
+    "year": 2024,
+    "month": 9,
+    "month_abbr": "Sep.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Charalampos",
+        "family": "Ziras"
+      },
+      {
+        "given": "Malthe",
+        "family": "Thingvad"
+      },
+      {
+        "given": "Torben",
+        "family": "Fog"
+      },
+      {
+        "given": "Ghaffar",
+        "family": "Yousefi"
+      },
+      {
+        "given": "Tilman",
+        "family": "Weckesser"
+      }
+    ]
+  },
+  {
+    "n": 73,
+    "key": "chg-equity-review",
+    "doi": "10.3390/wevj16100553",
+    "title": "Equity Considerations in Public Electric Vehicle Charging: A Review",
+    "journal": "World Electric Vehicle Journal",
+    "volume": "16",
+    "issue": "10",
+    "page": "553",
+    "article": "",
+    "alt_id": "wevj16100553",
+    "year": 2025,
+    "month": 9,
+    "month_abbr": "Sep.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Boyou",
+        "family": "Chen"
+      },
+      {
+        "given": "Austin",
+        "family": "Moore"
+      },
+      {
+        "given": "Bochen",
+        "family": "Jia"
+      },
+      {
+        "given": "Kaihan",
+        "family": "Zhang"
+      },
+      {
+        "given": "Mengqiu",
+        "family": "Cao"
+      }
+    ]
+  },
+  {
+    "n": 74,
+    "key": "batt-calendar",
+    "doi": "10.1016/j.apenergy.2024.124640",
+    "title": "Understanding calendar aging degradation in cylindrical lithium-ion cell: A novel pseudo-4-dimensional electrochemical-thermal model",
+    "journal": "Applied Energy",
+    "volume": "377",
+    "issue": "",
+    "page": "124640",
+    "article": "124640",
+    "alt_id": "S0306261924020233",
+    "year": 2025,
+    "month": 1,
+    "month_abbr": "Jan.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Piera",
+        "family": "Di Prima"
+      },
+      {
+        "given": "Davide",
+        "family": "Dessantis"
+      },
+      {
+        "given": "Daniele",
+        "family": "Versaci"
+      },
+      {
+        "given": "Julia",
+        "family": "Amici"
+      },
+      {
+        "given": "Silvia",
+        "family": "Bodoardo"
+      },
+      {
+        "given": "Massimo",
+        "family": "Santarelli"
+      }
+    ]
+  },
+  {
+    "n": 75,
+    "key": "batt-fade-realveh",
+    "doi": "10.1016/j.energy.2024.132782",
+    "title": "A capacity fade reliability model for lithium-ion battery packs based on real-vehicle data",
+    "journal": "Energy",
+    "volume": "307",
+    "issue": "",
+    "page": "132782",
+    "article": "132782",
+    "alt_id": "S0360544224025568",
+    "year": 2024,
+    "month": 10,
+    "month_abbr": "Oct.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Zheng",
+        "family": "Yifan"
+      },
+      {
+        "given": "Zhou",
+        "family": "Sida"
+      },
+      {
+        "given": "Zhang",
+        "family": "Zhengjie"
+      },
+      {
+        "given": "Zhou",
+        "family": "Xinan"
+      },
+      {
+        "given": "Cao",
+        "family": "Rui"
+      },
+      {
+        "given": "Li",
+        "family": "Qiangwei"
+      },
+      {
+        "given": "Gao",
+        "family": "Zichao"
+      },
+      {
+        "given": "Fan",
+        "family": "Chengcheng"
+      },
+      {
+        "given": "Yang",
+        "family": "Shichun"
+      }
+    ]
+  },
+  {
+    "n": 76,
+    "key": "batt-v2g-degr",
+    "doi": "10.1016/j.apenergy.2024.124546",
+    "title": "Vehicle-to-grid impact on battery degradation and estimation of V2G economic compensation",
+    "journal": "Applied Energy",
+    "volume": "377",
+    "issue": "",
+    "page": "124546",
+    "article": "124546",
+    "alt_id": "S0306261924019299",
+    "year": 2025,
+    "month": 1,
+    "month_abbr": "Jan.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Shemin",
+        "family": "Sagaria"
+      },
+      {
+        "given": "Mart",
+        "family": "van der Kam"
+      },
+      {
+        "given": "Tobias",
+        "family": "Boström"
+      }
+    ]
+  },
+  {
+    "n": 77,
+    "key": "batt-recycle-review",
+    "doi": "10.3390/batteries10010038",
+    "title": "A Review of Lithium-Ion Battery Recycling: Technologies, Sustainability, and Open Issues",
+    "journal": "Batteries",
+    "volume": "10",
+    "issue": "1",
+    "page": "38",
+    "article": "",
+    "alt_id": "batteries10010038",
+    "year": 2024,
+    "month": 1,
+    "month_abbr": "Jan.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Alessandra",
+        "family": "Zanoletti"
+      },
+      {
+        "given": "Eleonora",
+        "family": "Carena"
+      },
+      {
+        "given": "Chiara",
+        "family": "Ferrara"
+      },
+      {
+        "given": "Elza",
+        "family": "Bontempi"
+      }
+    ]
+  },
+  {
+    "n": 78,
+    "key": "env-wtw-2022",
+    "doi": "10.1016/j.jenvman.2022.114592",
+    "title": "Well-to-wheel greenhouse gas emissions of electric versus combustion vehicles from 2018 to 2030 in the US",
+    "journal": "Journal of Environmental Management",
+    "volume": "308",
+    "issue": "",
+    "page": "114592",
+    "article": "114592",
+    "alt_id": "S0301479722001657",
+    "year": 2022,
+    "month": 4,
+    "month_abbr": "Apr.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Rohan",
+        "family": "Challa"
+      },
+      {
+        "given": "Dipti",
+        "family": "Kamath"
+      },
+      {
+        "given": "Annick",
+        "family": "Anctil"
+      }
+    ]
+  },
+  {
+    "n": 79,
+    "key": "env-lca-battery",
+    "doi": "10.3390/wevj15060245",
+    "title": "Beyond Tailpipe Emissions: Life Cycle Assessment Unravels Battery’s Carbon Footprint in Electric Vehicles",
+    "journal": "World Electric Vehicle Journal",
+    "volume": "15",
+    "issue": "6",
+    "page": "245",
+    "article": "",
+    "alt_id": "wevj15060245",
+    "year": 2024,
+    "month": 6,
+    "month_abbr": "Jun.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Sharath K.",
+        "family": "Ankathi"
+      },
+      {
+        "given": "Jessey",
+        "family": "Bouchard"
+      },
+      {
+        "given": "Xin",
+        "family": "He"
+      }
+    ]
+  },
+  {
+    "n": 80,
+    "key": "wf-ev-workforce",
+    "doi": "10.3390/wevj17060298",
+    "title": "Driving Change: A Comprehensive Analysis of Electric Vehicle Workforce Development in Connecticut State Under the Bipartisan Infrastructure Law",
+    "journal": "World Electric Vehicle Journal",
+    "volume": "17",
+    "issue": "6",
+    "page": "298",
+    "article": "",
+    "alt_id": "wevj17060298",
+    "year": 2026,
+    "month": 6,
+    "month_abbr": "Jun.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Saddam",
+        "family": "Alkhamaiesh"
+      }
+    ]
+  },
+  {
+    "n": 81,
+    "key": "wf-trl-system",
+    "doi": "10.1016/j.rser.2026.117305",
+    "title": "Ready or not: From technology-level readiness to system-level readiness",
+    "journal": "Renewable and Sustainable Energy Reviews",
+    "volume": "241",
+    "issue": "",
+    "page": "117305",
+    "article": "117305",
+    "alt_id": "S1364032126006040",
+    "year": 2026,
+    "month": 11,
+    "month_abbr": "Nov.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "C.M.",
+        "family": "Xydas"
+      },
+      {
+        "given": "F.",
+        "family": "Alkemade"
+      },
+      {
+        "given": "C.",
+        "family": "Papadimitriou"
+      },
+      {
+        "given": "A.P.C.",
+        "family": "Faaij"
+      }
+    ]
+  },
+  {
+    "n": 82,
+    "key": "meth-temp-trip",
+    "doi": "10.1016/j.energy.2021.122028",
+    "title": "Effects of ambient temperature and trip characteristics on the energy consumption of an electric vehicle",
+    "journal": "Energy",
+    "volume": "238",
+    "issue": "",
+    "page": "122028",
+    "article": "122028",
+    "alt_id": "S0360544221022763",
+    "year": 2022,
+    "month": 1,
+    "month_abbr": "Jan.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Yazan",
+        "family": "Al-Wreikat"
+      },
+      {
+        "given": "Clara",
+        "family": "Serrano"
+      },
+      {
+        "given": "José Ricardo",
+        "family": "Sodré"
+      }
+    ]
+  },
+  {
+    "n": 83,
+    "key": "econ-topsis-power",
+    "doi": "10.3390/en18133478",
+    "title": "Application of TOPSIS for Multi-Criteria Decision Analysis (MCDA) in Power Systems: A Systematic Literature Review",
+    "journal": "Energies",
+    "volume": "18",
+    "issue": "13",
+    "page": "3478",
+    "article": "",
+    "alt_id": "en18133478",
+    "year": 2025,
+    "month": 7,
+    "month_abbr": "Jul.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Jack",
+        "family": "Mathebula"
+      },
+      {
+        "given": "Nhlanhla",
+        "family": "Mbuli"
+      }
+    ]
+  },
+  {
+    "n": 84,
+    "key": "meth-gsa",
+    "doi": "10.1016/j.jhydrol.2022.128895",
+    "title": "Global sensitivity analysis of bioretention cell design for stormwater system: A comparison of VARS framework and Sobol method",
+    "journal": "Journal of Hydrology",
+    "volume": "617",
+    "issue": "",
+    "page": "128895",
+    "article": "128895",
+    "alt_id": "S0022169422014652",
+    "year": 2023,
+    "month": 2,
+    "month_abbr": "Feb.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Husnain",
+        "family": "Tansar"
+      },
+      {
+        "given": "Huan-Feng",
+        "family": "Duan"
+      },
+      {
+        "given": "Ole",
+        "family": "Mark"
+      }
+    ]
+  },
+  {
+    "n": 85,
+    "key": "chg-bus-decarb",
+    "doi": "10.3390/wevj15030081",
+    "title": "Public Transport Decarbonization: An Exploratory Approach to Bus Electrification",
+    "journal": "World Electric Vehicle Journal",
+    "volume": "15",
+    "issue": "3",
+    "page": "81",
+    "article": "",
+    "alt_id": "wevj15030081",
+    "year": 2024,
+    "month": 2,
+    "month_abbr": "Feb.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Paulo J. G.",
+        "family": "Ribeiro"
+      },
+      {
+        "given": "Gabriel",
+        "family": "Dias"
+      },
+      {
+        "given": "José F. G.",
+        "family": "Mendes"
+      }
+    ]
+  },
+  {
+    "n": 86,
+    "key": "cyb-ocpp",
+    "doi": "10.1007/s10207-023-00698-8",
+    "title": "OCPP in the spotlight: threats and countermeasures for electric vehicle charging infrastructures 4.0",
+    "journal": "International Journal of Information Security",
+    "volume": "22",
+    "issue": "5",
+    "page": "1395-1421",
+    "article": "",
+    "alt_id": "698",
+    "year": 2023,
+    "month": 10,
+    "month_abbr": "Oct.",
+    "type": "journal-article",
+    "authors": [
+      "Alcaraz C",
+      "Cumplido J",
+      "Triviño A"
+    ],
+    "authors_ieee": [
+      "C. Alcaraz",
+      "J. Cumplido",
+      "A. Triviño"
+    ]
+  },
+  {
+    "n": 0,
+    "key": "allca-2024",
+    "doi": "10.1109/tte.2023.3300669",
+    "title": "Loss Modeling and Testing of 800-V DC Bus IGBT and SiC Traction Inverter Modules",
+    "journal": "IEEE Transactions on Transportation Electrification",
+    "volume": "10",
+    "issue": "2",
+    "page": "2923-2935",
+    "article": "",
+    "alt_id": "",
+    "year": 2024,
+    "month": 6,
+    "month_abbr": "Jun.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Alexander",
+        "family": "Allca-Pekarovic"
+      },
+      {
+        "given": "Phillip J.",
+        "family": "Kollmeyer"
+      },
+      {
+        "given": "John",
+        "family": "Reimers"
+      },
+      {
+        "given": "Parisa",
+        "family": "Mahvelatishamsabadi"
+      },
+      {
+        "given": "Tissaphern",
+        "family": "Mirfakhrai"
+      },
+      {
+        "given": "Payam",
+        "family": "Naghshtabrizi"
+      },
+      {
+        "given": "Ali",
+        "family": "Emadi"
+      }
+    ],
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "gai-2019",
+    "doi": "10.1021/acs.est.9b01519",
+    "title": "Marginal Greenhouse Gas Emissions of Ontario’s Electricity System and the Implications of Electric Vehicle Charging",
+    "journal": "Environmental Science & Technology",
+    "volume": "53",
+    "issue": "13",
+    "page": "7903-7912",
+    "article": "",
+    "alt_id": "10.1021/acs.est.9b01519",
+    "year": 2019,
+    "month": 7,
+    "month_abbr": "Jul.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Yijun",
+        "family": "Gai"
+      },
+      {
+        "given": "An",
+        "family": "Wang"
+      },
+      {
+        "given": "Lucas",
+        "family": "Pereira"
+      },
+      {
+        "given": "Marianne",
+        "family": "Hatzopoulou"
+      },
+      {
+        "given": "I. Daniel",
+        "family": "Posen"
+      }
+    ],
+    "publisher": "American Chemical Society (ACS)",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "tang-2021",
+    "doi": "10.1016/j.isci.2021.103499",
+    "title": "Reducing the life cycle environmental impact of electric vehicles through emissions-responsive charging",
+    "journal": "iScience",
+    "volume": "24",
+    "issue": "12",
+    "page": "103499",
+    "article": "103499",
+    "alt_id": "S258900422101470X",
+    "year": 2021,
+    "month": 12,
+    "month_abbr": "Dec.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Yuzhou",
+        "family": "Tang"
+      },
+      {
+        "given": "Tim T.",
+        "family": "Cockerill"
+      },
+      {
+        "given": "Andrew J.",
+        "family": "Pimm"
+      },
+      {
+        "given": "Xueliang",
+        "family": "Yuan"
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "sobol-2001",
+    "doi": "10.1016/s0378-4754(00)00270-6",
+    "title": "Global sensitivity indices for nonlinear mathematical models and their Monte Carlo estimates",
+    "journal": "Mathematics and Computers in Simulation",
+    "volume": "55",
+    "issue": "1-3",
+    "page": "271-280",
+    "article": "",
+    "alt_id": "S0378475400002706",
+    "year": 2001,
+    "month": 2,
+    "month_abbr": "Feb.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "I.M",
+        "family": "Sobol′"
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "saltelli-2010",
+    "doi": "10.1016/j.cpc.2009.09.018",
+    "title": "Variance based sensitivity analysis of model output. Design and estimator for the total sensitivity index",
+    "journal": "Computer Physics Communications",
+    "volume": "181",
+    "issue": "2",
+    "page": "259-270",
+    "article": "",
+    "alt_id": "S0010465509003087",
+    "year": 2010,
+    "month": 2,
+    "month_abbr": "Feb.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Andrea",
+        "family": "Saltelli"
+      },
+      {
+        "given": "Paola",
+        "family": "Annoni"
+      },
+      {
+        "given": "Ivano",
+        "family": "Azzini"
+      },
+      {
+        "given": "Francesca",
+        "family": "Campolongo"
+      },
+      {
+        "given": "Marco",
+        "family": "Ratto"
+      },
+      {
+        "given": "Stefano",
+        "family": "Tarantola"
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "morris-1991",
+    "doi": "10.1080/00401706.1991.10484804",
+    "title": "Factorial Sampling Plans for Preliminary Computational Experiments",
+    "journal": "Technometrics",
+    "volume": "33",
+    "issue": "2",
+    "page": "161-174",
+    "article": "",
+    "alt_id": "10.1080/00401706.1991.10484804",
+    "year": 1991,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Max D.",
+        "family": "Morris"
+      }
+    ],
+    "publisher": "Informa UK Limited",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "deb-2002",
+    "doi": "10.1109/4235.996017",
+    "title": "A fast and elitist multiobjective genetic algorithm: NSGA-II",
+    "journal": "IEEE Transactions on Evolutionary Computation",
+    "volume": "6",
+    "issue": "2",
+    "page": "182-197",
+    "article": "",
+    "alt_id": "",
+    "year": 2002,
+    "month": 4,
+    "month_abbr": "Apr.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "K.",
+        "family": "Deb"
+      },
+      {
+        "given": "A.",
+        "family": "Pratap"
+      },
+      {
+        "given": "S.",
+        "family": "Agarwal"
+      },
+      {
+        "given": "T.",
+        "family": "Meyarivan"
+      }
+    ],
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "bass-1969",
+    "doi": "10.1287/mnsc.15.5.215",
+    "title": "A New Product Growth for Model Consumer Durables",
+    "journal": "Management Science",
+    "volume": "15",
+    "issue": "5",
+    "page": "215-227",
+    "article": "",
+    "alt_id": "10.1287/mnsc.15.5.215",
+    "year": 1969,
+    "month": 1,
+    "month_abbr": "Jan.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Frank M.",
+        "family": "Bass"
+      }
+    ],
+    "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "baran-wu-1989",
+    "doi": "10.1109/61.25627",
+    "title": "Network reconfiguration in distribution systems for loss reduction and load balancing",
+    "journal": "IEEE Transactions on Power Delivery",
+    "volume": "4",
+    "issue": "2",
+    "page": "1401-1407",
+    "article": "",
+    "alt_id": "",
+    "year": 1989,
+    "month": 4,
+    "month_abbr": "Apr.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "M.E.",
+        "family": "Baran"
+      },
+      {
+        "given": "F.F.",
+        "family": "Wu"
+      }
+    ],
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "kritzinger-2018",
+    "doi": "10.1016/j.ifacol.2018.08.474",
+    "title": "Digital Twin in manufacturing: A categorical literature review and classification",
+    "journal": "IFAC-PapersOnLine",
+    "volume": "51",
+    "issue": "11",
+    "page": "1016-1022",
+    "article": "",
+    "alt_id": "S2405896318316021",
+    "year": 2018,
+    "month": 9,
+    "month_abbr": "Sep.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Werner",
+        "family": "Kritzinger"
+      },
+      {
+        "given": "Matthias",
+        "family": "Karner"
+      },
+      {
+        "given": "Georg",
+        "family": "Traar"
+      },
+      {
+        "given": "Jan",
+        "family": "Henjes"
+      },
+      {
+        "given": "Wilfried",
+        "family": "Sihn"
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "breiman-2001",
+    "doi": "10.1023/a:1010933404324",
+    "title": "Random Forests",
+    "journal": "Machine Learning",
+    "volume": "45",
+    "issue": "1",
+    "page": "5-32",
+    "article": "",
+    "alt_id": "354300",
+    "year": 2001,
+    "month": 10,
+    "month_abbr": "Oct.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Leo",
+        "family": "Breiman"
+      }
+    ],
+    "publisher": "Springer Science and Business Media LLC",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "hwang-yoon-1981",
+    "doi": "10.1007/978-3-642-48318-9_3",
+    "title": "Methods for Multiple Attribute Decision Making",
+    "journal": "Lecture Notes in Economics and Mathematical Systems",
+    "volume": "",
+    "issue": "",
+    "page": "58-191",
+    "article": "",
+    "alt_id": "",
+    "year": 1981,
+    "month": 4,
+    "month_abbr": "Apr.",
+    "type": "book-chapter",
+    "authors": [
+      {
+        "given": "Ching-Lai",
+        "family": "Hwang"
+      },
+      {
+        "given": "Kwangsun",
+        "family": "Yoon"
+      }
+    ],
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn": "9783540105589"
+  },
+  {
+    "n": 0,
+    "key": "goel-2015",
+    "doi": "10.1016/j.trd.2015.05.006",
+    "title": "Assessment of motor vehicle use characteristics in three Indian cities",
+    "journal": "Transportation Research Part D: Transport and Environment",
+    "volume": "44",
+    "issue": "",
+    "page": "254-265",
+    "article": "",
+    "alt_id": "S1361920915000747",
+    "year": 2016,
+    "month": 5,
+    "month_abbr": "May",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Rahul",
+        "family": "Goel"
+      },
+      {
+        "given": "Dinesh",
+        "family": "Mohan"
+      },
+      {
+        "given": "Sarath K.",
+        "family": "Guttikunda"
+      },
+      {
+        "given": "Geetam",
+        "family": "Tiwari"
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "piasecki-2021",
+    "doi": "10.3390/en14196369",
+    "title": "Analysis of AC/DC/DC Converter Modules for Direct Current Fast-Charging Applications",
+    "journal": "Energies",
+    "volume": "14",
+    "issue": "19",
+    "page": "6369",
+    "article": "",
+    "alt_id": "en14196369",
+    "year": 2021,
+    "month": 10,
+    "month_abbr": "Oct.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Szymon",
+        "family": "Piasecki"
+      },
+      {
+        "given": "Jaroslaw",
+        "family": "Zaleski"
+      },
+      {
+        "given": "Marek",
+        "family": "Jasinski"
+      },
+      {
+        "given": "Serafin",
+        "family": "Bachman"
+      },
+      {
+        "given": "Marek",
+        "family": "Turzyński"
+      }
+    ],
+    "publisher": "MDPI AG",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "held-1997",
+    "doi": "10.1109/peds.1997.618742",
+    "title": "Fast power cycling test of IGBT modules in traction application",
+    "journal": "Proceedings of Second International Conference on Power Electronics and Drive Systems",
+    "volume": "1",
+    "issue": "",
+    "page": "425-430",
+    "article": "",
+    "alt_id": "",
+    "year": 2002,
+    "month": 11,
+    "month_abbr": "Nov.",
+    "type": "proceedings-article",
+    "authors": [
+      {
+        "given": "M.",
+        "family": "Held"
+      },
+      {
+        "given": "P.",
+        "family": "Jacob"
+      },
+      {
+        "given": "G.",
+        "family": "Nicoletti"
+      },
+      {
+        "given": "P.",
+        "family": "Scacco"
+      },
+      {
+        "given": "M.-H.",
+        "family": "Poech"
+      }
+    ],
+    "publisher": "IEEE",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "liu-2016",
+    "doi": "10.1109/ecce.2016.7855024",
+    "title": "Design of CRM AC/DC converter for very high-frequency high-density WBG-based 6.6kW bidirectional on-board battery charger",
+    "journal": "2016 IEEE Energy Conversion Congress and Exposition (ECCE)",
+    "volume": "",
+    "issue": "",
+    "page": "1-8",
+    "article": "",
+    "alt_id": "",
+    "year": 2016,
+    "month": 9,
+    "month_abbr": "Sep.",
+    "type": "proceedings-article",
+    "authors": [
+      {
+        "given": "Zhengyang",
+        "family": "Liu"
+      },
+      {
+        "given": "Bin",
+        "family": "Li"
+      },
+      {
+        "given": "Fred C.",
+        "family": "Lee"
+      },
+      {
+        "given": "Qiang",
+        "family": "Li"
+      }
+    ],
+    "publisher": "IEEE",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "ornl-prius-2011",
+    "doi": "10.2172/1007833",
+    "title": "Evaluation of the 2010 Toyota Prius Hybrid Synergy Drive System",
+    "journal": "",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2011,
+    "month": 3,
+    "month_abbr": "Mar.",
+    "type": "report",
+    "authors": [
+      {
+        "given": "Timothy A",
+        "family": "Burress"
+      },
+      {
+        "given": "Steven L",
+        "family": "Campbell"
+      },
+      {
+        "given": "Chester",
+        "family": "Coomer"
+      },
+      {
+        "given": "Curtis William",
+        "family": "Ayers"
+      },
+      {
+        "given": "Andrew A",
+        "family": "Wereszczak"
+      },
+      {
+        "given": "Joseph Philip",
+        "family": "Cunningham"
+      },
+      {
+        "given": "Laura D",
+        "family": "Marlino"
+      },
+      {
+        "given": "Larry Eugene",
+        "family": "Seiber"
+      },
+      {
+        "given": "Hua-Tay",
+        "family": "Lin"
+      }
+    ],
+    "publisher": "Office of Scientific and Technical Information (OSTI)",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "munzel-2019",
+    "doi": "10.1016/j.eneco.2019.104493",
+    "title": "How large is the effect of financial incentives on electric vehicle sales? – A global review and European analysis",
+    "journal": "Energy Economics",
+    "volume": "84",
+    "issue": "",
+    "page": "104493",
+    "article": "104493",
+    "alt_id": "S0140988319302749",
+    "year": 2019,
+    "month": 10,
+    "month_abbr": "Oct.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Christiane",
+        "family": "Münzel"
+      },
+      {
+        "given": "Patrick",
+        "family": "Plötz"
+      },
+      {
+        "given": "Frances",
+        "family": "Sprei"
+      },
+      {
+        "given": "Till",
+        "family": "Gnann"
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "kalish-1985",
+    "doi": "10.1287/mnsc.31.12.1569",
+    "title": "A New Product Adoption Model with Price, Advertising, and Uncertainty",
+    "journal": "Management Science",
+    "volume": "31",
+    "issue": "12",
+    "page": "1569-1585",
+    "article": "",
+    "alt_id": "10.1287/mnsc.31.12.1569",
+    "year": 1985,
+    "month": 12,
+    "month_abbr": "Dec.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Shlomo",
+        "family": "Kalish"
+      }
+    ],
+    "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "simbench-2020",
+    "doi": "10.3390/en13123290",
+    "title": "SimBench—A Benchmark Dataset of Electric Power Systems to Compare Innovative Solutions Based on Power Flow Analysis",
+    "journal": "Energies",
+    "volume": "13",
+    "issue": "12",
+    "page": "3290",
+    "article": "",
+    "alt_id": "en13123290",
+    "year": 2020,
+    "month": 6,
+    "month_abbr": "Jun.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Steffen",
+        "family": "Meinecke"
+      },
+      {
+        "given": "Džanan",
+        "family": "Sarajlić"
+      },
+      {
+        "given": "Simon Ruben",
+        "family": "Drauz"
+      },
+      {
+        "given": "Annika",
+        "family": "Klettke"
+      },
+      {
+        "given": "Lars-Peter",
+        "family": "Lauven"
+      },
+      {
+        "given": "Christian",
+        "family": "Rehtanz"
+      },
+      {
+        "given": "Albert",
+        "family": "Moser"
+      },
+      {
+        "given": "Martin",
+        "family": "Braun"
+      }
+    ],
+    "publisher": "MDPI AG",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "baran-wu-1989b",
+    "doi": "10.1109/61.19265",
+    "title": "Optimal capacitor placement on radial distribution systems",
+    "journal": "IEEE Transactions on Power Delivery",
+    "volume": "4",
+    "issue": "1",
+    "page": "725-734",
+    "article": "",
+    "alt_id": "",
+    "year": 1989,
+    "month": 8,
+    "month_abbr": "Aug.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "M.E.",
+        "family": "Baran"
+      },
+      {
+        "given": "F.F.",
+        "family": "Wu"
+      }
+    ],
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "das-1994",
+    "doi": "10.1049/ip-gtd:19949966",
+    "title": "Novel method for solving radial distribution networks",
+    "journal": "IEE Proceedings - Generation, Transmission and Distribution",
+    "volume": "141",
+    "issue": "4",
+    "page": "291",
+    "article": "",
+    "alt_id": "",
+    "year": 1994,
+    "month": 7,
+    "month_abbr": "Jul.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "D.",
+        "family": "Das"
+      }
+    ],
+    "publisher": "Institution of Engineering and Technology (IET)",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "kersting-2001",
+    "doi": "10.1109/pesw.2001.916993",
+    "title": "Radial distribution test feeders",
+    "journal": "2001 IEEE Power Engineering Society Winter Meeting. Conference Proceedings (Cat. No.01CH37194)",
+    "volume": "2",
+    "issue": "",
+    "page": "908-912",
+    "article": "",
+    "alt_id": "",
+    "year": 2002,
+    "month": 11,
+    "month_abbr": "Nov.",
+    "type": "proceedings-article",
+    "authors": [
+      {
+        "given": "W.H.",
+        "family": "Kersting"
+      }
+    ],
+    "publisher": "IEEE",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "rasmussen-2006",
+    "doi": "10.7551/mitpress/3206.001.0001",
+    "title": "Gaussian Processes for Machine Learning",
+    "journal": "",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2005,
+    "month": 11,
+    "month_abbr": "Nov.",
+    "type": "monograph",
+    "authors": [
+      {
+        "given": "Carl Edward",
+        "family": "Rasmussen"
+      },
+      {
+        "given": "Christopher K. I.",
+        "family": "Williams"
+      }
+    ],
+    "publisher": "The MIT Press",
+    "isbn": "9780262256834"
+  },
+  {
+    "n": 0,
+    "key": "janon-2014",
+    "doi": "10.1051/ps/2013040",
+    "title": "Asymptotic normality and efficiency of two Sobol index estimators",
+    "journal": "ESAIM: Probability and Statistics",
+    "volume": "18",
+    "issue": "",
+    "page": "342-364",
+    "article": "",
+    "alt_id": "ps130040",
+    "year": 2014,
+    "month": 10,
+    "month_abbr": "Oct.",
+    "type": "journal-article",
+    "authors": [
+      {
+        "given": "Alexandre",
+        "family": "Janon"
+      },
+      {
+        "given": "Thierry",
+        "family": "Klein"
+      },
+      {
+        "given": "Agnès",
+        "family": "Lagnoux"
+      },
+      {
+        "given": "Maëlle",
+        "family": "Nodet"
+      },
+      {
+        "given": "Clémentine",
+        "family": "Prieur"
+      }
+    ],
+    "publisher": "EDP Sciences",
+    "isbn": ""
+  },
+  {
+    "n": 0,
+    "key": "kba-bestand",
+    "doi": "",
+    "title": "Fahrzeugbestand: Zeitreihen Umwelt 2013-2024 and press releases on the stock on 1 January 2025 and 2026",
+    "journal": "Kraftfahrt-Bundesamt",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2026,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [],
+    "publisher": "Kraftfahrt-Bundesamt",
+    "org": "Kraftfahrt-Bundesamt",
+    "place": "Flensburg, Germany",
+    "number": "",
+    "url": "https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/Umwelt/2024/2024_b_umwelt_zeitreihen.html"
+  },
+  {
+    "n": 0,
+    "key": "kba-nz",
+    "doi": "",
+    "title": "Fahrzeugzulassungen im Dezember - Jahresbilanz, press releases 2015-2026",
+    "journal": "Kraftfahrt-Bundesamt",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2026,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [],
+    "publisher": "Kraftfahrt-Bundesamt",
+    "org": "Kraftfahrt-Bundesamt",
+    "place": "Flensburg, Germany",
+    "number": "",
+    "url": "https://www.kba.de/DE/Presse/Pressemitteilungen/Fahrzeugzulassungen/2026/pm01_2026_n_12_25_pm_komplett.html"
+  },
+  {
+    "n": 0,
+    "key": "bafa-ub",
+    "doi": "",
+    "title": "Elektromobilität: Umweltbonus endet mit Ablauf des 17. Dezember 2023",
+    "journal": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2023,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [],
+    "publisher": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "org": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+    "place": "Eschborn, Germany",
+    "number": "",
+    "url": "https://www.bafa.de/SharedDocs/Kurzmeldungen/DE/Energie/Elektromobilitaet/20231216_foerderende.html"
+  },
+  {
+    "n": 0,
+    "key": "pib-fame",
+    "doi": "",
+    "title": "Incentives under the FAME-II scheme for electric two-wheelers",
+    "journal": "Press Information Bureau, Government of India",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2023,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [],
+    "publisher": "Press Information Bureau, Government of India",
+    "org": "Press Information Bureau, Government of India",
+    "place": "New Delhi, India",
+    "number": "",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1987802"
+  },
+  {
+    "n": 0,
+    "key": "kba-vk",
+    "doi": "",
+    "title": "Verkehr in Kilometern der deutschen Kraftfahrzeuge 2025: Kurzbericht",
+    "journal": "Kraftfahrt-Bundesamt",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2026,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [],
+    "publisher": "Kraftfahrt-Bundesamt",
+    "org": "Kraftfahrt-Bundesamt",
+    "place": "Flensburg, Germany",
+    "number": "",
+    "url": "https://www.kba.de/DE/Statistik/Kraftverkehr/VerkehrKilometer/vk_inlaenderfahrleistung/2025/2025_vk_kurzbericht.html"
+  },
+  {
+    "n": 0,
+    "key": "eurostat-ghg",
+    "doi": "",
+    "title": "Greenhouse gas emissions by source sector (env_air_gge), UNFCCC CRF categories 1.A.3.b",
+    "journal": "Eurostat",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2026,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [],
+    "publisher": "Eurostat",
+    "org": "Eurostat",
+    "place": "Luxembourg",
+    "number": "",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/env_air_gge/default/table"
+  },
+  {
+    "n": 0,
+    "key": "climate-watch",
+    "doi": "",
+    "title": "Historical GHG emissions: transport CO2 by country, via Our World in Data",
+    "journal": "Climate Watch",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2026,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [],
+    "publisher": "Climate Watch",
+    "org": "Climate Watch",
+    "place": "Washington, DC, USA",
+    "number": "",
+    "url": "https://ourworldindata.org/grapher/co-emissions-by-sector"
+  },
+  {
+    "n": 0,
+    "key": "ember-ci",
+    "doi": "",
+    "title": "Carbon intensity of electricity generation, via Our World in Data",
+    "journal": "Ember",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2026,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [],
+    "publisher": "Ember",
+    "org": "Ember",
+    "place": "London, U.K.",
+    "number": "",
+    "url": "https://ourworldindata.org/grapher/carbon-intensity-electricity"
+  },
+  {
+    "n": 0,
+    "key": "brta-2024",
+    "doi": "",
+    "title": "Number of registered motor vehicles in Bangladesh (January 2024)",
+    "journal": "Bangladesh Road Transport Authority",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2024,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [],
+    "publisher": "Bangladesh Road Transport Authority",
+    "org": "Bangladesh Road Transport Authority",
+    "place": "Dhaka, Bangladesh",
+    "number": "",
+    "url": "https://brta.gov.bd/"
+  },
+  {
+    "n": 0,
+    "key": "epa-ef",
+    "doi": "",
+    "title": "GHG emission factors hub",
+    "journal": "U.S. Environmental Protection Agency",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2025,
+    "month": null,
+    "month_abbr": "",
+    "type": "report",
+    "authors": [],
+    "publisher": "U.S. Environmental Protection Agency",
+    "org": "U.S. Environmental Protection Agency",
+    "place": "Washington, DC, USA",
+    "number": "Jan. 2025",
+    "url": "https://www.epa.gov/system/files/documents/2025-01/ghg-emission-factors-hub-2025.pdf"
+  },
+  {
+    "n": 0,
+    "key": "jec-wtw",
+    "doi": "10.2760/100379",
+    "title": "JEC well-to-wheels report v5",
+    "journal": "Publications Office of the European Union",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2020,
+    "month": null,
+    "month_abbr": "",
+    "type": "report",
+    "authors": [
+      {
+        "given": "M.",
+        "family": "Prussi"
+      },
+      {
+        "given": "M.",
+        "family": "Yugo"
+      },
+      {
+        "given": "L.",
+        "family": "De Prada"
+      },
+      {
+        "given": "M.",
+        "family": "Padella"
+      },
+      {
+        "given": "R.",
+        "family": "Edwards"
+      }
+    ],
+    "publisher": "Publications Office of the European Union",
+    "org": "Publications Office of the European Union",
+    "place": "Luxembourg",
+    "number": "EUR 30284 EN",
+    "url": ""
+  },
+  {
+    "n": 0,
+    "key": "iea-gevo-2024",
+    "doi": "",
+    "title": "Global EV Outlook 2024",
+    "journal": "International Energy Agency",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2024,
+    "month": null,
+    "month_abbr": "",
+    "type": "report",
+    "authors": [],
+    "publisher": "International Energy Agency",
+    "org": "International Energy Agency",
+    "place": "Paris, France",
+    "number": "",
+    "url": "https://www.iea.org/reports/global-ev-outlook-2024"
+  },
+  {
+    "n": 0,
+    "key": "iea-gevo-2025",
+    "doi": "",
+    "title": "Global EV Outlook 2025",
+    "journal": "International Energy Agency",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2025,
+    "month": null,
+    "month_abbr": "",
+    "type": "report",
+    "authors": [],
+    "publisher": "International Energy Agency",
+    "org": "International Energy Agency",
+    "place": "Paris, France",
+    "number": "",
+    "url": "https://www.iea.org/reports/global-ev-outlook-2025"
+  },
+  {
+    "n": 0,
+    "key": "icct-2w",
+    "doi": "",
+    "title": "Electric two-wheeler market growth in India: Insights from FY 2020-21",
+    "journal": "International Council on Clean Transportation",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2021,
+    "month": null,
+    "month_abbr": "",
+    "type": "report",
+    "authors": [],
+    "publisher": "International Council on Clean Transportation",
+    "org": "International Council on Clean Transportation",
+    "place": "Washington, DC, USA",
+    "number": "Working paper",
+    "url": "https://theicct.org/sites/default/files/publications/2W-sales-India-wp-FINAL-dec21.pdf"
+  },
+  {
+    "n": 0,
+    "key": "doe-amr-ornl",
+    "doi": "",
+    "title": "Benchmarking EV and HEV power electronics and electric machines (2012 Nissan LEAF, 2014 Honda Accord), Annual Merit Review presentations APE006 and EDT006",
+    "journal": "U.S. Department of Energy Vehicle Technologies Office",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2016,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [
+      {
+        "given": "T.",
+        "family": "Burress"
+      }
+    ],
+    "publisher": "U.S. Department of Energy Vehicle Technologies Office",
+    "org": "U.S. Department of Energy Vehicle Technologies Office",
+    "place": "Washington, DC, USA",
+    "number": "",
+    "url": "https://www.energy.gov/sites/prod/files/2016/06/f32/edt006_burress_2016_o_web.pdf"
+  },
+  {
+    "n": 0,
+    "key": "fe-2023",
+    "doi": "",
+    "title": "Electric vehicle registration policy takes effect",
+    "journal": "The Financial Express",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2023,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [],
+    "publisher": "The Financial Express",
+    "org": "The Financial Express",
+    "place": "Dhaka, Bangladesh",
+    "number": "",
+    "url": "https://thefinancialexpress.com.bd/trade/electric-vehicle-reg-policy-takes-effect"
+  },
+  {
+    "n": 0,
+    "key": "infineon-hpd",
+    "doi": "",
+    "title": "HybridPACK Drive power modules FS820R08A6P2B, FS380R12A6T4B, FS01MR08A8MA2C and FS03MR12A6MA1B: final datasheets",
+    "journal": "Infineon Technologies AG",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2025,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [],
+    "publisher": "Infineon Technologies AG",
+    "org": "Infineon Technologies AG",
+    "place": "Neubiberg, Germany",
+    "number": "",
+    "url": "https://www.infineon.com/products/power/mosfet/silicon-carbide/modules"
+  },
+  {
+    "n": 0,
+    "key": "transphorm-gan",
+    "doi": "",
+    "title": "TP65H035G4WS 650 V SuperGaN GaN FET in TO-247: datasheet",
+    "journal": "Transphorm (Renesas Electronics)",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2024,
+    "month": null,
+    "month_abbr": "",
+    "type": "online",
+    "authors": [],
+    "publisher": "Transphorm (Renesas Electronics)",
+    "org": "Transphorm (Renesas Electronics)",
+    "place": "Goleta, CA, USA",
+    "number": "",
+    "url": "https://www.renesas.com/en/products/tp65h035g4ws"
+  },
+  {
+    "n": 0,
+    "key": "unece-gtr15",
+    "doi": "",
+    "title": "Global technical regulation No. 15: Worldwide harmonized Light vehicles Test Procedure (WLTP), ECE/TRANS/180/Add.15",
+    "journal": "United Nations Economic Commission for Europe",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2014,
+    "month": null,
+    "month_abbr": "",
+    "type": "report",
+    "authors": [],
+    "publisher": "United Nations Economic Commission for Europe",
+    "org": "United Nations Economic Commission for Europe",
+    "place": "Geneva, Switzerland",
+    "number": "",
+    "url": "https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs"
+  },
+  {
+    "n": 0,
+    "key": "arai-idc",
+    "doi": "",
+    "title": "MoRTH/CMVR/TAP-115/116, Part XIII, Chapter 3: Indian driving cycle",
+    "journal": "Automotive Research Association of India",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2017,
+    "month": null,
+    "month_abbr": "",
+    "type": "report",
+    "authors": [],
+    "publisher": "Automotive Research Association of India",
+    "org": "Automotive Research Association of India",
+    "place": "Pune, India",
+    "number": "",
+    "url": "https://www.araiindia.com/CMVR_TAP_Documents/Part-13/Part-13_Chapter03.pdf"
+  },
+  {
+    "n": 0,
+    "key": "uba-mk32",
+    "doi": "",
+    "title": "Methodological convention 3.2 for the assessment of environmental costs: value factors",
+    "journal": "Umweltbundesamt",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2024,
+    "month": null,
+    "month_abbr": "",
+    "type": "report",
+    "authors": [],
+    "publisher": "Umweltbundesamt",
+    "org": "Umweltbundesamt",
+    "place": "Dessau-Rosslau, Germany",
+    "number": "",
+    "url": "https://www.umweltbundesamt.de/system/files/medien/479/publikationen/methodological_convention_3_2_value_factors_bf.pdf"
+  },
+  {
+    "n": 0,
+    "key": "bmwk-umweltbonus-2022",
+    "doi": "",
+    "title": "Richtlinie zur Förderung des Absatzes von elektrisch betriebenen Fahrzeugen (Umweltbonus)",
+    "journal": "Bundesministerium für Wirtschaft und Klimaschutz",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "article": "",
+    "alt_id": "",
+    "year": 2022,
+    "month": null,
+    "month_abbr": "",
+    "type": "report",
+    "authors": [],
+    "publisher": "Bundesministerium für Wirtschaft und Klimaschutz",
+    "org": "Bundesministerium für Wirtschaft und Klimaschutz",
+    "place": "Berlin, Germany",
+    "number": "BAnz AT 09.12.2022 B1",
+    "url": "https://www.bundesanzeiger.de/pub/publication/JTwUaZXEaXb7u0J5Ccc/content/JTwUaZXEaXb7u0J5Ccc/BAnz%20AT%2009.12.2022%20B1.pdf"
+  }
+]

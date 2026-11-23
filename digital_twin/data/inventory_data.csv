@@ -1,0 +1,17 @@
+# National road-transport CO2 inventories used to check the modelled base year.
+# comparison = match: the inventory categories correspond to the modelled
+#   segments listed (Germany, CRF 1.A.3.b.i + ii + iv; buses sit inside the
+#   heavy-duty category iii and are therefore excluded from both sides).
+# comparison = bound: only a transport total exists, which also contains
+#   segments the model does not represent (heavy trucks, aviation), so the
+#   modelled base-year emission must not exceed it.
+# Sources:
+#  CRF  Eurostat env_air_gge (UNFCCC CRF submission, updated 2 Jun 2026)
+#       https://ec.europa.eu/eurostat/databrowser/view/env_air_gge/default/table
+#  CW   Climate Watch 2026 via Our World in Data, transport CO2
+#       https://ourworldindata.org/grapher/co-emissions-by-sector
+archetype,country,year,inventory_mt,segments,comparison,model_year,source
+developed,Germany,2024,102.85,passenger_car;light_commercial;two_wheeler,match,2025,CRF 1.A.3.b.i 89.32 + ii 12.38 + iv 1.15 Mt
+developing,Bangladesh,2023,14.90,two_wheeler;three_wheeler;passenger_car;light_commercial;bus,bound,2025,CW transport total (road about 90 %)
+underdeveloped,Tanzania,2023,7.90,two_wheeler;three_wheeler;passenger_car;light_commercial;bus,bound,2025,CW transport total
+underdeveloped,Ethiopia,2023,6.94,two_wheeler;three_wheeler;passenger_car;light_commercial;bus,bound,2025,CW transport total

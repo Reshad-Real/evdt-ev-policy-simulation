@@ -1,0 +1,178 @@
+OK    pol-infra-income           2026  Energy Policy
+OK    pol-cn-text                2024  Transportation Research Part A: Policy and Practice
+OK    pol-cn-subsidy-innov       2023  Energy Policy
+OK    pol-eu-explore             2023  Journal of Cleaner Production
+OK    pol-uk-infra               2024  Energy Policy
+OK    pol-gov2market             2022  Transportation Research Part A: Policy and Practice
+OK    pol-cn-incentives          2021  Transportation Research Part A: Policy and Practice
+OK    pol-biblio                 2024  Energies
+OK    pol-commercial             2024  Energy Policy
+OK    pol-us-fees                2024  Transport Policy
+OK    pol-tariff-bidir           2024  Energy Policy
+OK    pol-cn-mandate             2025  WEVJ
+OK    pol-phaseout               2025  WEVJ
+OK    pol-cn-spillover           2022  Energy Policy
+OK    pol-public-fleet           2022  Transport Policy
+OK    pol-shared-infra           2026  Transport Policy
+OK    dev-barriers-cmp           2025  Energy for Sustainable Development
+OK    dev-consumer-ready         2024  Energy Policy
+OK    dev-indonesia              2024  Sustainable Futures
+OK    dev-barriers-4d            2024  WEVJ
+OK    dev-barriers-personal      2022  Energy Policy
+OK    dev-in-2w                  2024  Transport Policy
+OK    dev-in-infra               2022  Regional Sustainability
+OK    dev-pk-moto                2023  WEVJ
+OK    dev-np-policy              2023  Energies
+OK    dev-pk-intent              2022  Cleaner and Responsible Consumption
+OK    dev-sea-readiness          2026  WEVJ
+OK    dev-ph-barriers            2024  WEVJ
+OK    dev-in-standards           2022  Energy Storage
+OK    dev-vn-window              2026  Innovation and Development
+OK    bd-3w                      2022  Sustainability
+OK    bd-energy-access           2024  Energy Strategy Reviews
+OK    bd-energy-sust             2021  Energy Strategy Reviews
+OK    bd-lcc                     2024  WEVJ
+OK    bd-pv-cs-20kw              2026  Energy Conversion and Management: X
+OK    bd-offgrid-der             2026  Energy Conversion and Management
+OK    bd-microgrid-h2            2026  Energy Reports
+OK    bd-solar-microgrid         2026  Energy Policy
+OK    bd-policy-coherence        2025  Environmental Innovation and Societal Transitions
+OK    bd-lcsa-power              2023  Energy Reports
+OK    bd-temp-demand             2025  Earth
+OK    bd-pv-cs-econ              2024  Solar Compass
+OK    bd-pv-grid-batt            2025  Energy Conversion and Management: X
+OK    bd-clean-energy            2021  Renewable Energy
+OK    bd-smartgrid-dg            2025  Energy Reports
+OK    bd-mcda-ev-h2              2026  Results in Engineering
+OK    ldc-paratransit            2026  Transportation Research Part D: Transport and Environment
+OK    ldc-za-paratransit         2024  Transport Policy
+OK    ldc-ssa-policy-access      2026  Energy Policy
+OK    ldc-ssa-affordability      2026  Nat Commun
+OK    ldc-ssa-offgrid-plan       2024  Energies
+OK    ldc-minigrid-load          2024  Energy Policy
+OK    ldc-minigrid-rel           2023  Development Engineering
+OK    ldc-energy-poverty         2023  Utilities Policy
+OK    ldc-za-barriers            2021  WEVJ
+OK    ldc-ssa-moto-model         2026  WEVJ
+OK    ldc-ssa-cost-access        2021  Energy Policy
+OK    ldc-za-bus-depot           2025  WEVJ
+OK    pe-gan-ev                  2026  Energies
+OK    pe-wbg-packaging           2023  IEEE Trans. Power Electron.
+OK    pe-wbg-defects             2021  Electronics
+OK    pe-wbg-field-map           2021  Nat Electron
+OK    pe-sic-module-thermal      2021  IEEE Access
+OK    pe-sic-loss-datasheet      2024  IEEE Open J. Power Electron.
+OK    pe-sic-loss-dynamic        2024  IEEE Trans. Power Electron.
+OK    pe-loss-rt                 2026  IEEE Access
+OK    pe-sic-switching           2025  Energies
+OK    pe-sic-gateoxide           2026  Microelectronics Reliability
+OK    pe-sic-powercycling        2025  Microelectronics Reliability
+OK    pe-bondwire                2023  Microelectronics Reliability
+OK    pe-sic-tddb-gate           2026  Microelectronics Reliability
+OK    pe-sic-wafer               2025  JMMP
+OK    pe-module-lifetime         2025  Microelectronics Reliability
+OK    pe-traction-inv-review     2023  Energy Reports
+OK    pe-motor-control-review    2021  IEEE Access
+OK    pe-bidir-dcdc-review       2024  Energies
+OK    pe-bidir-v2g-g2v           2022  IEEE Trans. Ind. Electron.
+OK    pe-obc-totem               2024  IEEE Access
+OK    pe-dab-compare             2024  Energies
+OK    pe-gan-dcdc-opt            2025  IEEE Trans. Ind. Electron.
+OK    pe-sst-review              2022  Energies
+OK    pe-sst-fcs                 2021  IEEE Trans. Ind. Electron.
+OK    pe-sic-fcs                 2023  IEEE J. Emerg. Sel. Topics Power Electron.
+OK    pe-hv-station              2021  IEEE Access
+OK    pe-anpc-pq                 2021  Energies
+OK    pe-emi-conducted           2025  IEEE Trans. Electromagn. Compat.
+OK    pe-cmv-suppress            2026  IEEE Trans. on Ind. Applicat.
+OK    pe-48v-module              2025  IEEE Power Electron. Mag.
+OK    pe-400-800v                2026  Electric Power Systems Research
+OK    pe-mmc-cmv                 2024  Energies
+OK    pe-hess-sc                 2023  Journal of Energy Storage
+OK    dt-energy-review           2023  Renewable and Sustainable Energy Reviews
+OK    dt-charging-infra          2024  Sustainable Cities and Society
+OK    dt-ai-converter            2025  IET Power Electronics
+OK    dt-converter-health        2023  IEEE Access
+OK    dt-powertrain-review       2024  WEVJ
+OK    dt-batt-state              2025  Results in Engineering
+OK    dt-batt-soc                2023  Batteries
+OK    dt-ev-energy-pred          2021  WEVJ
+OK    dt-drl-ems                 2024  Energy
+OK    dt-fleet-charging          2026  Sustainable Energy res.
+OK    dt-cyber-5g                2025  Energies
+OK    dt-pmsm-shadow             2025  Digital Twins and Applications
+OK    dt-hil-rt                  2021  IEEE Trans. Power Electron.
+OK    dt-converter-cm            2025  Trans. Ind. Cyb-Phy. Sys.
+OK    batt-phys-aging            2021  Electrochimica Acta
+OK    batt-calendar              2025  Applied Energy
+OK    batt-coupled-degr          2024  IEEE Trans. Automat. Sci. Eng.
+OK    batt-fade-realveh          2024  Energy
+OK    batt-recycle-review        2024  Batteries
+OK    batt-recycle-ce            2022  Recycling
+OK    batt-2nd-life-pack         2023  Journal of Energy Storage
+OK    batt-2nd-life-mg           2021  Journal of Energy Storage
+OK    batt-v2g-degr              2025  Applied Energy
+OK    batt-v2g-degr-model        2024  Journal of Energy Storage
+OK    batt-drl-thermal           2024  Journal of Energy Storage
+OK    grid-v2g-review            2025  Results in Engineering
+OK    grid-v2g-impact            2022  Sustainability
+OK    grid-v2h-hems              2021  Journal of Cleaner Production
+OK    grid-infra-impact          2025  Electric Power Components and Systems
+OK    grid-tx-loading            2024  Heliyon
+OK    grid-flex-dr-v2g           2024  IEEE Access
+OK    grid-dr-aggregator         2022  Renewable and Sustainable Energy Reviews
+OK    grid-flex-fastchg          2023  IEEE Trans. Smart Grid
+OK    grid-smart-robust          2023  Applied Energy
+OK    grid-intermittency         2023  Renewable Energy
+OK    grid-der-standards         2021  Energies
+OK    grid-harmonic-std          2024  Electric Power Systems Research
+OK    grid-pv-ev-standards       2021  WEVJ
+OK    grid-microgrid-ctrl        2024  Results in Engineering
+OK    grid-microgrid-drl         2025  Applied Soft Computing
+OK    grid-pv-cs-techecon        2025  Energies
+OK    chg-siting-woa             2025  Electric Power Systems Research
+OK    chg-siting-uncert          2024  IEEE Trans. Intell. Transport. Syst.
+OK    chg-multiobj-data          2023  iScience
+OK    chg-behaviour-dk           2024  Electric Power Systems Research
+OK    chg-wait-longtrip          2025  IEEE Access
+OK    chg-queue-firefly          2024  IDT
+OK    chg-multistage-pv          2026  Applied Energy
+OK    chg-techecon-solar         2026  Sci Rep
+OK    chg-urban-rural            2024  Journal of Transport Geography
+OK    chg-equity-justice         2024  Transportation Research Interdisciplinary Perspectives
+OK    chg-equity-review          2025  WEVJ
+OK    chg-bus-decarb             2024  WEVJ
+OK    ai-demand-dl               2024  Applied Energy
+OK    ai-demand-review           2025  Energies
+OK    ai-smartgrid-review        2024  Energy Conversion and Management: X
+OK    ai-pinn-batt               2023  Batteries
+OK    ai-dl-soc                  2023  Energy Storage Materials
+OK    ai-bms-review              2025  Energy and AI
+OK    ai-marl-charging           2024  Energies
+OK    ai-prob-forecast           2025  WEVJ
+OK    cyb-ocpp                   2023  Int. J. Inf. Secur.
+OK    cyb-evcs-attack            2022  IEEE Access
+OK    cyb-insurance              2022  IEEE Trans. Smart Grid
+OK    cyb-ev-grid-review         2026  Global Energy Interconnection
+OK    cyb-ocpp-interop           2024  WEVJ
+OK    env-wtw-2022               2022  Journal of Environmental Management
+OK    env-wtw-2021               2021  Energy Policy
+OK    env-decarb-scen            2022  Nat Commun
+OK    env-lca-battery            2024  WEVJ
+OK    env-ghg-vs-ap              2023  Transportation Research Part D: Transport and Environment
+OK    env-carbon-neutral         2025  Carb Neutrality
+OK    econ-tco-asean             2025  Energy for Sustainable Development
+OK    econ-moo-mcdm              2021  Applied Energy
+OK    econ-topsis-power          2025  Energies
+OK    meth-abm-diffusion         2022  Energy
+OK    meth-abm-v2g               2022  Applied Energy
+OK    meth-gsa                   2023  Journal of Hydrology
+OK    meth-heat-range            2025  Applied Energy
+OK    meth-temp-trip             2022  Energy
+OK    meth-cold-range            2021  WEVJ
+OK    meth-driving-energy        2021  Applied Energy
+OK    wf-ev-workforce            2026  WEVJ
+OK    wf-trl-ccs                 2024  Renewable and Sustainable Energy Reviews
+OK    wf-trl-system              2026  Renewable and Sustainable Energy Reviews
+OK    wf-remanufacture           2024  WEVJ
+OK    wf-labour-demand           2024  Energy Policy

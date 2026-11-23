@@ -1,0 +1,5 @@
+archetype,country,inventory_year,segments,comparison,inventory_mt,model_ttw_mt,ratio_model_to_inventory,consistent,source
+developed,Germany,2024,passenger_car;light_commercial;two_wheeler,match,102.85,99.00482032067427,0.9626137124032501,True,CRF 1.A.3.b.i 89.32 + ii 12.38 + iv 1.15 Mt
+developing,Bangladesh,2023,two_wheeler;three_wheeler;passenger_car;light_commercial;bus,bound,14.9,14.3998266413232,0.9664313182096107,True,CW transport total (road about 90 %)
+underdeveloped,Tanzania,2023,two_wheeler;three_wheeler;passenger_car;light_commercial;bus,bound,7.9,6.70720678656,0.8490135172860759,True,CW transport total
+underdeveloped,Ethiopia,2023,two_wheeler;three_wheeler;passenger_car;light_commercial;bus,bound,6.94,6.70720678656,0.9664563093025935,True,CW transport total

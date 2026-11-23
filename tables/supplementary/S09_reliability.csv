@@ -1,0 +1,21 @@
+mission,converter,device,device_fitted,fast_cycles_per_year,delta_tj_fast_median_k,delta_tj_fast_p95_k,delta_tj_fast_max_k,share_cycles_in_calibrated_range,delta_tj_trip_k,tj_max_c
+passenger_car_400V,traction inverter,Si-IGBT,Infineon FS820R08A6P2B (750 V / 450 A),238282.315,0.662,15.58,18.67,0.0,28.764,63.67
+passenger_car_400V,traction inverter,Si-MOSFET,Infineon IPDQ65R017CFD7A (650 V / 86 A),233969.513,0.134,3.646,4.847,0.0,21.889,49.847
+passenger_car_400V,traction inverter,SiC-MOSFET,Infineon FS01MR08A8MA2C (750 V / 620 A),240438.716,0.469,7.255,9.348,0.0,23.31,54.348
+passenger_car_400V,traction inverter,GaN-HEMT,Transphorm (now Renesas) TP65H035G4WS (650 V / 46 A),251220.721,0.398,6.794,8.746,0.0,22.025,53.746
+passenger_car_800V,traction inverter,Si-IGBT,Infineon FS380R12A6T4B (1200 V / 250 A),239360.516,0.514,11.284,13.676,0.0,26.695,58.676
+passenger_car_800V,traction inverter,Si-MOSFET,Infineon IPDQ65R017CFD7A (650 V / 86 A),235047.713,0.105,3.439,4.491,0.0,21.822,49.491
+passenger_car_800V,traction inverter,SiC-MOSFET,Infineon FS03MR12A6MA1B (1200 V / 400 A),240438.716,0.397,6.027,7.777,0.0,22.787,52.777
+passenger_car_800V,traction inverter,GaN-HEMT,Transphorm (now Renesas) TP65H035G4WS (650 V / 46 A),246907.919,0.398,6.421,8.128,0.0,21.84,53.128
+bus_650V,traction inverter,Si-IGBT,Infineon FS380R12A6T4B (1200 V / 250 A),1574463.78,1.002,18.41,30.995,0.004,26.751,80.995
+bus_650V,traction inverter,Si-MOSFET,Infineon IPDQ65R017CFD7A (650 V / 86 A),1499190.611,0.449,14.258,28.759,0.0,24.319,78.759
+bus_650V,traction inverter,SiC-MOSFET,Infineon FS03MR12A6MA1B (1200 V / 400 A),1568191.016,0.692,10.695,18.709,0.0,23.175,68.709
+bus_650V,traction inverter,GaN-HEMT,Transphorm (now Renesas) TP65H035G4WS (650 V / 46 A),1599554.836,1.417,38.756,68.975,0.065,25.852,118.975
+three_wheeler_60V,traction inverter,Si-LV,Infineon IAUT300N10S5N015 (100 V / 247 A),900187.539,0.708,42.231,89.975,0.07,25.848,139.975
+three_wheeler_60V,traction inverter,GaN-LV,EPC EPC2302 (100 V / 133 A),850177.12,0.099,8.478,9.577,0.0,21.609,59.577
+two_wheeler_60V,traction inverter,Si-LV,Infineon IAUT300N10S5N015 (100 V / 247 A),278109.934,0.058,3.651,4.885,0.0,21.051,54.885
+two_wheeler_60V,traction inverter,GaN-LV,EPC EPC2302 (100 V / 133 A),268212.783,0.025,2.056,2.909,0.0,20.407,52.909
+dc_charger_150kW_session,DC charger front end,Si-IGBT,Infineon FS380R12A6T4B (1200 V / 250 A),,25.885,25.885,25.885,0.0,,
+dc_charger_150kW_session,DC charger front end,Si-MOSFET,Infineon IPDQ65R017CFD7A (650 V / 86 A),,8.571,8.571,8.571,0.0,,
+dc_charger_150kW_session,DC charger front end,SiC-MOSFET,Infineon IMZA120R022M2H (1200 V / 57 A),,11.478,11.478,11.478,0.0,,
+dc_charger_150kW_session,DC charger front end,GaN-HEMT,Transphorm (now Renesas) TP65H035G4WS (650 V / 46 A),,21.688,21.688,21.688,0.0,,

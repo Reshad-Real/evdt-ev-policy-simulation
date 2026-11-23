@@ -1,0 +1,130 @@
+iso_a3,name,archetype,note
+AFG,Afghanistan,underdeveloped,UN least developed country
+AGO,Angola,underdeveloped,UN least developed country
+BDI,Burundi,underdeveloped,UN least developed country
+BEN,Benin,underdeveloped,UN least developed country
+BFA,Burkina Faso,underdeveloped,UN least developed country
+CAF,Central African Republic,underdeveloped,UN least developed country
+COD,Democratic Republic of the Congo,underdeveloped,UN least developed country
+COM,Comoros,underdeveloped,UN least developed country
+DJI,Djibouti,underdeveloped,UN least developed country
+ERI,Eritrea,underdeveloped,UN least developed country
+ETH,Ethiopia,underdeveloped,UN least developed country
+GIN,Guinea,underdeveloped,UN least developed country
+GMB,Gambia,underdeveloped,UN least developed country
+GNB,Guinea-Bissau,underdeveloped,UN least developed country
+HTI,Haiti,underdeveloped,UN least developed country
+KHM,Cambodia,underdeveloped,UN least developed country
+LBR,Liberia,underdeveloped,UN least developed country
+LSO,Lesotho,underdeveloped,UN least developed country
+MDG,Madagascar,underdeveloped,UN least developed country
+MLI,Mali,underdeveloped,UN least developed country
+MMR,Myanmar,underdeveloped,UN least developed country
+MOZ,Mozambique,underdeveloped,UN least developed country
+MRT,Mauritania,underdeveloped,UN least developed country
+MWI,Malawi,underdeveloped,UN least developed country
+NER,Niger,underdeveloped,UN least developed country
+NPL,Nepal,underdeveloped,UN least developed country
+RWA,Rwanda,underdeveloped,UN least developed country
+SDN,Sudan,underdeveloped,UN least developed country
+SEN,Senegal,underdeveloped,UN least developed country
+SLE,Sierra Leone,underdeveloped,UN least developed country
+SOM,Somalia,underdeveloped,UN least developed country
+SSD,South Sudan,underdeveloped,UN least developed country
+TCD,Chad,underdeveloped,UN least developed country
+TGO,Togo,underdeveloped,UN least developed country
+TZA,United Republic of Tanzania,underdeveloped,UN least developed country
+UGA,Uganda,underdeveloped,UN least developed country
+YEM,Yemen,underdeveloped,UN least developed country
+ZMB,Zambia,underdeveloped,UN least developed country
+ZWE,Zimbabwe,underdeveloped,Low income
+BGD,Bangladesh,developing,Primary case study
+IND,India,developing,Lower middle income
+PAK,Pakistan,developing,Lower middle income
+LKA,Sri Lanka,developing,Lower middle income
+VNM,Viet Nam,developing,Lower middle income
+IDN,Indonesia,developing,Upper middle income
+PHL,Philippines,developing,Lower middle income
+THA,Thailand,developing,Upper middle income
+MYS,Malaysia,developing,Upper middle income
+NGA,Nigeria,developing,Lower middle income
+KEN,Kenya,developing,Lower middle income
+GHA,Ghana,developing,Lower middle income
+EGY,Egypt,developing,Lower middle income
+MAR,Morocco,developing,Lower middle income
+DZA,Algeria,developing,Lower middle income
+TUN,Tunisia,developing,Lower middle income
+ZAF,South Africa,developing,Upper middle income
+BRA,Brazil,developing,Upper middle income
+MEX,Mexico,developing,Upper middle income
+COL,Colombia,developing,Upper middle income
+PER,Peru,developing,Upper middle income
+ARG,Argentina,developing,Upper middle income
+ECU,Ecuador,developing,Upper middle income
+BOL,Bolivia,developing,Lower middle income
+PRY,Paraguay,developing,Upper middle income
+TUR,Turkey,developing,Upper middle income
+IRN,Iran,developing,Lower middle income
+IRQ,Iraq,developing,Upper middle income
+UZB,Uzbekistan,developing,Lower middle income
+KAZ,Kazakhstan,developing,Upper middle income
+UKR,Ukraine,developing,Lower middle income
+CIV,Cote d'Ivoire,developing,Lower middle income
+CMR,Cameroon,developing,Lower middle income
+JOR,Jordan,developing,Lower middle income
+LBN,Lebanon,developing,Lower middle income
+GTM,Guatemala,developing,Upper middle income
+HND,Honduras,developing,Lower middle income
+NIC,Nicaragua,developing,Lower middle income
+DOM,Dominican Republic,developing,Upper middle income
+CUB,Cuba,developing,Upper middle income
+VEN,Venezuela,developing,Upper middle income
+MNG,Mongolia,developing,Lower middle income
+PNG,Papua New Guinea,developing,Lower middle income
+LAO,Laos,developing,Lower middle income
+GAB,Gabon,developing,Upper middle income
+BWA,Botswana,developing,Upper middle income
+NAM,Namibia,developing,Upper middle income
+USA,United States of America,developed,High income
+CAN,Canada,developed,High income
+DEU,Germany,developed,High income
+FRA,France,developed,High income
+GBR,United Kingdom,developed,High income
+NOR,Norway,developed,High income
+SWE,Sweden,developed,High income
+FIN,Finland,developed,High income
+DNK,Denmark,developed,High income
+NLD,Netherlands,developed,High income
+BEL,Belgium,developed,High income
+LUX,Luxembourg,developed,High income
+CHE,Switzerland,developed,High income
+AUT,Austria,developed,High income
+ITA,Italy,developed,High income
+ESP,Spain,developed,High income
+PRT,Portugal,developed,High income
+IRL,Ireland,developed,High income
+ISL,Iceland,developed,High income
+POL,Poland,developed,High income
+CZE,Czechia,developed,High income
+SVK,Slovakia,developed,High income
+HUN,Hungary,developed,High income
+SVN,Slovenia,developed,High income
+HRV,Croatia,developed,High income
+EST,Estonia,developed,High income
+LVA,Latvia,developed,High income
+LTU,Lithuania,developed,High income
+GRC,Greece,developed,High income
+JPN,Japan,developed,High income
+KOR,Republic of Korea,developed,High income
+SGP,Singapore,developed,High income
+AUS,Australia,developed,High income
+NZL,New Zealand,developed,High income
+ISR,Israel,developed,High income
+ARE,United Arab Emirates,developed,High income
+SAU,Saudi Arabia,developed,High income
+QAT,Qatar,developed,High income
+KWT,Kuwait,developed,High income
+CHN,China,developed,Classified by electric-vehicle market maturity rather than income
+CHL,Chile,developed,High income
+URY,Uruguay,developed,High income
+RUS,Russia,developed,Upper middle income; mature industrial base

@@ -1,0 +1,10 @@
+archetype,type,feeder,buses,kV,impedance x,peak (MW),demand share,source
+LDC,"urban (Dar es Salaam, Addis Ababa)",ieee69,69,11.0,0.189,3.8,0.448,"IEEE 69-bus at 11 kV, 11 km"
+LDC,secondary towns,ieee33,33,15.0,0.548,3.71,0.453,"IEEE 33-bus at 15 kV, 34 km"
+LDC,rural 33 kV,ieee34_mv,51,33.0,0.577,1.77,0.099,"IEEE 34-node MV part at 33 kV, calibrated"
+BD,"urban (DPDC, DESCO)",ieee69,69,11.0,0.076,2.34,0.203,"IEEE 69-bus at 11 kV, 4.5 km"
+BD,"semi-urban (BPDB zones, WZPDCL, NESCO)",ieee33,33,11.0,0.196,1.58,0.221,"IEEE 33-bus at 11 kV, 12 km"
+BD,rural (BREB/PBS),in_rural28,28,11.0,0.59,1.62,0.576,"Indian 28-bus rural 11 kV, 52 km"
+DE,urban,simbench_mv_urban,150,10.0,1.0,21.0,0.389,SimBench 1-MV-urban--0-sw
+DE,semi-urban,simbench_mv_semiurb,123,20.0,1.0,13.4,0.424,SimBench 1-MV-semiurb--0-sw
+DE,rural,simbench_mv_rural,101,20.0,1.0,7.5,0.186,SimBench 1-MV-rural--0-sw

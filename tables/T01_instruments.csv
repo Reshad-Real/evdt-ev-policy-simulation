@@ -1,0 +1,12 @@
+Dom.,Instrument,Parameter changed,Dom.​,Instrument​,Parameter changed​
+Fisc.,Purchase subsidy,EV price,Grid,Distribution reinforcement,Transformer rating; feeder impedance
+Fisc.,Import-duty relief,Vehicle and converter duty; supply ceiling,Grid,Solar procured for charging,Charging-aligned PV capacity
+Fisc.,Time-of-use tariff,Hourly price; home-charging access,Grid,Smart-charging requirement,Controllable charging share
+Infra.,Public charging program,Connectors per 1000 EVs,Grid,Vehicle-to-grid access,V2G participation
+Infra.,DC fast-charging share,DC share of connectors and energy,Inst.,Domestic manufacturing,Duty pass-through; supply ceiling
+Infra.,Ultra-fast charging,350 kW share of DC connectors,Inst.,Technician certification,Repair time
+Infra.,Bus electrification,Electric share of bus fleet,Inst.,Battery recycling mandate,Recycled content
+PE,WBG type-approval requirement,Minimum SiC/GaN share,Dig.,Monitoring and telemetry,Flexibility; repair time
+PE,Converter efficiency standard,Residual converter loss (up to -16 %),Dig.,Charging cybersecurity,Cyber-induced charger failures
+PE,800 V platform support,DC link 400-800 V; GaN share,,,
+PE,Grid code for chargers,Charger harmonic current,,,

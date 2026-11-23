@@ -1,0 +1,11 @@
+quantity,published,published_low,published_high,model,source,use,within
+"Si IGBT traction inverter, peak efficiency, 375 V",>0.99,0.99,1.0,0.9854636147302926,"ORNL, 2012 Nissan LEAF inverter (DOE AMR 2013), 5 kHz",comparison,False
+"Si IGBT traction inverter, peak efficiency, 650 V",>0.99,0.99,1.0,0.9869788425600976,"ORNL, 2010 Toyota Prius inverter (ORNL/TM-2010/253), 5 kHz",comparison,False
+"Si IGBT traction inverter, peak efficiency, 700 V",>0.99,0.99,1.0,0.984112532384653,"ORNL, 2014 Honda Accord inverter (DOE AMR 2016)",comparison,False
+"Drive-cycle range gain, Si-IGBT at 800 V vs Si IGBT at 400 V, EPA combined (UDDS +0.8 %, HWFET +0.3 %, WLTC +0.5 %)",+1.2 %,0.002,0.022,0.005772583957883449,"Allca-Pekarovic et al., IEEE TTE 2024 (validated loss models, Chevrolet Bolt); within: +/-1 percentage point",comparison,True
+"Drive-cycle range gain, SiC-MOSFET at 800 V vs Si IGBT at 400 V, EPA combined (UDDS +5.6 %, HWFET +2.7 %, WLTC +3.5 %)",+5.0 %,0.04,0.060000000000000005,0.04309470608744262,"Allca-Pekarovic et al., IEEE TTE 2024 (validated loss models, Chevrolet Bolt); within: +/-1 percentage point",comparison,True
+"Si IGBT inverter efficiency at light load, 2010 Prius map at 225 V (held out, 8 points), mean absolute error",map contours 88-98 %,0.0,0.02,0.016497755078012155,ORNL/TM-2010/253 efficiency maps; ripple fitted at 650/500 V,comparison,True
+"SiC totem-pole PFC stage, 6.6 kW, peak efficiency",0.985,0.985,0.985,0.9873027025338563,"Liu et al., ECCE 2016 (SiC AC/DC stage above 300 kHz)",comparison,False
+"Wide-bandgap on-board charger, 6.6 kW, AC path",>0.96,0.96,1.0,0.9622331634739529,"Liu et al., ECCE 2016 (complete SiC+GaN charger)",comparison,True
+"DC fast-charger isolated stage, SiC-MOSFET, peak efficiency",>0.97,0.97,1.0,0.9848009254941457,"Piasecki et al., Energies 2021 (SiC DAB vs Si SAB modules)",comparison,True
+"DC fast-charger isolated stage, Si-IGBT, peak efficiency",>0.94,0.94,1.0,0.9873612010992204,"Piasecki et al., Energies 2021 (SiC DAB vs Si SAB modules)",comparison,True

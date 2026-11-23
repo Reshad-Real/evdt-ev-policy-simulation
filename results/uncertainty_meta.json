@@ -1,0 +1,144 @@
+{
+ "n_monte_carlo": 100,
+ "morris_trajectories": 8,
+ "policies": [
+  "S0",
+  "S4",
+  "S5"
+ ],
+ "parameters": [
+  {
+   "key": "fuel_price",
+   "label": "Fossil fuel price",
+   "lo": 0.62,
+   "hi": 1.55,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "electricity_price",
+   "label": "Retail electricity price",
+   "lo": 0.7,
+   "hi": 1.45,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "grid_emission_factor",
+   "label": "Grid carbon intensity",
+   "lo": 0.65,
+   "hi": 1.3,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "grid_availability",
+   "label": "Supply availability",
+   "lo": 0.94,
+   "hi": 1.02,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "mean_temperature",
+   "label": "Mean ambient temperature",
+   "lo": -3.5,
+   "hi": 4.5,
+   "kind": "absolute"
+  },
+  {
+   "key": "capital_cost_premium",
+   "label": "Infrastructure cost premium",
+   "lo": 0.8,
+   "hi": 1.35,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "discount_rate",
+   "label": "Social discount rate",
+   "lo": 0.75,
+   "hi": 1.35,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "bass_q",
+   "label": "Word-of-mouth adoption coefficient",
+   "lo": 0.65,
+   "hi": 1.45,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "market_potential",
+   "label": "Market potential ceiling",
+   "lo": 0.8,
+   "hi": 1.12,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "transformer_headroom",
+   "label": "Network spare capacity",
+   "lo": 0.82,
+   "hi": 1.18,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "solar_ghi",
+   "label": "Solar resource",
+   "lo": 0.88,
+   "hi": 1.12,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "social_carbon_price",
+   "label": "Social carbon price",
+   "lo": 0.45,
+   "hi": 1.85,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "value_of_time",
+   "label": "Value of travel time",
+   "lo": 0.65,
+   "hi": 1.5,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "vehicle_stock_growth",
+   "label": "Vehicle stock growth",
+   "lo": 0.7,
+   "hi": 1.35,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "device_esw_mult",
+   "label": "Device switching energies",
+   "lo": 0.75,
+   "hi": 1.3,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "device_ron_mult",
+   "label": "Device on-state resistances",
+   "lo": 0.85,
+   "hi": 1.2,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "adoption_elasticity",
+   "label": "Policy elasticity of adoption",
+   "lo": 0.5,
+   "hi": 1.5,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "fuel_co2_mult",
+   "label": "Displaced-fuel emission factor",
+   "lo": 0.93,
+   "hi": 1.07,
+   "kind": "multiplicative"
+  },
+  {
+   "key": "programme_cost_mult",
+   "label": "Programme resource cost",
+   "lo": 0.5,
+   "hi": 1.5,
+   "kind": "multiplicative"
+  }
+ ]
+}

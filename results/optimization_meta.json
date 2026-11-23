@@ -1,0 +1,47 @@
+{
+ "n_design": 300,
+ "n_anchor": 7,
+ "n_test": 60,
+ "pop_size": 88,
+ "generations": 55,
+ "n_verify": 30,
+ "levers": [
+  "purchase_incentive",
+  "duty_relief",
+  "tou_tariff",
+  "charger_rollout",
+  "dc_share",
+  "ultrafast_share",
+  "bus_electrification",
+  "wbg_mandate",
+  "efficiency_standard",
+  "hv_architecture",
+  "grid_code",
+  "grid_investment",
+  "renewable_target",
+  "smart_charging",
+  "v2g_enablement",
+  "local_manufacturing",
+  "workforce",
+  "recycling",
+  "digital_twin",
+  "cybersecurity"
+ ],
+ "targets": [
+  "npv_musd",
+  "cumulative_emissions_saved_mt",
+  "final_transformer_loading",
+  "final_wait_min",
+  "mean_loss_fraction",
+  "final_ev_share",
+  "final_wbg_share",
+  "mean_eta_traction"
+ ],
+ "objectives": [
+  "npv_musd",
+  "cumulative_emissions_saved_mt",
+  "final_transformer_loading"
+ ],
+ "seed": 909,
+ "runtime_s": 0.2933261999860406
+}

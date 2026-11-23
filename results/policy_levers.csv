@@ -1,0 +1,421 @@
+archetype,policy,lever,label,domain,unit,value_2035,intensity
+underdeveloped,S0,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.0,0.0
+underdeveloped,S0,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.0,0.0
+underdeveloped,S0,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.0,0.0
+underdeveloped,S0,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,2.0,0.0
+underdeveloped,S0,dc_share,DC share of public connectors,infrastructure,fraction,0.02,0.0
+underdeveloped,S0,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+underdeveloped,S0,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.0,0.0
+underdeveloped,S0,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.0,0.0
+underdeveloped,S0,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.0,0.0
+underdeveloped,S0,hv_architecture,800 V architecture promotion,technology,intensity,0.0,0.0
+underdeveloped,S0,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.0,0.0
+underdeveloped,S0,grid_investment,Distribution reinforcement,grid,intensity,0.0,0.0
+underdeveloped,S0,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.0,0.0
+underdeveloped,S0,smart_charging,Smart-charging requirement,grid,controllable share,0.0,0.0
+underdeveloped,S0,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.0,0.0
+underdeveloped,S0,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.0,0.0
+underdeveloped,S0,workforce,Power-electronics workforce programme,institutional,intensity,0.0,0.0
+underdeveloped,S0,recycling,Battery recycling and second-life mandate,institutional,intensity,0.0,0.0
+underdeveloped,S0,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.0,0.0
+underdeveloped,S0,cybersecurity,Charging cybersecurity programme,digital,intensity,0.0,0.0
+underdeveloped,S1,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.1,0.28571428571428575
+underdeveloped,S1,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.75,0.75
+underdeveloped,S1,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.0,0.0
+underdeveloped,S1,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,9.0,0.07954545454545454
+underdeveloped,S1,dc_share,DC share of public connectors,infrastructure,fraction,0.06,0.06896551724137931
+underdeveloped,S1,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+underdeveloped,S1,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.1,0.11111111111111112
+underdeveloped,S1,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.0,0.0
+underdeveloped,S1,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.0,0.0
+underdeveloped,S1,hv_architecture,800 V architecture promotion,technology,intensity,0.0,0.0
+underdeveloped,S1,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.0,0.0
+underdeveloped,S1,grid_investment,Distribution reinforcement,grid,intensity,0.0,0.0
+underdeveloped,S1,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.0,0.0
+underdeveloped,S1,smart_charging,Smart-charging requirement,grid,controllable share,0.0,0.0
+underdeveloped,S1,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.0,0.0
+underdeveloped,S1,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.0,0.0
+underdeveloped,S1,workforce,Power-electronics workforce programme,institutional,intensity,0.0,0.0
+underdeveloped,S1,recycling,Battery recycling and second-life mandate,institutional,intensity,0.0,0.0
+underdeveloped,S1,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.0,0.0
+underdeveloped,S1,cybersecurity,Charging cybersecurity programme,digital,intensity,0.0,0.0
+underdeveloped,S2,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.0,0.0
+underdeveloped,S2,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.0,0.0
+underdeveloped,S2,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.0,0.0
+underdeveloped,S2,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,2.0,0.0
+underdeveloped,S2,dc_share,DC share of public connectors,infrastructure,fraction,0.02,0.0
+underdeveloped,S2,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+underdeveloped,S2,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.0,0.0
+underdeveloped,S2,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.31111111111111106,0.32748538011695905
+underdeveloped,S2,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.5333333333333333,0.5333333333333333
+underdeveloped,S2,hv_architecture,800 V architecture promotion,technology,intensity,0.0,0.0
+underdeveloped,S2,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.48888888888888893,0.48888888888888893
+underdeveloped,S2,grid_investment,Distribution reinforcement,grid,intensity,0.0,0.0
+underdeveloped,S2,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.0,0.0
+underdeveloped,S2,smart_charging,Smart-charging requirement,grid,controllable share,0.0,0.0
+underdeveloped,S2,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.0,0.0
+underdeveloped,S2,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.0,0.0
+underdeveloped,S2,workforce,Power-electronics workforce programme,institutional,intensity,0.5777777777777777,0.5777777777777777
+underdeveloped,S2,recycling,Battery recycling and second-life mandate,institutional,intensity,0.26666666666666666,0.26666666666666666
+underdeveloped,S2,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.0,0.0
+underdeveloped,S2,cybersecurity,Charging cybersecurity programme,digital,intensity,0.0,0.0
+underdeveloped,S3,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.0,0.0
+underdeveloped,S3,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.0,0.0
+underdeveloped,S3,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.35555555555555557,0.35555555555555557
+underdeveloped,S3,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,2.0,0.0
+underdeveloped,S3,dc_share,DC share of public connectors,infrastructure,fraction,0.02,0.0
+underdeveloped,S3,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+underdeveloped,S3,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.0,0.0
+underdeveloped,S3,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.0,0.0
+underdeveloped,S3,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.0,0.0
+underdeveloped,S3,hv_architecture,800 V architecture promotion,technology,intensity,0.0,0.0
+underdeveloped,S3,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.0,0.0
+underdeveloped,S3,grid_investment,Distribution reinforcement,grid,intensity,0.39999999999999997,0.39999999999999997
+underdeveloped,S3,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.48888888888888893,0.48888888888888893
+underdeveloped,S3,smart_charging,Smart-charging requirement,grid,controllable share,0.31111111111111106,0.32748538011695905
+underdeveloped,S3,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.0,0.0
+underdeveloped,S3,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.0,0.0
+underdeveloped,S3,workforce,Power-electronics workforce programme,institutional,intensity,0.0,0.0
+underdeveloped,S3,recycling,Battery recycling and second-life mandate,institutional,intensity,0.0,0.0
+underdeveloped,S3,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.4444444444444444,0.4444444444444444
+underdeveloped,S3,cybersecurity,Charging cybersecurity programme,digital,intensity,0.26666666666666666,0.26666666666666666
+underdeveloped,S4,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.08,0.2285714285714286
+underdeveloped,S4,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.55,0.55
+underdeveloped,S4,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.35,0.35
+underdeveloped,S4,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,10.0,0.09090909090909091
+underdeveloped,S4,dc_share,DC share of public connectors,infrastructure,fraction,0.08,0.10344827586206896
+underdeveloped,S4,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+underdeveloped,S4,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.12,0.13333333333333333
+underdeveloped,S4,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.3,0.3157894736842105
+underdeveloped,S4,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.5,0.5
+underdeveloped,S4,hv_architecture,800 V architecture promotion,technology,intensity,0.0,0.0
+underdeveloped,S4,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.45,0.45
+underdeveloped,S4,grid_investment,Distribution reinforcement,grid,intensity,0.35,0.35
+underdeveloped,S4,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.45,0.45
+underdeveloped,S4,smart_charging,Smart-charging requirement,grid,controllable share,0.3,0.3157894736842105
+underdeveloped,S4,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.0,0.0
+underdeveloped,S4,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.0,0.0
+underdeveloped,S4,workforce,Power-electronics workforce programme,institutional,intensity,0.5,0.5
+underdeveloped,S4,recycling,Battery recycling and second-life mandate,institutional,intensity,0.25,0.25
+underdeveloped,S4,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.35,0.35
+underdeveloped,S4,cybersecurity,Charging cybersecurity programme,digital,intensity,0.0,0.0
+underdeveloped,S5,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.18,0.5142857142857143
+underdeveloped,S5,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,1.0,1.0
+underdeveloped,S5,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.7,0.7
+underdeveloped,S5,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,18.0,0.18181818181818182
+underdeveloped,S5,dc_share,DC share of public connectors,infrastructure,fraction,0.14,0.20689655172413796
+underdeveloped,S5,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.05,0.09090909090909091
+underdeveloped,S5,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.35,0.38888888888888884
+underdeveloped,S5,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.6,0.631578947368421
+underdeveloped,S5,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.85,0.85
+underdeveloped,S5,hv_architecture,800 V architecture promotion,technology,intensity,0.25,0.25
+underdeveloped,S5,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.8,0.8
+underdeveloped,S5,grid_investment,Distribution reinforcement,grid,intensity,0.75,0.75
+underdeveloped,S5,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.85,0.85
+underdeveloped,S5,smart_charging,Smart-charging requirement,grid,controllable share,0.6,0.631578947368421
+underdeveloped,S5,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.1,0.16666666666666669
+underdeveloped,S5,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.35,0.35
+underdeveloped,S5,workforce,Power-electronics workforce programme,institutional,intensity,0.85,0.85
+underdeveloped,S5,recycling,Battery recycling and second-life mandate,institutional,intensity,0.55,0.55
+underdeveloped,S5,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.75,0.75
+underdeveloped,S5,cybersecurity,Charging cybersecurity programme,digital,intensity,0.55,0.55
+underdeveloped,S6,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.15,0.4285714285714286
+underdeveloped,S6,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,1.0,1.0
+underdeveloped,S6,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.9,0.9
+underdeveloped,S6,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,26.0,0.2727272727272727
+underdeveloped,S6,dc_share,DC share of public connectors,infrastructure,fraction,0.2,0.31034482758620696
+underdeveloped,S6,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.12,0.21818181818181814
+underdeveloped,S6,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.6,0.6666666666666666
+underdeveloped,S6,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.85,0.8947368421052632
+underdeveloped,S6,efficiency_standard,Minimum converter efficiency standard,technology,intensity,1.0,1.0
+underdeveloped,S6,hv_architecture,800 V architecture promotion,technology,intensity,0.5,0.5
+underdeveloped,S6,grid_code,Grid-code and power-quality enforcement,technology,intensity,1.0,1.0
+underdeveloped,S6,grid_investment,Distribution reinforcement,grid,intensity,0.9,0.9
+underdeveloped,S6,renewable_target,Renewable capacity aligned to charging,grid,intensity,1.0,1.0
+underdeveloped,S6,smart_charging,Smart-charging requirement,grid,controllable share,0.8,0.8421052631578948
+underdeveloped,S6,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.25,0.4166666666666667
+underdeveloped,S6,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.55,0.55
+underdeveloped,S6,workforce,Power-electronics workforce programme,institutional,intensity,1.0,1.0
+underdeveloped,S6,recycling,Battery recycling and second-life mandate,institutional,intensity,0.8,0.8
+underdeveloped,S6,digital_twin,Charging monitoring and telemetry platform,digital,intensity,1.0,1.0
+underdeveloped,S6,cybersecurity,Charging cybersecurity programme,digital,intensity,0.8,0.8
+developing,S0,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.0,0.0
+developing,S0,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.0,0.0
+developing,S0,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.0,0.0
+developing,S0,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,2.0,0.0
+developing,S0,dc_share,DC share of public connectors,infrastructure,fraction,0.02,0.0
+developing,S0,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+developing,S0,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.0,0.0
+developing,S0,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.0,0.0
+developing,S0,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.0,0.0
+developing,S0,hv_architecture,800 V architecture promotion,technology,intensity,0.0,0.0
+developing,S0,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.0,0.0
+developing,S0,grid_investment,Distribution reinforcement,grid,intensity,0.0,0.0
+developing,S0,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.0,0.0
+developing,S0,smart_charging,Smart-charging requirement,grid,controllable share,0.0,0.0
+developing,S0,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.0,0.0
+developing,S0,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.0,0.0
+developing,S0,workforce,Power-electronics workforce programme,institutional,intensity,0.0,0.0
+developing,S0,recycling,Battery recycling and second-life mandate,institutional,intensity,0.0,0.0
+developing,S0,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.0,0.0
+developing,S0,cybersecurity,Charging cybersecurity programme,digital,intensity,0.0,0.0
+developing,S1,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.15,0.4285714285714286
+developing,S1,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.8,0.8
+developing,S1,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.3,0.3
+developing,S1,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,16.0,0.1590909090909091
+developing,S1,dc_share,DC share of public connectors,infrastructure,fraction,0.14,0.20689655172413796
+developing,S1,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+developing,S1,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.2,0.22222222222222224
+developing,S1,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.0,0.0
+developing,S1,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.0,0.0
+developing,S1,hv_architecture,800 V architecture promotion,technology,intensity,0.0,0.0
+developing,S1,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.0,0.0
+developing,S1,grid_investment,Distribution reinforcement,grid,intensity,0.0,0.0
+developing,S1,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.0,0.0
+developing,S1,smart_charging,Smart-charging requirement,grid,controllable share,0.0,0.0
+developing,S1,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.0,0.0
+developing,S1,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.0,0.0
+developing,S1,workforce,Power-electronics workforce programme,institutional,intensity,0.0,0.0
+developing,S1,recycling,Battery recycling and second-life mandate,institutional,intensity,0.0,0.0
+developing,S1,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.0,0.0
+developing,S1,cybersecurity,Charging cybersecurity programme,digital,intensity,0.0,0.0
+developing,S2,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.0,0.0
+developing,S2,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.0,0.0
+developing,S2,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.0,0.0
+developing,S2,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,2.0,0.0
+developing,S2,dc_share,DC share of public connectors,infrastructure,fraction,0.02,0.0
+developing,S2,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+developing,S2,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.0,0.0
+developing,S2,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.55,0.5789473684210527
+developing,S2,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.8,0.8
+developing,S2,hv_architecture,800 V architecture promotion,technology,intensity,0.3,0.3
+developing,S2,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.75,0.75
+developing,S2,grid_investment,Distribution reinforcement,grid,intensity,0.0,0.0
+developing,S2,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.0,0.0
+developing,S2,smart_charging,Smart-charging requirement,grid,controllable share,0.0,0.0
+developing,S2,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.0,0.0
+developing,S2,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.45,0.45
+developing,S2,workforce,Power-electronics workforce programme,institutional,intensity,0.75,0.75
+developing,S2,recycling,Battery recycling and second-life mandate,institutional,intensity,0.55,0.55
+developing,S2,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.0,0.0
+developing,S2,cybersecurity,Charging cybersecurity programme,digital,intensity,0.0,0.0
+developing,S3,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.0,0.0
+developing,S3,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.0,0.0
+developing,S3,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.7,0.7
+developing,S3,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,2.0,0.0
+developing,S3,dc_share,DC share of public connectors,infrastructure,fraction,0.02,0.0
+developing,S3,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+developing,S3,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.0,0.0
+developing,S3,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.0,0.0
+developing,S3,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.0,0.0
+developing,S3,hv_architecture,800 V architecture promotion,technology,intensity,0.0,0.0
+developing,S3,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.0,0.0
+developing,S3,grid_investment,Distribution reinforcement,grid,intensity,0.65,0.65
+developing,S3,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.7,0.7
+developing,S3,smart_charging,Smart-charging requirement,grid,controllable share,0.6,0.631578947368421
+developing,S3,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.2,0.33333333333333337
+developing,S3,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.0,0.0
+developing,S3,workforce,Power-electronics workforce programme,institutional,intensity,0.0,0.0
+developing,S3,recycling,Battery recycling and second-life mandate,institutional,intensity,0.0,0.0
+developing,S3,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.75,0.75
+developing,S3,cybersecurity,Charging cybersecurity programme,digital,intensity,0.55,0.55
+developing,S4,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.1,0.28571428571428575
+developing,S4,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.55,0.55
+developing,S4,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.5,0.5
+developing,S4,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,15.0,0.14772727272727273
+developing,S4,dc_share,DC share of public connectors,infrastructure,fraction,0.14,0.20689655172413796
+developing,S4,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+developing,S4,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.2,0.22222222222222224
+developing,S4,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.4,0.4210526315789474
+developing,S4,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.6,0.6
+developing,S4,hv_architecture,800 V architecture promotion,technology,intensity,0.0,0.0
+developing,S4,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.55,0.55
+developing,S4,grid_investment,Distribution reinforcement,grid,intensity,0.45,0.45
+developing,S4,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.5,0.5
+developing,S4,smart_charging,Smart-charging requirement,grid,controllable share,0.45,0.4736842105263158
+developing,S4,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.0,0.0
+developing,S4,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.3,0.3
+developing,S4,workforce,Power-electronics workforce programme,institutional,intensity,0.55,0.55
+developing,S4,recycling,Battery recycling and second-life mandate,institutional,intensity,0.4,0.4
+developing,S4,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.45,0.45
+developing,S4,cybersecurity,Charging cybersecurity programme,digital,intensity,0.35,0.35
+developing,S5,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.22,0.6285714285714287
+developing,S5,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,1.0,1.0
+developing,S5,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.9,0.9
+developing,S5,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,32.0,0.3409090909090909
+developing,S5,dc_share,DC share of public connectors,infrastructure,fraction,0.26,0.4137931034482759
+developing,S5,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.15,0.2727272727272727
+developing,S5,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.55,0.6111111111111112
+developing,S5,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.8,0.8421052631578948
+developing,S5,efficiency_standard,Minimum converter efficiency standard,technology,intensity,1.0,1.0
+developing,S5,hv_architecture,800 V architecture promotion,technology,intensity,0.55,0.55
+developing,S5,grid_code,Grid-code and power-quality enforcement,technology,intensity,1.0,1.0
+developing,S5,grid_investment,Distribution reinforcement,grid,intensity,0.85,0.85
+developing,S5,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.9,0.9
+developing,S5,smart_charging,Smart-charging requirement,grid,controllable share,0.8,0.8421052631578948
+developing,S5,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.35,0.5833333333333334
+developing,S5,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.7,0.7
+developing,S5,workforce,Power-electronics workforce programme,institutional,intensity,0.95,0.95
+developing,S5,recycling,Battery recycling and second-life mandate,institutional,intensity,0.8,0.8
+developing,S5,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.9,0.9
+developing,S5,cybersecurity,Charging cybersecurity programme,digital,intensity,0.8,0.8
+developing,S6,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.16,0.4571428571428572
+developing,S6,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,1.0,1.0
+developing,S6,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,1.0,1.0
+developing,S6,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,45.0,0.48863636363636365
+developing,S6,dc_share,DC share of public connectors,infrastructure,fraction,0.34,0.5517241379310346
+developing,S6,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.28,0.5090909090909091
+developing,S6,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.85,0.9444444444444444
+developing,S6,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.95,1.0
+developing,S6,efficiency_standard,Minimum converter efficiency standard,technology,intensity,1.0,1.0
+developing,S6,hv_architecture,800 V architecture promotion,technology,intensity,0.85,0.85
+developing,S6,grid_code,Grid-code and power-quality enforcement,technology,intensity,1.0,1.0
+developing,S6,grid_investment,Distribution reinforcement,grid,intensity,1.0,1.0
+developing,S6,renewable_target,Renewable capacity aligned to charging,grid,intensity,1.0,1.0
+developing,S6,smart_charging,Smart-charging requirement,grid,controllable share,0.92,0.9684210526315791
+developing,S6,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.5,0.8333333333333334
+developing,S6,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.9,0.9
+developing,S6,workforce,Power-electronics workforce programme,institutional,intensity,1.0,1.0
+developing,S6,recycling,Battery recycling and second-life mandate,institutional,intensity,1.0,1.0
+developing,S6,digital_twin,Charging monitoring and telemetry platform,digital,intensity,1.0,1.0
+developing,S6,cybersecurity,Charging cybersecurity programme,digital,intensity,1.0,1.0
+developed,S0,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.0,0.0
+developed,S0,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.0,0.0
+developed,S0,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.0,0.0
+developed,S0,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,2.0,0.0
+developed,S0,dc_share,DC share of public connectors,infrastructure,fraction,0.02,0.0
+developed,S0,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+developed,S0,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.0,0.0
+developed,S0,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.0,0.0
+developed,S0,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.0,0.0
+developed,S0,hv_architecture,800 V architecture promotion,technology,intensity,0.0,0.0
+developed,S0,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.0,0.0
+developed,S0,grid_investment,Distribution reinforcement,grid,intensity,0.0,0.0
+developed,S0,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.0,0.0
+developed,S0,smart_charging,Smart-charging requirement,grid,controllable share,0.0,0.0
+developed,S0,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.0,0.0
+developed,S0,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.0,0.0
+developed,S0,workforce,Power-electronics workforce programme,institutional,intensity,0.0,0.0
+developed,S0,recycling,Battery recycling and second-life mandate,institutional,intensity,0.0,0.0
+developed,S0,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.0,0.0
+developed,S0,cybersecurity,Charging cybersecurity programme,digital,intensity,0.0,0.0
+developed,S1,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.1,0.28571428571428575
+developed,S1,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.5,0.5
+developed,S1,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.5,0.5
+developed,S1,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,30.0,0.3181818181818182
+developed,S1,dc_share,DC share of public connectors,infrastructure,fraction,0.3,0.48275862068965514
+developed,S1,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.2,0.36363636363636365
+developed,S1,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.3,0.3333333333333333
+developed,S1,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.0,0.0
+developed,S1,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.0,0.0
+developed,S1,hv_architecture,800 V architecture promotion,technology,intensity,0.0,0.0
+developed,S1,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.0,0.0
+developed,S1,grid_investment,Distribution reinforcement,grid,intensity,0.0,0.0
+developed,S1,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.0,0.0
+developed,S1,smart_charging,Smart-charging requirement,grid,controllable share,0.0,0.0
+developed,S1,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.0,0.0
+developed,S1,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.0,0.0
+developed,S1,workforce,Power-electronics workforce programme,institutional,intensity,0.0,0.0
+developed,S1,recycling,Battery recycling and second-life mandate,institutional,intensity,0.0,0.0
+developed,S1,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.0,0.0
+developed,S1,cybersecurity,Charging cybersecurity programme,digital,intensity,0.0,0.0
+developed,S2,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.0,0.0
+developed,S2,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.0,0.0
+developed,S2,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.0,0.0
+developed,S2,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,2.0,0.0
+developed,S2,dc_share,DC share of public connectors,infrastructure,fraction,0.02,0.0
+developed,S2,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+developed,S2,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.0,0.0
+developed,S2,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.85,0.8947368421052632
+developed,S2,efficiency_standard,Minimum converter efficiency standard,technology,intensity,1.0,1.0
+developed,S2,hv_architecture,800 V architecture promotion,technology,intensity,0.85,0.85
+developed,S2,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.9,0.9
+developed,S2,grid_investment,Distribution reinforcement,grid,intensity,0.0,0.0
+developed,S2,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.0,0.0
+developed,S2,smart_charging,Smart-charging requirement,grid,controllable share,0.0,0.0
+developed,S2,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.0,0.0
+developed,S2,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.7,0.7
+developed,S2,workforce,Power-electronics workforce programme,institutional,intensity,0.8,0.8
+developed,S2,recycling,Battery recycling and second-life mandate,institutional,intensity,0.75,0.75
+developed,S2,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.0,0.0
+developed,S2,cybersecurity,Charging cybersecurity programme,digital,intensity,0.0,0.0
+developed,S3,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.0,0.0
+developed,S3,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.0,0.0
+developed,S3,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.85,0.85
+developed,S3,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,2.0,0.0
+developed,S3,dc_share,DC share of public connectors,infrastructure,fraction,0.02,0.0
+developed,S3,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.0,0.0
+developed,S3,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.0,0.0
+developed,S3,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.0,0.0
+developed,S3,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.0,0.0
+developed,S3,hv_architecture,800 V architecture promotion,technology,intensity,0.0,0.0
+developed,S3,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.0,0.0
+developed,S3,grid_investment,Distribution reinforcement,grid,intensity,0.75,0.75
+developed,S3,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.85,0.85
+developed,S3,smart_charging,Smart-charging requirement,grid,controllable share,0.88,0.9263157894736842
+developed,S3,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.45,0.75
+developed,S3,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.0,0.0
+developed,S3,workforce,Power-electronics workforce programme,institutional,intensity,0.0,0.0
+developed,S3,recycling,Battery recycling and second-life mandate,institutional,intensity,0.0,0.0
+developed,S3,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.9,0.9
+developed,S3,cybersecurity,Charging cybersecurity programme,digital,intensity,0.85,0.85
+developed,S4,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.06,0.17142857142857143
+developed,S4,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.4,0.4
+developed,S4,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.65,0.65
+developed,S4,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,28.0,0.29545454545454547
+developed,S4,dc_share,DC share of public connectors,infrastructure,fraction,0.28,0.4482758620689656
+developed,S4,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.18,0.3272727272727272
+developed,S4,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.35,0.38888888888888884
+developed,S4,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.55,0.5789473684210527
+developed,S4,efficiency_standard,Minimum converter efficiency standard,technology,intensity,0.7,0.7
+developed,S4,hv_architecture,800 V architecture promotion,technology,intensity,0.45,0.45
+developed,S4,grid_code,Grid-code and power-quality enforcement,technology,intensity,0.65,0.65
+developed,S4,grid_investment,Distribution reinforcement,grid,intensity,0.45,0.45
+developed,S4,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.55,0.55
+developed,S4,smart_charging,Smart-charging requirement,grid,controllable share,0.6,0.631578947368421
+developed,S4,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.2,0.33333333333333337
+developed,S4,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.45,0.45
+developed,S4,workforce,Power-electronics workforce programme,institutional,intensity,0.55,0.55
+developed,S4,recycling,Battery recycling and second-life mandate,institutional,intensity,0.5,0.5
+developed,S4,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.55,0.55
+developed,S4,cybersecurity,Charging cybersecurity programme,digital,intensity,0.55,0.55
+developed,S5,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.14,0.4000000000000001
+developed,S5,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.7,0.7
+developed,S5,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,0.95,0.95
+developed,S5,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,52.0,0.5681818181818182
+developed,S5,dc_share,DC share of public connectors,infrastructure,fraction,0.42,0.689655172413793
+developed,S5,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.38,0.6909090909090908
+developed,S5,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.7,0.7777777777777777
+developed,S5,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.92,0.9684210526315791
+developed,S5,efficiency_standard,Minimum converter efficiency standard,technology,intensity,1.0,1.0
+developed,S5,hv_architecture,800 V architecture promotion,technology,intensity,0.9,0.9
+developed,S5,grid_code,Grid-code and power-quality enforcement,technology,intensity,1.0,1.0
+developed,S5,grid_investment,Distribution reinforcement,grid,intensity,0.85,0.85
+developed,S5,renewable_target,Renewable capacity aligned to charging,grid,intensity,0.95,0.95
+developed,S5,smart_charging,Smart-charging requirement,grid,controllable share,0.9,0.9473684210526316
+developed,S5,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.5,0.8333333333333334
+developed,S5,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,0.85,0.85
+developed,S5,workforce,Power-electronics workforce programme,institutional,intensity,0.95,0.95
+developed,S5,recycling,Battery recycling and second-life mandate,institutional,intensity,0.9,0.9
+developed,S5,digital_twin,Charging monitoring and telemetry platform,digital,intensity,0.95,0.95
+developed,S5,cybersecurity,Charging cybersecurity programme,digital,intensity,0.95,0.95
+developed,S6,purchase_incentive,Purchase incentive,fiscal,fraction of price,0.05,0.14285714285714288
+developed,S6,duty_relief,Import-duty relief on EVs and converters,fiscal,fraction of duty removed,0.6,0.6
+developed,S6,tou_tariff,Time-of-use retail tariff,fiscal,adoption share,1.0,1.0
+developed,S6,charger_rollout,Public charging roll-out,infrastructure,connectors per 1000 EVs,72.0,0.7954545454545454
+developed,S6,dc_share,DC share of public connectors,infrastructure,fraction,0.55,0.913793103448276
+developed,S6,ultrafast_share,Ultra-fast share of DC connectors,infrastructure,fraction,0.52,0.9454545454545454
+developed,S6,bus_electrification,Public-transport electrification,infrastructure,fraction of bus fleet,0.9,1.0
+developed,S6,wbg_mandate,Wide-bandgap converter requirement,technology,minimum WBG share,0.95,1.0
+developed,S6,efficiency_standard,Minimum converter efficiency standard,technology,intensity,1.0,1.0
+developed,S6,hv_architecture,800 V architecture promotion,technology,intensity,1.0,1.0
+developed,S6,grid_code,Grid-code and power-quality enforcement,technology,intensity,1.0,1.0
+developed,S6,grid_investment,Distribution reinforcement,grid,intensity,1.0,1.0
+developed,S6,renewable_target,Renewable capacity aligned to charging,grid,intensity,1.0,1.0
+developed,S6,smart_charging,Smart-charging requirement,grid,controllable share,0.95,1.0
+developed,S6,v2g_enablement,Vehicle-to-grid enablement,grid,participation share,0.6,1.0
+developed,S6,local_manufacturing,Domestic converter and pack manufacturing,institutional,intensity,1.0,1.0
+developed,S6,workforce,Power-electronics workforce programme,institutional,intensity,1.0,1.0
+developed,S6,recycling,Battery recycling and second-life mandate,institutional,intensity,1.0,1.0
+developed,S6,digital_twin,Charging monitoring and telemetry platform,digital,intensity,1.0,1.0
+developed,S6,cybersecurity,Charging cybersecurity programme,digital,intensity,1.0,1.0

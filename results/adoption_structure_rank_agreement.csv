@@ -1,0 +1,22 @@
+variant,archetype,kendall_tau,same_first
+base,underdeveloped,0.9999999999999999,True
+base,developing,0.9999999999999999,True
+base,developed,0.9999999999999999,True
+elasticity x0.5,underdeveloped,0.9999999999999999,True
+elasticity x0.5,developing,0.4666666666666666,False
+elasticity x0.5,developed,0.9999999999999999,True
+elasticity x1.5,underdeveloped,0.8666666666666666,True
+elasticity x1.5,developing,0.9999999999999999,True
+elasticity x1.5,developed,0.9999999999999999,True
+hazard form,underdeveloped,0.9999999999999999,True
+hazard form,developing,0.9999999999999999,True
+hazard form,developed,0.8666666666666666,True
+analog India,underdeveloped,0.8666666666666666,False
+analog India,developing,0.7333333333333333,False
+analog India,developed,0.9999999999999999,True
+analog Indonesia,underdeveloped,0.9999999999999999,True
+analog Indonesia,developing,0.9999999999999999,True
+analog Indonesia,developed,0.9999999999999999,True
+analog Kenya,underdeveloped,0.9999999999999999,True
+analog Kenya,developing,0.8666666666666666,True
+analog Kenya,developed,0.9999999999999999,True

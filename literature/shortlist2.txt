@@ -1,0 +1,330 @@
+
+===== BD =====
+2026|c3   |Solar Energy            |Evaluating rooftop and ground solar photovoltaic benefits in southern Taiwan via UAV a|10.1016/j.solener.2026.114426
+2026|c2   |Solar Energy            |Field investigation and cause analysis for a rooftop photovoltaic system fire incident|10.1016/j.solener.2026.114420
+2026|c0   |IET Renewable Power Gen |A Pathway to Carbon‐Neutral Healthcare: Exploring the Potential of Rooftop Solar Net M|10.1049/rpg2.70263
+2026|c0   |IET Renewable Power Gen |Load Flow–Based Probabilistic Power System Clustering Using Power System Distribution |10.1049/rpg2.70237
+2026|c0   |Sci Rep                 |Optimal sizing of electric vehicle charging station considering charging scheduling st|10.1038/s41598-026-53285-x
+2025|c12  |Electric Power Systems R|Secure and convenience charging communication between electric vehicle and charging st|10.1016/j.epsr.2024.111371
+2025|c10  |Energy Nexus            |Oman's energy transition roadmap to net zero 2050|10.1016/j.nexus.2025.100493
+2025|c9   |Applied Energy          |Economic and environmental implications of India's industry transition to net zero|10.1016/j.apenergy.2024.124922
+2025|c5   |Energies                |Short-Term Load Forecasting in the Greek Power Distribution System: A Comparative Stud|10.3390/en18195060
+2025|c2   |Electr Eng              |LightGBM-driven one-day-ahead electrical load forecasting for enhancing operational ef|10.1007/s00202-025-03034-6
+2025|c1   |WEVJ                    |Motivators and Environmental Awareness for Electric Vehicle Adoption in Thailand|10.3390/wevj16030132
+2024|c32  |Applied Energy          |Towards net zero: Evaluating energy security in Singapore using system dynamics modell|10.1016/j.apenergy.2023.122537
+2024|c30  |WEVJ                    |Modeling the Impact of Different Policies on Electric Vehicle Adoption: An Investigati|10.3390/wevj15020052
+2024|c14  |Solar Energy            |Carbon offset potential of rooftop photovoltaic systems in China|10.1016/j.solener.2024.112557
+2024|c12  |Sustainable Energy, Grid|Probabilistic CDF-based load forecasting model in a power distribution system|10.1016/j.segan.2024.101311
+2024|c10  |Renewable Energy        |Synergistic solar electricity-water generation through an integration of semitranspare|10.1016/j.renene.2024.121837
+2024|c5   |WEVJ                    |Electric Vehicle Adoption: Implications for Employment in South Africa’s Automotive Co|10.3390/wevj15100471
+2023|c79  |Energy Economics        |Green finance and energy transition to achieve net-zero emission target|10.1016/j.eneco.2023.106936
+2023|c11  |Energies                |The Technical and Economic Assessment of a Solar Rooftop Grid-Connected Photovoltaic S|10.3390/en16207043
+2023|c8   |Solar Energy            |Design of Grid-Connected rooftop Photovoltaic system for leakage current reduction usi|10.1016/j.solener.2023.111832
+2023|c3   |Electric Power Component|Data-Driven Resilient Load Forecasting Model for Smart Metered Distribution System|10.1080/15325008.2023.2185832
+2022|c39  |IEEE Access             |Electric Vehicle User Data-Induced Cyber Attack on Electric Vehicle Charging Station|10.1109/access.2022.3177842
+2022|c32  |Electric Power Systems R|Probabilistic spatial load forecasting for assessing the impact of electric load growt|10.1016/j.epsr.2022.107847
+2022|c23  |Sustainability          |Affordable Electric Three-Wheeler in Bangladesh: Prospects, Challenges, and Sustainabl|10.3390/su15010149
+2022|c18  |The Electricity Journal |Renewable versus non-renewable: The role of electricity generation to economic growth|10.1016/j.tej.2022.107140
+2022|c15  |WEVJ                    |Characterisation of Norwegian Battery Electric Vehicle Owners by Level of Adoption|10.3390/wevj13080150
+2022|c3   |                        |Benefit Optimization and Energy - Economy Environmental Analysis of Solar Rooftop Phot|10.18421/tem114-48
+2022|c0   |SSRN Journal            |Electric Vehicle Charging Station Performance in Expanding Networks|10.2139/ssrn.4133091
+2021|c243 |Nat Commun              |High resolution global spatiotemporal assessment of rooftop solar photovoltaics potent|10.1038/s41467-021-25720-2
+2021|c44  |Sustainability          |Feasibility Assessment of Hybrid Solar Photovoltaic-Biogas Generator Based Charging St|10.3390/su14010166
+2021|c36  |Energy and Buildings    |Contribution of energy storage to the transition from net zero to zero energy building|10.1016/j.enbuild.2021.110751
+2021|c18  |Environ Sci Pollut Res  |Real-world emission and impact of three wheeler electric auto-rickshaw in India|10.1007/s11356-021-14805-6
+2021|c17  |Renewable Energy        |Techno-economic analysis of a foil-based solar collector driven electricity and fresh |10.1016/j.renene.2020.11.043
+2021|c11  |Materials Today: Proceed|Techno-economic assessment of various motors for three-wheeler E-auto rickshaw: From I|10.1016/j.matpr.2020.11.711
+2021|c5   |IET Renewable Power Gen |Experimental efficiency analysis of a solar panel electricity generation system using |10.1049/rpg2.12012
+
+===== CYB =====
+2026|c0   |Transportation Research |Intelligent Fault and Cyber Intrusion Detection Framework for Cyber Physical Systems: |10.1016/j.trpro.2026.04.038
+2026|c0   |Global Energy Interconne|Review on electric vehicles integration into smart grid cyber physical security system|10.1016/j.gloei.2026.01.011
+2025|c0   |Measurement: Sensors    |Mobile accuracy testing of electric vehicle supply equipment|10.1016/j.measen.2025.101824
+2024|c27  |IEEE Trans. Smart Grid  |Distributed Electric Vehicle Assignment and Charging Navigation in Cyber-Physical Syst|10.1109/tsg.2023.3293251
+2024|c23  |WEVJ                    |OCPP Interoperability: A Unified Future of Charging|10.3390/wevj15050191
+2024|c13  |IEEE Trans. Smart Grid  |A Bi-Level Differential Game-Based Load Frequency Control With Cyber-Physical Security|10.1109/tsg.2024.3396623
+2024|c9   |Energy Policy           |Electric vehicle and supply equipment adoption dynamics in the United States|10.1016/j.enpol.2024.114275
+2023|c42  |Int. J. Inf. Secur.     |OCPP in the spotlight: threats and countermeasures for electric vehicle charging infra|10.1007/s10207-023-00698-8
+2023|c22  |Transportation Research |Cyber Attack Detection and Classification for Integrated On-board Electric Vehicle Cha|10.1016/j.trpro.2023.10.007
+2023|c18  |Energies                |Deep Reinforcement Learning-Driven Mitigation of Adverse Effects of Cyber-Attacks on E|10.3390/en16217296
+2022|c51  |IEEE Trans. Smart Grid  |Cyber Insurance Against Cyberattacks on Electric Vehicle Charging Stations|10.1109/tsg.2021.3133536
+2022|c30  |Energies                |An OCPP-Based Approach for Electric Vehicle Charging Management|10.3390/en15186735
+2022|c26  |Computers &amp; Security|Statistical machine learning defensive mechanism against cyber intrusion in smart grid|10.1016/j.cose.2022.102941
+2022|c19  |IET Smart Grid          |Cross‐layered distributed data‐driven framework for enhanced smart grid cyber‐physical|10.1049/stg2.12070
+2022|c1   |SSRN Journal            |Electric Vehicle Supply Equipment for Level-2 Charging|10.2139/ssrn.4288891
+2021|c85  |IEEE Trans. Intell. Tran|Blockchain-Based Cyber-Physical Security for Electrical Vehicle Aided Smart Grid Ecosy|10.1109/tits.2021.3068092
+2021|c14  |Applied Sciences        |Design and Experimental Validation of Power Electric Vehicle Emulator for Testing Elec|10.3390/app112311496
+
+===== DEM =====
+2026|c0   |Environ. Sci. Technol.  |Mobility and Income: Policy Insights to Support Public Electric Vehicle Charging Acces|10.1021/acs.est.6c02101
+2025|c30  |Applied Energy          |Extreme heat effects on electric vehicle energy consumption and driving range|10.1016/j.apenergy.2024.125051
+2025|c27  |Energy                  |Impact of lightweighting and driving conditions on electric vehicle energy consumption|10.1016/j.energy.2025.135746
+2025|c15  |Energy and Buildings    |Analysing the impact of electric vehicle charging on households: An interrelated load |10.1016/j.enbuild.2025.115558
+2025|c10  |WEVJ                    |Equity Considerations in Public Electric Vehicle Charging: A Review|10.3390/wevj16100553
+2025|c8   |WEVJ                    |Prediction of Electric Vehicle Charging Load Considering User Travel Characteristics a|10.3390/wevj16090502
+2025|c4   |Algorithms              |Optimized Energy Consumption of Electric Vehicles with Driving Pattern Recognition for|10.3390/a18040204
+2025|c1   |IEEE Access             |Analysis, Design, and Hardware Implementation of Phase Shifted Isolated DC–DC Converte|10.1109/access.2025.3590029
+2024|c27  |Sustainability          |An Analytical Framework for Assessing Equity of Access to Public Electric Vehicle Char|10.3390/su16146196
+2024|c22  |Transportation Research |Electric vehicle charging infrastructure deployment: A discussion of equity and justic|10.1016/j.trip.2024.101072
+2024|c19  |Journal of Transport Geo|Analyzing the urban-rural divide: Understanding geographic variations in charging beha|10.1016/j.jtrangeo.2024.103859
+2024|c18  |WEVJ                    |Electric Vehicle Charging Load Forecasting Based on K-Means++-GRU-KSVR|10.3390/wevj15120582
+2024|c7   |Energy                  |Optimization of electromagnetic vibration for integrated electric drive systems based |10.1016/j.energy.2024.134018
+2024|c7   |Applied Energy          |Variable horizon multivariate driving pattern recognition framework based on vehicle-r|10.1016/j.apenergy.2024.123264
+2023|c65  |Applied Energy          |Stochastic user equilibrium based spatial-temporal distribution prediction of electric|10.1016/j.apenergy.2023.120943
+2023|c17  |WEVJ                    |Optimal Planning of Electric Vehicle Charging Stations Considering Traffic Load for Sm|10.3390/wevj14040104
+2023|c2   |Energy Reports          |Research and verification of energy consumption and E-range of heavy-duty plug-in hybr|10.1016/j.egyr.2022.10.424
+2023|c2   |International Journal of|Research on Energy Management Strategy of Range Extender Electric Vehicle considering |10.1155/2023/9903856
+2022|c197 |Energy                  |Effects of ambient temperature and trip characteristics on the energy consumption of a|10.1016/j.energy.2021.122028
+2022|c153 |Journal of Transport Geo|Transport infrastructure and urban-rural income disparity: A municipal-level analysis |10.1016/j.jtrangeo.2022.103292
+2022|c40  |Energy                  |Integrating intelligent driving pattern recognition with adaptive energy management st|10.1016/j.energy.2022.123478
+2022|c15  |Electric Power Component|Electric Vehicle Charging/Discharging Models for Estimation of Load Profile in Grid En|10.1080/15325008.2022.2146811
+2022|c5   |WEVJ                    |Effect of Different Types of Electric Drive Units on the Energy Consumption of Heavy C|10.3390/wevj13050092
+2021|c183 |Applied Energy          |Driving behaviour and trip condition effects on the energy consumption of an electric |10.1016/j.apenergy.2021.117096
+2021|c102 |WEVJ                    |Effect of Low Temperature on Electric Vehicle Range|10.3390/wevj12030115
+2021|c75  |Applied Soft Computing  |Velocity prediction using Markov Chain combined with driving pattern recognition and a|10.1016/j.asoc.2020.106998
+2021|c7   |Land                    |Measuring Equity through Spatial Variability of Infrastructure Systems across the Urba|10.3390/land10111202
+
+===== DT2 =====
+2026|c4   |Sustainable Energy res. |Optimizing electric vehicle fleets to develop smart charging infrastructure: a digital|10.1186/s40807-026-00240-z
+2026|c3   |Renewable Energy        |Model predictive control of a one-dimensional methane reforming solid oxide fuel cell |10.1016/j.renene.2025.123954
+2026|c1   |Digital Twin            |D2M (design-to-manufacturing) by integrating digital twins and large language models: |10.1080/27525783.2026.2645373
+2026|c1   |Energy                  |System design, operational optimization and model predictive control of power-to-gas s|10.1016/j.energy.2026.140154
+2026|c1   |                        |Digital twin for renewable energy landscape planning and design|10.1093/ijlct/ctaf147
+2026|c0   |Journal of Manufacturing|Adaptive-fidelity digital twin framework for complex smart manufacturing system|10.1016/j.jmsy.2026.07.016
+2026|c0   |Machines                |Front Running Simulation: A Digital Twin Framework for Real-Time Replication, Predicti|10.3390/machines14070763
+2026|c0   |Electronics             |FPGA-Based AI-Driven Hardware-in-the-Loop Platform for Low-Latency Real-Time ABS ECU T|10.3390/electronics15112443
+2026|c0   |Journal of Energy Infras|A multi-scale digital twin framework integrating real-time control and long-term progn|10.1016/j.jei.2026.100003
+2025|c22  |Renewable Energy        |Hydraulic erosion-heat transfer coupling model for coal and geothermal energy co-explo|10.1016/j.renene.2025.123109
+2025|c4   |Digital Twins and Applic|Digital shadow of an electric vehicle‐permanent magnet synchronous motor drive for rea|10.1049/dgt2.12024
+2025|c2   |Digital Twin            |Systematic selection framework for digital twin development environments in smart manu|10.1080/27525783.2025.2565246
+2025|c1   |Digital Engineering     |Real-time simulation and abnormal condition recognition of series compressor system ba|10.1016/j.dte.2025.100059
+2025|c1   |Digital Twin            |Path planning for multi-autonomous vehicles based on digital twin technology|10.1080/27525783.2025.2486867
+2025|c0   |Digital Twin            |Digital twin is revolutionising manufacturing industry|10.1080/27525783.2026.2620942
+2024|c10  |Front. Energy Res.      |Examining grid-forming inverters for power restoration using power-hardware in-the-loo|10.3389/fenrg.2024.1421969
+2024|c10  |Energy Nexus            |Feasibility of coupling hydrogen and methane production in WWTP: Simulation of sludge |10.1016/j.nexus.2024.100285
+2024|c8   |Energy                  |Iterative coupling of a fundamental electricity market model and an agent-based simula|10.1016/j.energy.2024.133192
+2024|c4   |IEEE Power and Energy Ma|De-Risking the First Multivendor HVdc Project using Real-Time Hardware-in-the-Loop Sim|10.1109/mpe.2024.3393945
+2024|c3   |Electronics             |Hardware-in-the-Loop Simulation of Flywheel Energy Storage Systems for Power Control i|10.3390/electronics13183610
+2023|c19  |Energy                  |Digital twin for natural gas infrastructure operation and management via streaming dyn|10.1016/j.energy.2023.127317
+2022|c89  |Journal of Simulation   |Real-time digital twin-based optimization with predictive simulation learning|10.1080/17477778.2022.2046520
+2022|c11  |IEEE Open J. Power Elect|Real-Time ML-Assisted Hardware-in-the-Loop Electro-Thermal Emulation of LVDC Microgrid|10.1109/ojpel.2022.3160416
+2022|c9   |Energies                |Real-Time FPGA/CPU-Based Simulation of a Full-Electric Vehicle Integrated with a High-|10.3390/en15051824
+2022|c4   |Energy Reports          |A real-time co-simulation of PV power generation system using transmission line model |10.1016/j.egyr.2021.11.079
+2022|c2   |Energies                |Realistic Load Modeling for Efficient Consumption Management Using Real-Time Simulatio|10.3390/en16010338
+2022|c2   |International Journal of|Numerical prediction of operating characteristics of micro-gas turbine combustor with |10.1016/j.ijhydene.2021.10.128
+2021|c81  |IEEE Trans. Power Electr|Accurate and Stable Hardware-in-the-Loop (HIL) Real-Time Simulation of Integrated Powe|10.1109/tpel.2020.3040071
+2021|c20  |Digital Twin            |Digital twin-driven complexity management in intelligent manufacturing|10.12688/digitaltwin.17489.1
+2021|c18  |Energies                |Power Hardware-in-the-Loop: Response of Power Components in Real-Time Grid Simulation |10.3390/en14030593
+2021|c11  |Resources               |A Method for Optimizing and Spatially Distributing Heating Systems by Coupling an Urba|10.3390/resources10050052
+
+===== LDC =====
+2026|c5   |Transportation Research |Electrifying paratransit in sub-Saharan Africa: Perspectives from practitioners|10.1016/j.trd.2025.105113
+2026|c1   |Renewable Energy        |Harnessing solar mini-grid surplus with green finance and vertical economic integratio|10.1016/j.renene.2026.125205
+2026|c0   |WEVJ                    |Public Policy and Legal Governance of Electric and Hybrid Vehicle Commercialization in|10.3390/wevj17070360
+2026|c0   |Applied Energy          |Temporal aggregation and reliability of electricity emission factors under grid decarb|10.1016/j.apenergy.2026.128341
+2026|c0   |IEEE Trans. Smart Grid  |Grid-Aware Smart Homes Energy Management in Unbalanced Low Voltage Distribution Networ|10.1109/tsg.2026.3710088
+2025|c21  |Applied Energy          |Distributed voltage control for multi-feeder distribution networks considering transmi|10.1016/j.apenergy.2024.124984
+2025|c9   |WEVJ                    |Modeling the Used Vehicle Market Share in the Electric Vehicle Transition|10.3390/wevj16010029
+2025|c9   |Transport Policy        |Electrifying: What factors drive the transition toward electric vehicle adoption in th|10.1016/j.tranpol.2024.08.002
+2025|c7   |WEVJ                    |The Second-Hand Market in the Electric Vehicle Transition|10.3390/wevj16070397
+2025|c5   |Energy                  |Mathematical programming models for multistage rural electrification planning: Off-gri|10.1016/j.energy.2024.134335
+2025|c2   |African Transport Studie|Relationships between paratransit passenger satisfaction and driver labour conditions |10.1016/j.aftran.2025.100030
+2025|c1   |Applied Energy          |Photovoltaic fluctuation-adapted dynamic network pruning for low-voltage distribution |10.1016/j.apenergy.2025.126394
+2025|c0   |SSRN Journal            |Exploring the effect of ODA on poverty: insights from least developed countries|10.2139/ssrn.5043281
+2025|c0   |The Manchester School   |Effect of the Duty‐Free and Quota‐Free Market Access Schemes for Least Developed Count|10.1111/manc.12512
+2025|c0   |SSRN Journal            |Congress's Fifty Year Mission to Transition Motor Vehicles: A Brief History of Federal|10.2139/ssrn.5256344
+2025|c0   |SSRN Journal            |Recurrent Grid Collapses in Nigeria - Advancing National Energy Sustainability and Rel|10.2139/ssrn.5840704
+2024|c45  |Transport Policy        |Electric vehicle adoption intention among paratransit owners and drivers in South Afri|10.1016/j.tranpol.2023.11.015
+2024|c30  |Energy Policy           |The transition to electrified vehicles: Evaluating the labor demand of manufacturing c|10.1016/j.enpol.2024.114064
+2024|c28  |Energy Policy           |Understanding the load profiles and electricity consumption patterns of PV mini-grid c|10.1016/j.enpol.2023.113969
+2024|c21  |Electricity             |Techno-Economic Assessment of Solar–Grid–Battery Hybrid Energy Systems for Grid-Connec|10.3390/electricity5010004
+2024|c12  |Resources Policy        |The resource curse in least developed countries: The roles of foreign direct investmen|10.1016/j.resourpol.2023.104564
+2024|c8   |Energies                |Impact of Impedances and Solar Inverter Grid Controls in Electric Distribution Line wi|10.3390/en17215503
+2023|c40  |Utilities Policy        |Gauging energy poverty in developing countries with a composite metric of electricity |10.1016/j.jup.2022.101486
+2023|c39  |Development Engineering |Performance and reliability analysis of an off-grid PV mini-grid system in rural tropi|10.1016/j.deveng.2022.100106
+2023|c31  |Transportation Research |An indispensable role in promoting the electric vehicle Industry: An empirical test to|10.1016/j.tra.2023.103824
+2023|c19  |World Development Perspe|Short-run effects of grid electricity access on rural non-farm entrepreneurship and em|10.1016/j.wdp.2022.100473
+2023|c18  |Journal of Transport Geo|Inefficient allocation of paratransit service terminals and routes in Ghana: The role |10.1016/j.jtrangeo.2023.103643
+2023|c14  |Sustainability          |Integration of Advanced Metering Infrastructure for Mini-Grid Solar PV Systems in Off-|10.3390/su15097526
+2023|c14  |Research in Transportati|Pathways to integrating paratransit and formal public transport: Case studies from Tsh|10.1016/j.retrec.2023.101356
+2023|c4   |Energies                |Comparative Analysis and Optimal Operation of an On-Grid and Off-Grid Solar Photovolta|10.3390/en16248086
+2023|c0   |J. Phys.: Conf. Ser.    |Research on Voltage Fluctuation and Network Loss Change of Distribution Network Consid|10.1088/1742-6596/2427/1/012007
+2022|c7   |IET Smart Grid          |Prosumer‐centric energy storage system and high voltage distribution network topology |10.1049/stg2.12061
+2022|c2   |SSRN Journal            |Using High Resolution Gps Data to Plan the Electrification of Paratransit: A Case Stud|10.2139/ssrn.4149228
+2022|c0   |SSRN Journal            |Performance and Reliability Analysis of an Off-Grid Pv Mini-Grid System in Rural Tropi|10.2139/ssrn.4166494
+2021|c26  |Scientific African      |Potential of meeting electricity needs of off-grid community with mini-grid solar syst|10.1016/j.sciaf.2020.e00675
+
+===== PE2 =====
+2026|c3   |Electric Power Systems R|Effective vehicle battery charging station based on dual active full bridge converter |10.1016/j.epsr.2025.112147
+2026|c2   |IEEE Access             |An Acceleration Approach for Real-Time Losses Calculation Model of Si IGBT and SiC MOS|10.1109/access.2026.3671183
+2026|c2   |Energies                |GaN HEMTs for Electric Vehicle Power Electronics: Device Architectures, Reliability an|10.3390/en19071752
+2026|c2   |IEEE Trans. Device Mater|Degradation Behaviors Comparation and Analysis of Two Typical Trench SiC MOSFETs Under|10.1109/tdmr.2025.3649972
+2026|c2   |IEEE Trans. on Ind. Appl|Electric Vehicle Charging System Utilizing a Transformerless Common Mode Voltage Suppr|10.1109/tia.2025.3590674
+2026|c1   |Energy Reports          |Adaptive gain sliding mode control for a totem-pole PFC with EV charger application, m|10.1016/j.egyr.2026.109093
+2026|c1   |Sci Rep                 |Evaluation of electric vehicle performance using driving cycle clustering based on mot|10.1038/s41598-026-36663-3
+2026|c1   |IEEE Trans. Transp. Elec|Enhanced Three-Phase Inverter Topology and PWM Strategy for Electric Vehicle Powertrai|10.1109/tte.2026.3666219
+2026|c1   |Materials Science in Sem|Study on material removal by ultrasonic vibration-assisted polishing of silicon carbid|10.1016/j.mssp.2025.110318
+2026|c0   |IEEE Access             |Torque Allocation Algorithm and Modular SiC MOSFET Dual-Inverter Hardware Design for D|10.1109/access.2026.3704848
+2026|c0   |Electric Power Systems R|A novel cascade multi-port grid-to-vehicle charging system with 400V/800V voltage comp|10.1016/j.epsr.2026.112717
+2026|c0   |Energy                  |Vehicle-integrated photovoltaics in battery electric vehicles: DC–DC converter design |10.1016/j.energy.2026.141978
+2026|c0   |Sci Rep                 |A hybrid optimization and graph network for sustainable electric vehicle charging usin|10.1038/s41598-026-36280-0
+2026|c0   |IEEE Trans. Ind. Electro|Robust Dual Loop Nonlinear Controller for Four-Phase Interleaved Boost Converter in Fu|10.1109/tie.2025.3647923
+2026|c0   |IEEE Trans. on Ind. Appl|Capacitor Isolated Vehicle-to-Vehicle Energy Sharing Converter Based on Electric Vehic|10.1109/tia.2026.3708823
+2026|c0   |Machines                |Manufacturing and Experimental Validation of an Outer-Rotor Permanent Magnet-Assisted |10.3390/machines14070729
+2026|c0   |Microelectronics Reliabi|Degradation mechanisms of gate oxide reliability in SiC Power MOSFETs under different |10.1016/j.microrel.2026.116035
+2026|c0   |Microelectronics Reliabi|Design of gate drive voltage for SiC MOSFETs considering gate oxide TDDB lifetime and |10.1016/j.microrel.2026.116079
+2026|c0   |Quality &amp;amp; Reliab|A Sensitivity Analysis Workflow for Power Series Compounded Lifetime Models: Evidence |10.1002/qre.70262
+2026|c0   |Microelectronics Reliabi|Influence of cooling conditions on the estimated power cycling lifetime of a large-are|10.1016/j.microrel.2026.116055
+2026|c0   |IEEE Access             |Fidelity of Control RT-HIL Tools: From Design to Commissioning of a Medium-Voltage Mod|10.1109/access.2026.3684566
+2026|c0   |Materials Science in Sem|A comparative investigation into the grinding performance and surface quality of silic|10.1016/j.mssp.2026.110914
+2025|c17  |Journal of Power Sources|Hybrid energy storage unit fed motoring and regenerative braking control of electric v|10.1016/j.jpowsour.2024.235761
+2025|c16  |Sensors                 |Performance Optimization of a High-Speed Permanent Magnet Synchronous Motor Drive Syst|10.3390/s25103156
+2025|c7   |Energies                |Design and Analysis of an IE6 Hyper-Efficiency Permanent Magnet Synchronous Motor for |10.3390/en18174684
+2025|c6   |IEEE Trans. Device Mater|Microstructural Evolution of Gate Oxide in SiC Power MOSFETs Under Heavy-Ion Irradiati|10.1109/tdmr.2025.3544208
+2025|c5   |Microelectronics Reliabi|Advanced power cycling test strategies on discrete SiC MOSFETs in different operating |10.1016/j.microrel.2025.115786
+2025|c4   |Energies                |SiC MOSFET Switching Dynamics and Power Conversion Loss Characterization Under Paramet|10.3390/en18236264
+2025|c3   |IEEE Electron Device Let|Investigation on Gate Oxide Degradation of SiC MOSFETs Induced by Dynamic Gate Stress |10.1109/led.2025.3593039
+2025|c3   |WEVJ                    |The Multiphysics Analysis and Suppression Method for the Electromagnetic Noise of Perm|10.3390/wevj16030136
+2025|c2   |Sustainability          |Optimal Electric Bus Charging Scheduling with Multiple Vehicle and Charger Types Consi|10.3390/su17083294
+2025|c2   |JMMP                    |Laser Processing Methods in Precision Silicon Carbide Wafer Exfoliation: A Review|10.3390/jmmp10010002
+2025|c1   |IEEE Power Electron. Mag|High-Voltage Bus Converter Power Modules for Electric Vehicle 48 V Power Delivery Netw|10.1109/mpel.2025.3555168
+2025|c1   |IEICE Electron. Express |A SiC MOSFET low switching loss strategy based on a reverse conduction|10.1587/elex.22.20250050
+2025|c1   |Circuit Theory &amp;amp;|Efficiency Improvement of Interior Permanent Magnet Synchronous Motor‐Based Electric V|10.1002/cta.4544
+2025|c0   |ATZ Electron Worldw     |SiC MOSFET-based Traction Inverter  for Electric Vehicles|10.1007/s38314-025-2064-4
+2025|c0   |WEVJ                    |Study on Multiple-Inverter-Drive Method for IPMSM to Improve the Motor Efficiency|10.3390/wevj16070398
+2025|c0   |Applied Sciences        |Optimal Efficiency and Automatic Current Commands Map Generator for an Interior Perman|10.3390/app15179838
+2025|c0   |IEEE Trans. Electromagn.|Conducted Emission Study of a Grid-Connected Single-Phase Bidirectional AC–DC Converte|10.1109/temc.2025.3596686
+2025|c0   |Microelectronics Reliabi|Fatigue lifetime prediction of power modules under power cycling using a volume-weight|10.1016/j.microrel.2025.115866
+2024|c40  |Composites Part B: Engin|Silicon carbide fiber manufacturing: Cost and technology|10.1016/j.compositesb.2023.111101
+2024|c21  |Applied Thermal Engineer|Multi-objective topology optimization design of silicon carbide metal oxide semiconduc|10.1016/j.applthermaleng.2024.123861
+2024|c21  |WEVJ                    |A Photovoltaic-Powered Modified Multiport Converter for an EV Charger with Bidirection|10.3390/wevj15010031
+2024|c21  |Materials Science in Sem|Modulation of ultrafast laser-induced modified structure inside silicon carbide for th|10.1016/j.mssp.2024.108730
+2024|c20  |IEEE Access             |A Bidirectional Interleaved Totem Pole PFC-Based Integrated On-Board Charger for EV SR|10.1109/access.2024.3432791
+2024|c18  |IEEE Trans. Power Electr|Opportunities and Challenges of Pressure Contact Packaging for Wide Bandgap Power Modu|10.1109/tpel.2023.3332050
+2024|c17  |Energies                |Dual Active Bridge Converter with Interleaved and Parallel Operation for Electric Vehi|10.3390/en17174258
+2024|c16  |IEEE Open J. Power Elect|Fast and Accurate Data Sheet Based Analytical Switching Loss Model for a SiC MOSFET an|10.1109/ojpel.2024.3485891
+2024|c7   |IEEE Trans. Device Mater|Evaluations of Gate Oxide Reliability in SiC MOSFETs Under Extremely High Gate Voltage|10.1109/tdmr.2024.3478220
+2024|c7   |Energies                |Common-Mode Voltage Reduction of Modular Multilevel Converter Using Adaptive High-Freq|10.3390/en17061367
+2024|c6   |IEEE Trans. Power Electr|Dynamic Analytical Switching Loss Model of SiC MOSFET Considering Threshold Voltage In|10.1109/tpel.2024.3406517
+2024|c5   |JOM                     |Power Cycling Reliability with Temperature Deviation of Pressureless Silver Sintered J|10.1007/s11837-024-06398-5
+2024|c5   |J. Phys.: Conf. Ser.    |Optimized control strategy of totem-pole PFC converter based on two-stage charger|10.1088/1742-6596/2683/1/012028
+2024|c4   |Energies                |Single- and Three-Phase Dual-Active-Bridge DC–DC Converter Comparison for Battery Elec|10.3390/en17215509
+2024|c4   |Energies                |Model-Based Thermal Stress and Lifetime Estimation of DFIG Wind Power Converter|10.3390/en17143451
+2024|c3   |Energies                |Research on Junction Temperature Smooth Control of SiC MOSFET Based on Body Diode Cond|10.3390/en17236175
+2024|c3   |WEVJ                    |Analysis of Efficiency and Noise, Vibration, and Hardness Characteristics of Inverter |10.3390/wevj15120546
+2024|c3   |Manufacturing Letters   |Analysis of contact length and temperature effect in rocking mode diamond wire sawing |10.1016/j.mfglet.2024.09.082
+2024|c2   |WEVJ                    |Investigation of Low-Frequency Data Significance in Electric Vehicle Drivetrain Durabi|10.3390/wevj15030088
+2024|c2   |Electric Power Component|Optimal Control of on-Board Bidirectional PEV Charger in V2G Demonstration: A Novel Sq|10.1080/15325008.2024.2329329
+2024|c1   |WEVJ                    |An Investigation of Representative Customer Load Collectives in the Development of Ele|10.3390/wevj15030112
+2024|c1   |Electronics             |Bidirectional Power Control Strategy for On-Board Charger Based on Single-Stage Three-|10.3390/electronics13061041
+2024|c0   |IEEE Trans. Power Electr|Guest Editorial Special Section on Ultrawide/Wide Bandgap Device, Packaging, Control, |10.1109/tpel.2024.3440347
+2024|c0   |IEEE Trans. Power Electr|Guest Editorial Special Section on Ultrawide/Wide Bandgap Device, Packaging, Control, |10.1109/tpel.2024.3468488
+2024|c0   |IEEE Trans. Power Electr|Guest Editorial Special Section on Ultrawide/Wide Bandgap Device, Packaging, Control, |10.1109/tpel.2024.3451848
+2023|c66  |IEEE Trans. Power Electr|Review of Topside Interconnections for Wide Bandgap Power Semiconductor Packaging|10.1109/tpel.2022.3200469
+2023|c64  |IEEE J. Emerg. Sel. Topi|A Futuristic Silicon-Carbide (SiC)-Based Electric-Vehicle Fast Charging/Discharging (F|10.1109/jestpe.2022.3223417
+2023|c42  |Energy Reports          |A technical review of modern traction inverter systems used in electric vehicle applic|10.1016/j.egyr.2023.10.056
+2023|c41  |Microelectronics Reliabi|State-of-the-art of the bond wire failure mechanism and power cycling lifetime in powe|10.1016/j.microrel.2023.115060
+2023|c21  |WEVJ                    |Electric Vehicle Drivetrain Efficiency and the Multi-Speed Transmission Question|10.3390/wevj14120342
+2023|c5   |Electric Power Component|Single Phase High Frequency AC Link DC/AC Converter for Photovoltaic Systems|10.1080/15325008.2022.2160522
+2023|c5   |Microelectronics Reliabi|Degradation monitoring of SiC MOSFET gate-oxide based on differential mode conducted i|10.1016/j.microrel.2022.114866
+2023|c5   |Sensors                 |Design Compact Absorptive Common-Mode Noise Suppression Filter with Series Unified Cir|10.3390/s23020957
+2023|c4   |Electric Power Systems R|Experimental investigation of parasitic side effects in MOSFET-based multilevel invert|10.1016/j.epsr.2023.109197
+2023|c3   |Energy Storage          |A novel control strategy for dual active bridge bidirectional converter for electric v|10.1002/est2.463
+2023|c2   |Microelectronics Reliabi|Thermal management in high-frequency, high-power density, solar PV integrated GaN conv|10.1016/j.microrel.2023.115072
+2023|c1   |IET Electric Power Appl |Hybrid low switching frequency modulation strategy with high dynamic response for high|10.1049/elp2.12312
+2023|c1   |IET Conf. Proc.         |Simplified loss calculation model for medium voltage modular multilevel converter|10.1049/icp.2023.0157
+2022|c180 |IEEE Trans. Ind. Electro|A Wide-Range High-Voltage-Gain Bidirectional DC–DC Converter for V2G and G2V Hybrid EV|10.1109/tie.2021.3084181
+2022|c36  |IEEE Trans. Veh. Technol|Design Methodology Based on Dual Control of a Resonant Dual Active Bridge Converter fo|10.1109/tvt.2022.3142681
+2022|c23  |IEEE Power Electron. Mag|Wide Bandgap-Based Power Electronics for Aerospace Applications|10.1109/mpel.2022.3197346
+2022|c21  |IEEE Access             |Novel Variable Switching Frequency PWM Strategy for a SiC-MOSFET-Based Electric Vehicl|10.1109/access.2022.3152779
+2022|c18  |WEVJ                    |State-Feedback Control of Interleaved Buck–Boost DC–DC Power Converter with Continuous|10.3390/wevj13070124
+2022|c13  |WEVJ                    |Comparison of Interleaved Boost Converter and Two-Phase Boost Converter Characteristic|10.3390/wevj14010007
+2022|c11  |IEEE J. Electron Devices|Low Switching Loss Split-Gate 4H-SiC MOSFET With Integrated Heterojunction Diode|10.1109/jeds.2022.3192420
+2022|c4   |WEVJ                    |Analysis, Design, and Experimental Results for a High-Frequency ZVZCS Galvanically Iso|10.3390/wevj13110206
+2022|c2   |Micromachines           |SiC Heterojunction Trench MOSFET with a Buried P-Type Pillar for the Low Gate-Drain Ch|10.3390/mi13020248
+2022|c2   |WEVJ                    |High-Frequency Common-Mode Voltage Reduced Space Vector Modulation for Grid-Connected |10.3390/wevj13120236
+2022|c2   |WEVJ                    |Analysis of the THD and Common-Mode Voltage of the Three-Phase Boost-Buck EV Traction |10.3390/wevj13070114
+2022|c1   |Front. Energy Res.      |Reducing Submodule Capacitance for Modular Multilevel Converter-Based Medium-Voltage W|10.3389/fenrg.2022.883004
+2021|c39  |Electronics             |Challenges of Overcoming Defects in Wide Bandgap Semiconductor Power Electronics|10.3390/electronics11010010
+2021|c22  |IEEE Open J. Veh. Techno|Novel Electric Vehicle Traction Architecture With 48 V Battery and Multi-Input, High C|10.1109/ojvt.2021.3132281
+2021|c19  |Energies                |Novel Five-Level ANPC Bidirectional Converter for Power Quality Enhancement during G2V|10.3390/en14092650
+2021|c18  |Microelectronics Reliabi|Accelerated aging for gate oxide of SiC MOSFETs under continuous switching conditions |10.1016/j.microrel.2021.114213
+2021|c17  |IEEE Access             |Novel Converter Topology With Reduced Cost, Size and Weight for High-Power Medium-Volt|10.1109/access.2021.3069118
+2021|c15  |IEEE Trans. Power Electr|LTCC Based Current Sensor for Silicon Carbide Power Module Integration|10.1109/tpel.2021.3104284
+2021|c12  |Circuit Theory &amp; App|A battery integrated three‐port bidirectional charger/discharger for light electric ve|10.1002/cta.3044
+2021|c12  |Microelectronics Reliabi|Impact of thermal interface material on power cycling lifetime of IGBT module|10.1016/j.microrel.2021.114272
+2021|c7   |Electric Power Systems R|Selecting frequency and parameters of DC-fault tolerant non-isolated high power MMC DC|10.1016/j.epsr.2020.106896
+2021|c7   |Energies                |Performance Analysis of Modular Multilevel Converter and Modular Multilevel Series Con|10.3390/en14030776
+2021|c0   |WEVJ                    |Optimization of TSPWM for Common-Mode Voltage Reduction in Vehicular Electric Drive Sy|10.3390/wevj13010005
+
+===== STD =====
+2026|c0   |IEEE Trans. Smart Grid  |Power Oscillation Mitigation of Inverter-Interfaced Distributed Energy Resources in Mi|10.1109/tsg.2026.3692531
+2026|c0   |IEEE Open J. Power Elect|Optimal Design of Single-Phase Cascaded H-Bridge Converter Based on Asymmetric Selecti|10.1109/ojpel.2026.3668603
+2025|c12  |IEEE Access             |Long Trip Charging Planning of Battery Electric Vehicle Considering Vehicle Waiting Ti|10.1109/access.2025.3552730
+2025|c4   |IEEE Access             |Toward Fully-Automated Hardware-in-the-Loop Grid Code Compliance Certification of Inve|10.1109/access.2025.3564692
+2025|c3   |IEEE Electrific. Mag.   |Bridging the Charging Gap: Why rural electric vehicle charging infrastructure matters.|10.1109/mele.2025.3597262
+2025|c2   |IEEE Trans. Power Delive|Third Harmonic Current Phase Angle Behaviour During Branch Touching Wire Earth Faults|10.1109/tpwrd.2024.3506940
+2025|c0   |IEEE Access             |Active to Reactive Power Attack in Interconnected Electric Power Systems and Electric |10.1109/access.2025.3546201
+2025|c0   |jkiit                   |Study on Additional Feature and Limitations for the Next-Generation Electric Vehicle C|10.14801/jkiit.2025.23.5.129
+2024|c35  |IEEE Trans. Smart Grid  |Optimal Design of Volt/VAR Control Rules for Inverter-Interfaced Distributed Energy Re|10.1109/tsg.2023.3279982
+2024|c13  |IEEE Open J. Power Energ|Systematic Decoupling Grid-Forming Control for Utility-Scale Inverter-Based Distribute|10.1109/oajpe.2024.3360854
+2024|c8   |IEEE Access             |Metamaterial Slabs for Electric Vehicle Wireless Charging Application|10.1109/access.2024.3485180
+2024|c7   |Electric Power Systems R|Evaluations on the harmonic allocation methods of IEC 61000-3-6 and IEEE Standard 519 |10.1016/j.epsr.2024.110260
+2024|c6   |IEEE Access             |Competition and Pricing Strategy of Electric Vehicle Charging Services Considering Mob|10.1109/access.2024.3418996
+2024|c3   |IEEE Trans. Power Delive|Spectral Continuity and Subspace Change Detection for Recovery of Missing Harmonic Fea|10.1109/tpwrd.2023.3328470
+2023|c18  |IEEE Access             |Modeling of Electric Vehicle Charging Demand and Coincidence of Large-Scale Charging L|10.1109/access.2023.3322278
+2023|c5   |IEEE Trans. Power Delive|Reliable Framework for the Optimal Allocation of Harmonic Emission Limits|10.1109/tpwrd.2022.3220646
+2023|c2   |IET Conf. Proc.         |IEC 61851 compliant demand side management algorithm for electric vehicle charging: a |10.1049/icp.2022.3317
+2022|c30  |IEEE Trans. Smart Grid  |Integration of Distributed Energy Resources to Unbalanced Grids Under Voltage Sags Wit|10.1109/tsg.2021.3107984
+2022|c7   |IEEE Ind. Appl. Mag.    |Industrial and Commercial Power System Harmonic Studies: Introduction to IEEE Standard|10.1109/mias.2021.3114644
+2022|c4   |Processes               |Research on Evaluation Method of Electric Vehicle Wireless Charging Interoperability B|10.3390/pr10081591
+2021|c64  |Energies                |Microgrid and Distributed Energy Resources Standards and Guidelines Review: Grid Conne|10.3390/en14030523
+2021|c26  |WEVJ                    |Standardisation of UK Electric Vehicle Charging Protocol, Payment and Charge Point Con|10.3390/wevj12020063
+2021|c22  |IEEE Latin Am. Trans.   |Harmonic distortion characterization in groups of distribution networks applying the I|10.1109/tla.2021.9448534
+2021|c6   |Energies                |A Real-Time Energy Management System Design for a Developed PV-Based Distributed Gener|10.3390/en14206684
+2021|c4   |WEVJ                    |Electrical Interoperability Evaluating of Wireless Electric Vehicle Charging Systems B|10.3390/wevj12040245
+
+===== V2G =====
+2026|c1   |Sci Rep                 |An optimization framework for battery health management in vehicle-to-grid systems int|10.1038/s41598-026-38862-4
+2026|c0   |IET Conf. Proc.         |Towards interoperable bidirectional charging: the EEBUS approach in the InterBDL proje|10.1049/icp.2025.4160
+2026|c0   |IET Conf. Proc.         |Field-level system test regarding interoperability for bidirectional charging using a |10.1049/icp.2025.4156
+2025|c166 |Applied Energy          |Vehicle-to-grid impact on battery degradation and estimation of V2G economic compensat|10.1016/j.apenergy.2024.124546
+2025|c8   |Energy Inform           |Fuzzy logic-based automatic voltage regulator integrated adaptive vehicle-to-grid cont|10.1186/s42162-025-00515-7
+2024|c53  |Applied Energy          |Optimizing electric vehicle fleet integration in industrial demand response: Maximizin|10.1016/j.apenergy.2024.123995
+2024|c13  |WEVJ                    |Unlocking Grid Flexibility: Leveraging Mobility Patterns for Electric Vehicle Integrat|10.3390/wevj15090413
+2024|c8   |Journal of Energy Storag|Battery degradation model of electric vehicle with grid integration|10.1016/j.est.2024.112709
+2024|c0   |MTZ Worldw              |Developments in Automated and Bidirectional Charging|10.1007/s38313-024-2013-2
+2024|c0   |ATZ Worldw              |Developments in Automated and Bidirectional Charging|10.1007/s38311-024-2028-y
+2023|c26  |Energy Inform           |Assessing the incorporation of battery degradation in vehicle-to-grid optimization mod|10.1186/s42162-023-00288-x
+2023|c7   |Sustainability          |Congestion Relief Services by Vehicle-to-Grid Enabled Electric Vehicles Considering Ba|10.3390/su152416733
+2023|c0   |IFAC-PapersOnLine       |Vehicle-to-Grid and ancillary services: a profitability analysis under uncertainty*|10.1016/j.ifacol.2023.10.571
+2023|c0   |ATZ Worldw              |Bidirectional Charging in Residential Neighborhoods|10.1007/s38311-023-1531-x
+2022|c262 |Sustainability          |Electric Vehicle-to-Grid (V2G) Technologies: Impact on the Power Grid and Battery|10.3390/su142113856
+2022|c46  |Energies                |A Review of EV Battery Utilization in Demand Response Considering Battery Degradation |10.3390/en15093227
+2022|c18  |Energies                |Utilization of Electric Vehicle Grid Integration System for Power Grid Ancillary Servi|10.3390/en15228623
+2022|c1   |IET Conf. Proc.         |Analysis of the intraday use case in the field trial of the bidirectional charging man|10.1049/icp.2022.2714
+2022|c0   |ATZ Worldw              |Rethinking of Bidirectional Charging|10.1007/s38311-022-1413-7
+2021|c10  |Energies                |Marginal Value of Vehicle-to-Grid Ancillary Service in a Power System with Variable Re|10.3390/en14227577
+2021|c8   |Energies                |Optimal Bi-Level Scheduling Method of Vehicle-to-Grid and Ancillary Services of Aggreg|10.3390/en14217015
+2021|c0   |SSRN Journal            |Estimating the grid payments necessary to compensate additional costs to prospective e|10.2139/ssrn.3843085
+
+===== WF =====
+2026|c3   |Solar Energy            |Technology readiness level assessment of solar PV cleaning technologies|10.1016/j.solener.2026.114360
+2026|c1   |WEVJ                    |Driving Change: A Comprehensive Analysis of Electric Vehicle Workforce Development in |10.3390/wevj17060298
+2026|c0   |Industry and Higher Educ|University-industry collaboration gaps in the ICT patent landscape in the Netherlands|10.1177/09504222261423360
+2026|c0   |Industry and Higher Educ|University-industry collaboration involving micro and small enterprises – critical fac|10.1177/09504222261430212
+2026|c0   |Discov Educ             |A comparative study of university-industry educational collaboration in engineering an|10.1007/s44217-026-01559-x
+2026|c0   |Industry and Higher Educ|Reforming higher education: Exploring the effect of enrollment expansion on university|10.1177/09504222261430140
+2026|c0   |Renewable and Sustainabl|Ready or not: From technology-level readiness to system-level readiness|10.1016/j.rser.2026.117305
+2025|c6   |Energy Reports          |Technology Readiness Level assessment of hydrokinetic energy converters|10.1016/j.egyr.2025.06.055
+2025|c6   |Transportation Research |Technology readiness level assessment on digital technologies for energy efficiency|10.1016/j.trpro.2025.03.103
+2025|c2   |Industry and Higher Educ|A study of the PLS-SEM model on the benefits of university in university-industry coll|10.1177/09504222251325071
+2025|c0   |SSRN Journal            |Future-Ready Workforce Strategies and Matching Skills Model: The Energy Transition Cas|10.2139/ssrn.5525978
+2025|c0   |Industry and Higher Educ|University-industry collaboration: Challenges, opportunities, and pathways to strength|10.1177/09504222251397490
+2024|c78  |Renewable and Sustainabl|Technology readiness level assessment of carbon capture and storage technologies|10.1016/j.rser.2024.114578
+2024|c9   |WEVJ                    |Electric Vehicle Battery Remanufacturing: Circular Economy Leadership and Workforce De|10.3390/wevj15100441
+2024|c6   |IEEE Open J. Syst. Eng. |Enhancing Technology Readiness Assessment: The Engineering Severity Level Methodology |10.1109/ojse.2024.3354777
+2023|c19  |Energy Storage          |Technology readiness level of hydrogen storage technologies for transport|10.1002/est2.546
+2021|c69  |ACS Energy Lett.        |Technology Readiness Level of Solar Thermochemical Splitting Cycles|10.1021/acsenergylett.1c00181
+2021|c28  |Industry and Higher Educ|University–industry collaboration in curriculum design and delivery: A model and its a|10.1177/09504222211064204
+2021|c22  |WEVJ                    |Agent-Based Modeling Framework for Electric Vehicle Adoption Transition in Indonesia|10.3390/wevj12020073

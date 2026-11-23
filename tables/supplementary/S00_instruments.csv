@@ -1,0 +1,21 @@
+Domain,Instrument,Lever,Parameter changed,Acts through
+Fiscal,Purchase subsidy,purchase_incentive,EV price,TCO parity in (5); a transfer in the social account
+Fiscal,Import-duty relief,duty_relief,Vehicle and converter duty; supply ceiling,TCO parity and ceiling in (5); a transfer in the social account
+Fiscal,Time-of-use tariff,tou_tariff,Hourly price; home-charging access,Charging profile and emissions in (8)
+Infrastructure,Public charging program,charger_rollout,Connectors per 1000 EVs,Charging adequacy in (5); queues in (6)
+Infrastructure,DC fast-charging share,dc_share,DC share of connectors and energy,DC charging-path efficiency in (4)
+Infrastructure,Ultra-fast charging,ultrafast_share,350 kW share of DC connectors,Charging portfolio and queues in (6)
+Infrastructure,Bus electrification,bus_electrification,Electric share of bus fleet,Electric stock by segment
+Power electronics,WBG type-approval requirement,wbg_mandate,Minimum SiC/GaN share,Device mix in (1)-(3); converter cost
+Power electronics,Converter efficiency standard,efficiency_standard,Residual converter loss (up to -16 %),Efficiencies in (4)
+Power electronics,800 V platform support,hv_architecture,DC link 400-800 V; GaN share,Device selection and three-level legs in (1)-(3)
+Power electronics,Grid code for chargers,grid_code,Charger harmonic current,Voltage distortion at the feeder head
+Grid,Distribution reinforcement,grid_investment,Transformer rating; feeder impedance,Power flow (7)
+Grid,Solar procured for charging,renewable_target,Charging-aligned PV capacity,Hourly emission factor in (8)
+Grid,Smart-charging requirement,smart_charging,Controllable charging share,Charging profile; queue peak in (6)
+Grid,Vehicle-to-grid access,v2g_enablement,V2G participation,Feeder net load in (7); battery-wear cost
+Institutional,Domestic manufacturing,local_manufacturing,Duty pass-through; supply ceiling,TCO parity and ceiling in (5); a transfer in the social account
+Institutional,Technician certification,workforce,Repair time,Charging availability
+Institutional,Battery recycling mandate,recycling,Recycled content,Reported only; not in the social account
+Digital,Monitoring and telemetry,digital_twin,Flexibility; repair time,Charging profile; availability
+Digital,Charging cybersecurity,cybersecurity,Cyber-induced charger failures,Charging availability

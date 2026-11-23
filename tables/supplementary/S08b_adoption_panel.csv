@@ -1,0 +1,25 @@
+country,year,ev_sales_share,incentive_fraction,set,source
+India,2018,0.00087,0.0,fit,MHI (Vahan-4 registrations; high-speed e-2W; excl. Telangana)
+India,2019,0.00163,0.17,fit,MHI; FAME-II from Apr (0.144 time-weighted) + GST cut from Aug (0.026)
+India,2020,0.00204,0.2525,fit,MHI; FAME-II 0.190 + GST 0.0625
+India,2021,0.01122,0.3595,fit,MHI; FAME-II 0.297 (0.38 from 11 Jun) + GST 0.0625
+India,2022,0.04048,0.4435,fit,MHI; FAME-II 0.381 + GST 0.0625
+India,2023,0.0503,0.3035,fit,FADA (two releases); FAME-II cut 1 Jun (0.241) + GST 0.0625
+India,2024,0.0607,0.1615,fit,FADA; FAME-II/EMPS 0.099 + GST 0.0625
+India,2025,0.0631,0.0945,fit,FADA; PM E-DRIVE 0.053 + GST 0.0625 - ICE GST cut 0.021
+Indonesia,2020,0.00058,0.0,fit,SRUT/AISI derived
+Indonesia,2021,0.00209,0.0,fit,SRUT/AISI derived
+Indonesia,2022,0.00329,0.0,fit,SRUT/AISI derived
+Indonesia,2023,0.01001,0.26,fit,SRUT/AISI derived; IDR 7 M subsidy from 20 Mar (0.33 x 0.78)
+Indonesia,2024,0.01217,0.33,fit,SRUT/AISI derived; subsidy all year
+Indonesia,2025,0.00859,0.0,fit,SRUT/AISI derived; no subsidy
+Kenya,2021,0.0005,0.0,fit,KNBS ES2025 (144 of 285203 new motorcycles)
+Kenya,2023,0.0362,0.105,fit,KNBS/CleanTechnica derived; VAT and excise relief from 1 Jul (0.21 x 0.5)
+Kenya,2024,0.0411,0.21,fit,KNBS ES2026 revised denominator
+Kenya,2025,0.1046,0.21,fit,KNBS ES2026 (provisional)
+Vietnam,2019,0.054,0.0,check,ICCT estimate (no national purchase incentive)
+Vietnam,2020,0.085,0.0,check,ICCT estimate
+Vietnam,2021,0.103,0.0,check,ICCT summary (288k of 2.8M)
+Vietnam,2023,0.09,0.0,check,IEA estimate
+Vietnam,2024,0.1,0.0,check,IEA estimate
+Bangladesh,2025,0.0002,0.0,check,BRTA cumulative EV registrations to 13 Mar 2025 vs 2022-2024 motorcycle registrations (derived)

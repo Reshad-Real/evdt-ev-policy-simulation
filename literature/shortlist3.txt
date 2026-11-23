@@ -1,0 +1,91 @@
+
+===== AF =====
+2026|c3   |WEVJ                  |A Validated Physics-Based Powertrain Model for an Electric Motorcycle in Sub-Saharan Africa|10.3390/wevj17020090
+2026|c0   |African Transport Stud|From fuel to electric: Mobility patterns and perceptions of commercial motorcycle operators |10.1016/j.aftran.2026.100092
+2026|c0   |Energy Policy         |Policy's role in electricity access progress in Sub-Saharan Africa|10.1016/j.enpol.2026.115184
+2026|c0   |Nat Commun            |Assessing grid affordability for universal electricity access in Sub-Saharan Africa|10.1038/s41467-026-75104-7
+2025|c7   |Energy Policy         |Rural electrification in sub-Saharan Africa: A willingness to pay analysis of electricity ac|10.1016/j.enpol.2025.114720
+2025|c2   |The Electricity Journa|From screens to grids: A web scrapping analysis of electricity access in sub-Saharan Africa|10.1016/j.tej.2025.107472
+2025|c1   |WEVJ                  |Electric Bus Depot Charging in South Africa: Lessons for Grid Integration|10.3390/wevj16110627
+2025|c0   |Energies              |An Electric Vehicle Conversion for Rural Mobility in Sub-Saharan Africa|10.3390/en18246625
+2024|c31  |Sustainable Futures   |Access to electricity and income inequality in sub-Saharan Africa: An exploratory review|10.1016/j.sftr.2024.100361
+2024|c12  |Energies              |A Study on Electric Vehicle Footprint in South Africa|10.3390/en17236086
+2024|c6   |The Electricity Journa|Coup d’état and access to electricity in sub-Saharan Africa|10.1016/j.tej.2024.107406
+2023|c19  |World Development Pers|Short-run effects of grid electricity access on rural non-farm entrepreneurship and employme|10.1016/j.wdp.2022.100473
+2023|c3   |WEVJ                  |Assessment of an Electric Vehicle Drive Cycle in Relation to Minimised Energy Consumption wi|10.3390/wevj14110302
+2022|c67  |New Political Economy |New frontiers of electricity capital: energy access in sub-Saharan Africa|10.1080/13563467.2022.2084524
+2022|c16  |Scientific African    |What's new in the drivers of electricity access in sub-Saharan Africa?|10.1016/j.sciaf.2022.e01414
+2022|c4   |SN Bus Econ           |Does financial development improve access to electricity in sub-Saharan Africa?|10.1007/s43546-022-00324-0
+2022|c0   |SSRN Journal          |Development of Minimum Energy Consumption Electric Vehicle Drive Cycle Suitable for Addis Ab|10.2139/ssrn.4273816
+2021|c39  |WEVJ                  |Socio-Economic Barriers to Adoption of Electric Vehicles in South Africa: Case Study of the |10.3390/wevj12040167
+2021|c35  |Energy Policy         |The costs of providing access to electricity in selected countries in Sub-Saharan Africa and|10.1016/j.enpol.2020.111935
+
+===== BD =====
+2026|c7   |Energy Reports        |Optimizing renewable energy based hybrid microgrids for EV charging and hydrogen production |10.1016/j.egyr.2026.109097
+2026|c5   |Energy Conversion and |A sustainable Off-Grid electric vehicle charging model using distributed energy resources fo|10.1016/j.enconman.2025.120519
+2026|c1   |Energy Conversion and |Performance evaluation of a 20-kW solar-powered EV charging station in Bangladesh: a post co|10.1016/j.ecmx.2025.101510
+2026|c0   |Energy Policy         |Solar microgrids at the grid edge: Long-term economic impacts of grid integration in rural B|10.1016/j.enpol.2026.115340
+2026|c0   |Energy Conversion and |A techno-economic assessment of grid sell-back rate to maximize the rooftop solar integratio|10.1016/j.ecmx.2025.101411
+2026|c0   |Air Qual Atmos Health |Characterizing indoor air quality, assessing health risk and identifying factors affecting s|10.1007/s11869-026-01940-7
+2026|c0   |Results in Engineering|Multi-criteria sustainability assessment of renewable-based electric vehicle charging and hy|10.1016/j.rineng.2026.111815
+2026|c0   |Energy Strategy Review|Towards sustainable transportation: Optimizing hybrid renewable energy systems for EV chargi|10.1016/j.esr.2026.102126
+2025|c13  |Energy Reports        |Investigate the implementation of smart grid-integrated renewable distributed generation for|10.1016/j.egyr.2025.01.083
+2025|c10  |Discov Sustain        |Solar energy integration in off-grid communities: empowering remote areas in Bangladesh for |10.1007/s43621-025-01214-9
+2025|c7   |Renewable Energy      |Transforming aid-funded renewable energy systems: A case study of policy-driven financial su|10.1016/j.renene.2025.122752
+2025|c7   |Environmental Innovati|Policy coherence of low-emission transport transition in the Global South: The case of Dhaka|10.1016/j.eist.2025.100967
+2025|c3   |Energy Reports        |Decarbonizing tourism hubs in Bangladesh: A PV/wind/grid hybrid system for EV charging and h|10.1016/j.egyr.2025.11.094
+2025|c2   |Earth                 |Shifting Electricity Demand Under Temperature Extremes in Bangladesh|10.3390/earth6040127
+2025|c2   |Energy Conversion and |Cost-benefit and net zero impact analysis of PV-grid-battery systems for EV charging station|10.1016/j.ecmx.2025.101256
+2025|c0   |Engineering Reports   |Pedal Charger for Three‐Wheeler Battery Charging in Bangladesh|10.1002/eng2.70387
+2024|c12  |Solar Compass         |Assessing economic viability and environmental impact of solar-powered EV charging station i|10.1016/j.solcom.2024.100091
+2024|c10  |WEVJ                  |Life Cycle Cost Assessment of Electric, Hybrid, and Conventional Vehicles in Bangladesh: A C|10.3390/wevj15050183
+2024|c10  |Energy Strategy Review|Energy in Bangladesh: From scarcity to universal access|10.1016/j.esr.2024.101490
+2024|c7   |Indoor Environments   |Characterizing indoor air quality and identifying factors influencing air quality at home mi|10.1016/j.indenv.2024.100056
+2024|c3   |Renewable Energy      |Geographical variations in woodfuel supply and trade in northeastern Bangladesh|10.1016/j.renene.2024.120004
+2024|c0   |SSRN Journal          |The Economic Impact of Natural Gas and Electricity Subsidy Reforms in Bangladesh|10.2139/ssrn.4846132
+2024|c0   |SSRN Journal          |An Evaluation of the Environmental Impacts and Economic Performance of Automotive Battery Re|10.2139/ssrn.4977603
+2023|c19  |Energy Reports        |Integrated life cycle sustainability assessment of the electricity generation sector in Bang|10.1016/j.egyr.2023.10.041
+2023|c15  |Energy Economics      |Tracking economic fluctuations with electricity consumption in Bangladesh|10.1016/j.eneco.2023.106740
+2023|c1   |Air Qual Atmos Health |Traffic influenced respiratory deposition of particulate polycyclic aromatic hydrocarbons ov|10.1007/s11869-023-01477-z
+2023|c0   |SSRN Journal          |The Causality Between Electricity Consumption and GDP: Evidence From Bangladesh|10.2139/ssrn.4642004
+2023|c0   |Air Qual Atmos Health |Spatial assessment of the seasonal impact of brickfields on air pollution in Dhaka metropoli|10.1007/s11869-023-01345-w
+2022|c219 |Renewable Energy      |Renewable and non-renewable energy consumption in Bangladesh: The relative influencing profi|10.1016/j.renene.2021.12.020
+2022|c37  |Renewable Energy      |Household-based factors affecting uptake of biogas plants in Bangladesh: Implications for su|10.1016/j.renene.2022.05.135
+2022|c4   |SSRN Journal          |Current Energy Crisis and Energy Insecurity Situation In Bangladesh|10.2139/ssrn.4190603
+2022|c0   |SSRN Journal          |Tracking Economic Fluctuations in Bangladesh with Electricity Consumption|10.2139/ssrn.4091279
+2021|c309 |Renewable Energy      |Clean energy, population density, urbanization and environmental pollution nexus: Evidence f|10.1016/j.renene.2021.03.103
+2021|c90  |Renewable Energy      |Purchase intention of renewable energy technology in rural areas in Bangladesh: Empirical ev|10.1016/j.renene.2021.01.125
+2021|c58  |Energy Strategy Review|Towards energy sustainability: Bangladesh perspectives|10.1016/j.esr.2021.100738
+2021|c24  |Aerosol Air Qual. Res.|A Meteorology Based Particulate Matter Prediction Model for Megacity Dhaka|10.4209/aaqr.2020.07.0371
+2021|c21  |Energy                |Determinants of off-grid electrification choice and expenditure: Evidence from Bangladesh|10.1016/j.energy.2020.119578
+2021|c16  |Aerosol Air Qual. Res.|Assessing the Relationship between COVID-19, Air Quality, and Meteorological Variables: A Ca|10.4209/aaqr.200609
+2021|c0   |SSRN Journal          |Introduction to Renewable Energy in Bangladesh|10.2139/ssrn.3821764
+2021|c0   |The Electricity Journa|Impact of COVID-19 on dispatch and capacity plan: A case study for Bangladesh|10.1016/j.tej.2021.106955
+
+===== SA =====
+2026|c0   |Next Energy           |CALCOM: An integrated techno-economic and life-cycle environmental framework for electric ve|10.1016/j.nxener.2026.100841
+2025|c0   |JAET                  |Optimizing the Financial Risk Management Strategies in Water Supply Projects in Sri Lanka|10.54389/ebyb2739
+2024|c0   |SLIIT BR              |Effect of Social Media Influencers’ Attributes on Customer Purchasing Behavior in Sri Lankan|10.54389/zmpd4380
+2023|c18  |WEVJ                  |Adoption of Electric Motorcycles in Pakistan: A Technology Acceptance Model Perspective|10.3390/wevj14100278
+2023|c11  |Energies              |Which Policies and Factors Drive Electric Vehicle Use in Nepal?|10.3390/en16217428
+2022|c94  |Journal of Cleaner Pro|Comparative life cycle assessment of conventional combustion engine vehicle, battery electri|10.1016/j.jclepro.2022.134407
+2022|c60  |Cleaner and Responsibl|Electric vehicle development in Pakistan: Predicting consumer purchase intention|10.1016/j.clrc.2022.100065
+2022|c53  |Regional Sustainabilit|Charging infrastructure planning for electric vehicle in India: Present status and future ch|10.1016/j.regsus.2022.11.008
+2022|c1   |SSRN Journal          |Factors Affecting Electric Vehicle Acceptance, Energy Demand and Co2 Emissions in Pakistan|10.2139/ssrn.4153365
+
+===== SEA =====
+2026|c0   |WEVJ                  |Battery Electric Vehicle Readiness in Thailand, Lao PDR, and Vietnam: A Demand–Supply Assess|10.3390/wevj17060280
+2026|c0   |Innovation and Develop|The electric vehicle transition as a green window of opportunity? The case of Vietnam|10.1080/2157930x.2026.2619819
+2026|c0   |WEVJ                  |Rooftop Photovoltaics as Negative Load to Mitigate Electric Vehicle Charging Peaks in Jamali|10.3390/wevj17020085
+2025|c9   |WEVJ                  |Factors Influencing Electric Motorcycle Adoption in Indonesia: Comprehensive Psychological, |10.3390/wevj16020106
+2025|c2   |IJSDP                 |Perceived Value and Other Predictors of Electric Vehicle Adoption in the Philippines|10.18280/ijsdp.200418
+2024|c31  |WEVJ                  |Technological, Environmental, Economic, and Regulation Barriers to Electric Vehicle Adoption|10.3390/wevj15090422
+2024|c11  |WEVJ                  |Marketing Strategy and Preference Analysis of Electric Cars in a Developing Country: A Persp|10.3390/wevj15030111
+2024|c9   |WEVJ                  |A Data-Driven Analysis of Electric Vehicle Adoption Barriers in the Philippines: Combining S|10.3390/wevj15110519
+2024|c8   |WEVJ                  |Consumer Segmentation and Market Analysis for Sustainable Marketing Strategy of Electric Veh|10.3390/wevj15070301
+2024|c5   |Contemporary Social Sc|Electric vehicle adoption in Vietnam: usefulness and pro-environmentalism in an emerging mar|10.1080/21582041.2024.2427754
+2024|c3   |WEVJ                  |Investment Decision-Making to Select Converted Electric Motorcycle Tests in Indonesia|10.3390/wevj15080334
+2024|c3   |WEVJ                  |Service Quality and Behavioral Intention Analysis of Passengers on Small Electric Public Tra|10.3390/wevj15100475
+2023|c4   |WEVJ                  |Assessment of the On-Road Performance of Hybrid Electric Vehicles (HEVs) and Electric Vehicl|10.3390/wevj14120333
+2021|c50  |WEVJ                  |Barriers and Drivers of Transition to Sustainable Public Transport in the Philippines|10.3390/wevj12010046
+2021|c22  |WEVJ                  |Agent-Based Modeling Framework for Electric Vehicle Adoption Transition in Indonesia|10.3390/wevj12020073

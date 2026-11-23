@@ -1,0 +1,71 @@
+{
+ "_comment": "Documented departures from the publisher-deposited Crossref record. refs.json stays a faithful copy of Crossref; these overrides are applied only when the reference list is rendered, so every deviation is auditable. The Nature Communications entry previously carried a volume and article number inferred from incomplete metadata; Crossref re-deposited the record on 2026-08-16 with volume 17, issue 1 and article number 8455, so the override was removed and the publisher record is used.",
+ "cyb-ocpp": {
+  "authors": [
+   "Alcaraz C",
+   "Cumplido J",
+   "Triviño A"
+  ],
+  "why": "Crossref deposits the third author as 'Trivin̄o' (n plus a combining macron). The author's name is Triviño (n with tilde), as printed on the article and on the author's institutional page.",
+  "authors_ieee": [
+   "C. Alcaraz",
+   "J. Cumplido",
+   "A. Triviño"
+  ]
+ },
+ "held-1997": {
+  "why": "Crossref dates the IEEE Xplore deposit (2002); the conference was held in Singapore in May 1997.",
+  "year": 1997,
+  "proceedings": "Proc. 2nd Int. Conf. Power Electronics and Drive Systems (PEDS)"
+ },
+ "liu-2016": {
+  "why": "Conference name in IEEE abbreviated proceedings form.",
+  "proceedings": "Proc. IEEE Energy Conversion Congr. Expo. (ECCE)"
+ },
+ "ornl-prius-2011": {
+  "why": "OSTI deposits the report with OSTI as publisher; the issuing laboratory, place and report number are those printed on the report.",
+  "org": "Oak Ridge National Laboratory",
+  "place": "Oak Ridge, TN, USA",
+  "number": "ORNL/TM-2010/253"
+ },
+ "hwang-yoon-1981": {
+  "why": "Book chapter. Crossref deposits the series (Lecture Notes in Economics and Mathematical Systems) as the container title; IEEE style cites the chapter in the book, with the series and volume after it. Book title, series volume 186 and publisher city are from the Springer book page for ISBN 978-3-540-10558-9.",
+  "book_title": "Multiple Attribute Decision Making: Methods and Applications",
+  "series": "Lecture Notes in Economics and Mathematical Systems, vol. 186",
+  "city": "Berlin, Germany",
+  "publisher_short": "Springer"
+ },
+ "dt-fleet-charging": {
+  "authors": [
+   "Pandey AK",
+   "Amitha B",
+   "Krishnamurthy NK"
+  ],
+  "why": "Crossref deposits the second author as family 'B.' and given 'Amitha', an Indian convention in which the inherited name is a single initial. Rendered mechanically this gives 'B. A', which reads as a typographic error. The indexed and displayed form of the name is 'Amitha B'. In the journal's initials-first style the mechanical conversion would give 'A. B.', so the displayed name 'Amitha B.' is used.",
+  "authors_display": [
+   "A.K. Pandey",
+   "Amitha B.",
+   "N.K. Krishnamurthy"
+  ],
+  "authors_ieee": [
+   "A. K. Pandey",
+   "Amitha B.",
+   "N. K. Krishnamurthy"
+  ]
+ },
+ "rasmussen-2006": {
+  "why": "Crossref types the book as a monograph with the online-edition date (Nov. 2005); IEEE style for a book is italic title, city, publisher and the print year 2006.",
+  "city": "Cambridge, MA, USA",
+  "publisher_short": "MIT Press",
+  "year": 2006
+ },
+ "das-1994": {
+  "why": "Crossref deposits only the first page (291); the article spans pp. 291-298, as printed.",
+  "page": "291-298"
+ },
+ "kersting-2001": {
+  "why": "Crossref gives the full proceedings volume title with its catalogue number and the 2002 deposit year; the meeting and its proceedings are of 2001.",
+  "proceedings": "Proc. IEEE Power Eng. Soc. Winter Meeting",
+  "year": 2001
+ }
+}

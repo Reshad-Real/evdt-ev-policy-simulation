@@ -1,0 +1,16 @@
+quantity,unit,model_value,band_low,band_high,within_band,references
+"Traction inverter, Si IGBT, weighted efficiency",-,0.9744691118091616,0.96,0.985,True,"pe-traction-inv-review, pe-loss-rt"
+"Traction inverter, SiC MOSFET, weighted efficiency",-,0.9867070190395362,0.975,0.993,True,"pe-sic-loss-datasheet, pe-sic-module-thermal"
+"On-board charger PFC stage, GaN, weighted efficiency",-,0.9817343941563139,0.965,0.992,True,"pe-obc-totem, pe-gan-ev"
+"DC fast charger front end, SiC, weighted efficiency",-,0.987836848457763,0.96,0.99,True,"pe-sic-fcs, pe-hv-station"
+"Traction inverter power density, SiC",kW/L,13.745386615135102,8.0,40.0,True,"pe-traction-inv-review, pe-gan-dcdc-opt"
+"Passenger-car specific consumption (developed, 2035)",Wh/km,174.03799287194826,110.0,220.0,True,"meth-driving-energy, meth-temp-trip"
+"Electric two-wheeler consumption (developing, 2035)",Wh/km,26.766812100037885,20.0,60.0,True,"ldc-ssa-moto-model, dev-in-2w"
+"Electric three-wheeler consumption (developing, 2035)",Wh/km,95.91912676617837,50.0,140.0,True,bd-3w
+"Low-voltage (60 V) drive inverter, weighted efficiency",-,0.977478749186765,0.93,0.985,True,"pe-48v-module, ldc-ssa-moto-model"
+"Distribution network loss fraction (developed, 2035)",-,0.004577555546422272,0.02,0.09,False,grid-infra-impact
+"Distribution network loss fraction (developing, 2035)",-,0.03146182269096197,0.02,0.14,True,"grid-infra-impact, ldc-minigrid-rel"
+"Minimum feeder voltage (developed, 2035)",pu,1.0019211281310885,0.94,1.06,True,grid-der-standards
+Voltage total harmonic distortion at PCC,-,0.00017954764642186803,0.0,0.05,True,grid-harmonic-std
+NMC pack years to 80 % state of health at 25 C,yr,12.084138479967795,8.0,16.0,True,"batt-fade-realveh, batt-calendar"
+Additional annual fade from vehicle-to-grid duty,%/yr,0.4831187657054914,0.05,1.2,True,"batt-v2g-degr, batt-v2g-degr-model"

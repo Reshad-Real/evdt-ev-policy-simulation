@@ -1,0 +1,12 @@
+# Core model dependencies. Versions are those used to produce the results of
+# release v2.0; the code targets the stable public API of each package and is
+# not pinned to these exact versions.
+numpy>=1.26,<3          # 2.5.5 used
+scipy>=1.11,<2          # 1.18.1 used
+pandas>=2.0,<4          # 3.1.1 used
+matplotlib>=3.8,<4      # 3.11.2 used
+scikit-learn>=1.3,<2    # 1.9.1 used
+
+# Optional, for the document build chain only.
+# pandoc is an external binary (https://pandoc.org), not a Python package.
+pywin32; sys_platform == "win32"   # DOCX -> PDF through Microsoft Word

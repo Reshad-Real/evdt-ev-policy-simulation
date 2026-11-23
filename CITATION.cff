@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "evdt: electric-vehicle policy simulation with device-level power electronics"
+version: "2.0.0"
+message: >-
+  If you use this software or the datasets it produces, please cite the
+  associated article.
+type: software
+authors:
+  - family-names: "Al Muttaki"
+    given-names: "Md. Reshad"
+    email: realreshad@gmail.com
+    affiliation: >-
+      Department of Electrical and Electronic Engineering, BSRM School of
+      Engineering, BRAC University, Dhaka, Bangladesh
+  - family-names: Anil
+    given-names: "Alvi Ibn Amzad"
+    affiliation: >-
+      Department of Electrical and Electronic Engineering, BSRM School of
+      Engineering, BRAC University, Dhaka, Bangladesh
+  - family-names: Afrin
+    given-names: Sadia
+    affiliation: >-
+      Department of Electrical and Electronic Engineering, BSRM School of
+      Engineering, BRAC University, Dhaka, Bangladesh
+  - family-names: Hasan
+    given-names: Shameem
+    affiliation: >-
+      Department of Electrical and Electronic Engineering, BSRM School of
+      Engineering, BRAC University, Dhaka, Bangladesh
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    Device-Level Power-Electronics Modeling in Electric-Vehicle Policy
+    Assessment: A Calibrated Simulation Across Development Contexts
+  authors:
+    - family-names: "Al Muttaki"
+      given-names: "Md. Reshad"
+    - family-names: Anil
+      given-names: "Alvi Ibn Amzad"
+    - family-names: Afrin
+      given-names: Sadia
+    - family-names: Hasan
+      given-names: Shameem
+  # Under review. Add journal, year, volume, pages and DOI once the article is
+  # published.

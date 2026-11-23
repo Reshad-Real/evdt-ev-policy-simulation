@@ -1,0 +1,11 @@
+[design] underdeveloped: 307 + 60 test simulations
+    design: 50/307
+    design: 100/307
+    design: 150/307
+    design: 200/307
+    design: 250/307
+    design: 300/307
+    test: 50/60
+[surrogate] underdeveloped ...
+[nsga2] underdeveloped ...
+underdeveloped done in 2511 s
